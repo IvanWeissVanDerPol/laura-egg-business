@@ -12,26 +12,48 @@
 
 ## Estructura del Proyecto
 
-```
-laura-egg-business/
-├── README.md                          ← Este archivo
-├── research/
-│   ├── historical_prices.md          ← Precios huevos Paraguay 30 años
-│   ├── market_research.md             ← Clientes y competidores Oviedo
-│   ├── tech_upgrades.md               ← Tecnología para granjas pequeñas
-│   ├── global_benchmark.md            ← Granjas similares en el mundo
-│   └── pro_tips.md                    ← Consejos de expertos avícolas
-├── ideas/
-│   ├── premium_products.md            ← 12 ideas para productos premium
-│   ├── spent_hens_products.md         ← Productos de gallinas viejas
-│   ├── premium_egg_products.md        ← Productos de huevo premium
-│   └── byproducts_guide.md            ← Estiércol, cáscaras, plumas
-└── templates/
-    ├── quick_start_guide.md           ← Guía de inicio 48 horas
-    ├── weekly_sales_template.md       ← Seguimiento de ventas
-    ├── client_database.md             ← Base de datos clientes
-    └── monthly_financial_tracking.md  ← Control financiero
-```
+## Potencial de Ingresos (Proyección 2026)
+
+### Solo Huevos (100 gallinas)
+| Canal | Gs/mes | Gs/año |
+|-------|--------|--------|
+| Venta directa (G. 15,000/doc) | 3,600,000 | 43,200,000 |
+| Premium + delivery (G. 18,000/doc) | 4,320,000 | 51,840,000 |
+
+### Solo Subproductos
+| Producto | Gs/año |
+|---------|--------|
+| Cecinia (gallinas viejas) | 3,500,000-4,000,000 |
+| Compost/estiércol | 1,000,000-2,000,000 |
+| Cascaras de huevo | 400,000-800,000 |
+| Plumas | 300,000-500,000 |
+| **Total subproductos** | **5,200,000-7,300,000** |
+
+### Total Potencial Combinado
+**G. 48-59 millones/año** = **G. 4-5 millones/mes**
+
+vs. ingreso actual estimado ~G. 1.2 millones/mes
+
+---
+
+## Quick Start — Por Dónde Empezar
+
+### Esta Semana
+1. 📱 Instalar WhatsApp Business en el celular de Laura
+2. 💡 Comprar timer LED para el gallinero (G. 40,000)
+3. 📸 Tomar 20 fotos bonitas de huevos y gallinas
+
+### Esta Semana (contactos)
+4. 📞 Llamar/whatsappear a DECO (+595 975 929216)
+5. 👨‍👩‍👧 Contactar 3 familias conocidas
+
+### Este Mes
+6. 📦 Elegir nombre de marca + crear logo (Canva gratis)
+7. 🥚 Producir primera tanda de cecinia (probar con la familia)
+8. 💬 Crear grupo "Clientes Premium" en WhatsApp
+
+---
+
 
 ---
 
@@ -95,6 +117,19 @@ Convertir la granja familiar en una **marca reconocida de huevos premium** en Co
 4. [ ] Registrar en Registro Industrial (mínimo)
 5. [ ] Conseguir 3 restaurantes como clientes
 6. [ ] Implementar programa de lealtad simple
+
+---
+
+## Fuentes de Verdad (Sources)
+
+Este proyecto tiene un sistema de **trazabilidad de información**:
+
+- `sources/INDEX.md` → Índice maestro con TODOS los links y citations
+- `sources/raw/*.md` → Datos originales con fuentes verificadas por tema
+- `data/key-numbers.md` → Todos los números del proyecto en un lugar
+- `data/whatsapp-facts.md` → Datos extraídos del chat de WhatsApp de Laura
+
+**Regla:** Cada afirmación en este proyecto debe poder rastrearse a una fuente en `sources/`.
 
 ---
 
