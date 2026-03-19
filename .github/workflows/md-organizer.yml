@@ -1,0 +1,281 @@
+# ============================================
+# Granja Cabral - Markdown Organization Workflow
+# ============================================
+# Runs automatically on push to main and weekly
+# Ensures markdown files stay organized and professional
+
+name: 📁 MD Organizer
+
+on:
+  # Run on push to main branch
+  push:
+    branches: [main, master]
+    paths:
+      - '**/*.md'
+      - '.github/workflows/md-organizer.yml'
+      - '.github/scripts/organize-md.py'
+  
+  # Run on PR to main (check-only mode)
+  pull_request:
+    branches: [main, master]
+    paths:
+      - '**/*.md'
+  
+  # Run weekly on Sunday at 8am UTC
+  schedule:
+    - cron: '0 8 * * 0'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run mode (preview only)'
+        required: false
+        default: 'false'
+        type: boolean
+      archive_days:
+        description: 'Days before archiving files (0 = never)'
+        required: false
+        default: '180'
+        type: string
+      max_files:
+        description: 'Max files per folder before subgrouping'
+        required: false
+        default: '8'
+        type: string
+
+# Permissions
+permissions:
+  contents: write
+  pull-requests: write
+
+# Cancel any previous runs
+concurrency:
+  group: md-organizer-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # ============================================
+  # JOB 1: Validate Markdown Structure
+  # ============================================
+  validate:
+    name: 📋 Validate Structure
+    runs-on: ubuntu-latest
+    outputs:
+      needs_organization: ${{ steps.check.outputs.needs_organization }}
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: 📊 Run validation check
+        id: check
+        run: |
+          echo "🔍 Checking markdown structure..."
+          python .github/scripts/organize-md.py --check-only --max-files 8
+          echo "needs_organization=false" >> $GITHUB_OUTPUT
+        continue-on-error: true
+      
+      - name: ⚠️ Mark if organization needed
+        if: failure()
+        run: |
+          echo "needs_organization=true" >> $GITHUB_OUTPUT
+          echo "⚠️ Organization is needed!"
+      
+      - name: 📈 Generate file statistics
+        run: |
+          echo "📊 Repository Statistics"
+          echo "======================="
+          echo "Total MD files: $(find . -name '*.md' -not -path './.git/*' | wc -l)"
+          echo ""
+          echo "Files per directory:"
+          for dir in 01_* 02_* 03_* 04_* 05_* 06_* 07_* 08_* 09_* sources; do
+            if [ -d "$dir" ]; then
+              count=$(find "$dir" -name '*.md' -not -name 'INDEX.md' | wc -l)
+              if [ $count -gt 8 ]; then
+                echo "  ⚠️ $dir: $count files (NEEDS ORGANIZATION)"
+              else
+                echo "  ✅ $dir: $count files"
+              fi
+            fi
+          done
+
+  # ============================================
+  # JOB 2: Auto-Organize (on push to main)
+  # ============================================
+  organize:
+    name: 🔄 Auto-Organize
+    runs-on: ubuntu-latest
+    needs: validate
+    if: github.event_name == 'push' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: 📁 Run organization script
+        id: organize
+        env:
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+          ARCHIVE_DAYS: ${{ inputs.archive_days || '180' }}
+          MAX_FILES: ${{ inputs.max_files || '8' }}
+        run: |
+          echo "🔧 Running organization..."
+          
+          ARGS=""
+          if [ "$DRY_RUN" = "true" ]; then
+            ARGS="--dry-run"
+            echo "⚠️ DRY RUN MODE - No changes will be made"
+          fi
+          
+          python .github/scripts/organize-md.py \
+            --report \
+            --archive-days "$ARCHIVE_DAYS" \
+            --max-files "$MAX_FILES" \
+            $ARGS
+      
+      - name: 📊 Upload organization report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: organization-report
+          path: _archive/report-*.md
+          retention-days: 30
+      
+      - name: 📤 Commit changes
+        if: success() && github.event_name != 'workflow_dispatch' && inputs.dry_run != true
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Granja Cabral Bot"
+          
+          # Check if there are changes
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "✅ No changes to commit"
+          else
+            git add -A
+            git commit -m "📁 Auto-organize markdown files
+
+            - Auto-generated INDEX.md updates
+            - File archiving and subgrouping
+            - Triggered by: ${{ github.event_name }}
+            - Run: ${{ github.run_number }}"
+            
+            git push
+            echo "✅ Changes committed and pushed"
+          fi
+      
+      - name: 📝 Create summary
+        if: always()
+        run: |
+          echo "## 📊 Organization Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Files archived | ${{ steps.organize.outputs.archived || '0' }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Subgroups created | ${{ steps.organize.outputs.subgrouped || '0' }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| INDEX files updated | ${{ steps.organize.outputs.index_updated || '0' }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Trigger | ${{ github.event_name }} |" >> $GITHUB_STEP_SUMMARY
+
+  # ============================================
+  # JOB 3: PR Check (comment on PR)
+  # ============================================
+  pr-check:
+    name: 🔍 PR Check
+    runs-on: ubuntu-latest
+    needs: validate
+    if: github.event_name == 'pull_request'
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+      
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: 🔍 Check PR changes
+        id: pr_check
+        run: |
+          echo "Checking PR for markdown organization..."
+          
+          # Get changed MD files in PR
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep '\.md$' || true)
+          
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No markdown files changed"
+            echo "status=clean" >> $GITHUB_OUTPUT
+          else
+            echo "Changed files:"
+            echo "$CHANGED_FILES"
+            
+            # Check if any folder now exceeds max files
+            ISSUES=""
+            for file in $CHANGED_FILES; do
+              dir=$(dirname "$file")
+              count=$(find "$dir" -maxdepth 1 -name '*.md' -not -name 'INDEX.md' | wc -l)
+              if [ $count -gt 8 ]; then
+                ISSUES="${ISSUES}- ⚠️ \`$dir\`: $count files (exceeds limit of 8)\n"
+              fi
+            done
+            
+            if [ -n "$ISSUES" ]; then
+              echo "status=warning" >> $GITHUB_OUTPUT
+              echo "issues<<EOF" >> $GITHUB_OUTPUT
+              echo -e "$ISSUES" >> $GITHUB_OUTPUT
+              echo "EOF" >> $GITHUB_OUTPUT
+            else
+              echo "status=clean" >> $GITHUB_OUTPUT
+            fi
+          fi
+      
+      - name: 💬 Comment on PR
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const status = '${{ steps.pr_check.outputs.status }}';
+            let body = '';
+            
+            if (status === 'warning') {
+              body = `## 📁 Organization Check - Warning ⚠️
+              
+              Some folders have exceeded the file limit and need organization:
+              
+              ${{ steps.pr_check.outputs.issues }}
+              
+              **Recommendation**: Run organization before merging or run:
+              \`\`\`bash
+              python .github/scripts/organize-md.py --dry-run
+              \`\`\`
+              
+              > This PR will still be merged, but the next auto-organization run will restructure these folders.`;
+            } else {
+              body = `## ✅ Organization Check - Passed
+              
+              All markdown folders are within limits. Nice work! 🎉`;
+            }
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: body
+            });
