@@ -10,6 +10,31 @@
 
 ---
 
+## Estructura del Proyecto
+
+```
+laura-egg-business/
+├── README.md                          ← Este archivo
+├── research/
+│   ├── historical_prices.md          ← Precios huevos Paraguay 30 años
+│   ├── market_research.md             ← Clientes y competidores Oviedo
+│   ├── tech_upgrades.md               ← Tecnología para granjas pequeñas
+│   ├── global_benchmark.md            ← Granjas similares en el mundo
+│   └── pro_tips.md                    ← Consejos de expertos avícolas
+├── ideas/
+│   ├── premium_products.md            ← 12 ideas para productos premium
+│   ├── spent_hens_products.md         ← Productos de gallinas viejas
+│   ├── premium_egg_products.md        ← Productos de huevo premium
+│   └── byproducts_guide.md            ← Estiércol, cáscaras, plumas
+└── templates/
+    ├── quick_start_guide.md           ← Guía de inicio 48 horas
+    ├── weekly_sales_template.md       ← Seguimiento de ventas
+    ├── client_database.md             ← Base de datos clientes
+    └── monthly_financial_tracking.md  ← Control financiero
+```
+
+---
+
 ## Situación Actual
 
 ### Lo que ya tienen:
@@ -19,6 +44,7 @@
 - ✅ Kevin para entregas
 - ✅ Precios establecidos: 12k-16k Gs/docena
 - ✅ Seguimiento en Excel desde 2024
+- ✅ Excel de ventas 01 jun - 26 dic 2024
 
 ### Lo que falta:
 - ❌ Marca registrada
@@ -26,6 +52,7 @@
 - ❌ Certificaciones
 - ❌ Clientes institucionales (restaurantes, hoteles)
 - ❌ Estrategia de precios premium
+- ❌ Subproductos (cecinia, compost, estiércol)
 
 ---
 
