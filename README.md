@@ -1,150 +1,127 @@
-# 🥚 Granja Cabral - Plan de Negocio para Huevos Premium
+# 🐔 GRANJA CABRAL — Coronel Oviedo, Paraguay
 
-## Resumen Ejecutivo
-
-**Nombre:** Granja Cabral (o elegir marca)
-**Propietaria:** Laura Elena Cabral Valdovinos
-**Ubicación:** Coronel Oviedo, Caaguazú, Paraguay
-**Producto Principal:** Huevos de gallina criados en libertad
-**Fecha:** Marzo 2026
+> **Sistema de gestión documental para granja avícola de huevos frescos**
+> **Versión:** 2.0 — Reorganizado Marzo 2026
+> **Propósito:** Centralizar información, planificar y ejecutar operaciones
 
 ---
 
-## Estructura del Proyecto
-
-## Potencial de Ingresos (Proyección 2026)
-
-### Solo Huevos (100 gallinas)
-| Canal | Gs/mes | Gs/año |
-|-------|--------|--------|
-| Venta directa (G. 15,000/doc) | 3,600,000 | 43,200,000 |
-| Premium + delivery (G. 18,000/doc) | 4,320,000 | 51,840,000 |
-
-### Solo Subproductos
-| Producto | Gs/año |
-|---------|--------|
-| Cecinia (gallinas viejas) | 3,500,000-4,000,000 |
-| Compost/estiércol | 1,000,000-2,000,000 |
-| Cascaras de huevo | 400,000-800,000 |
-| Plumas | 300,000-500,000 |
-| **Total subproductos** | **5,200,000-7,300,000** |
-
-### Total Potencial Combinado
-**G. 48-59 millones/año** = **G. 4-5 millones/mes**
-
-vs. ingreso actual estimado ~G. 1.2 millones/mes
-
----
-
-## Quick Start — Por Dónde Empezar
-
-### Esta Semana
-1. 📱 Instalar WhatsApp Business en el celular de Laura
-2. 💡 Comprar timer LED para el gallinero (G. 40,000)
-3. 📸 Tomar 20 fotos bonitas de huevos y gallinas
-
-### Esta Semana (contactos)
-4. 📞 Llamar/whatsappear a DECO (+595 975 929216)
-5. 👨‍👩‍👧 Contactar 3 familias conocidas
-
-### Este Mes
-6. 📦 Elegir nombre de marca + crear logo (Canva gratis)
-7. 🥚 Producir primera tanda de cecinia (probar con la familia)
-8. 💬 Crear grupo "Clientes Premium" en WhatsApp
-
----
-
-
----
-
-## Situación Actual
-
-### Lo que ya tienen:
-- ✅ Gallinas ponedoras en producción
-- ✅ Sistema de clasificación (tamaños 1, 2, 3, Jumbo)
-- ✅ Clientes existentes (familia, amigos, Favesa)
-- ✅ Kevin para entregas
-- ✅ Precios establecidos: 12k-16k Gs/docena
-- ✅ Seguimiento en Excel desde 2024
-- ✅ Excel de ventas 01 jun - 26 dic 2024
-
-### Lo que falta:
-- ❌ Marca registrada
-- ❌ Empaque profesional
-- ❌ Certificaciones
-- ❌ Clientes institucionales (restaurantes, hoteles)
-- ❌ Estrategia de precios premium
-- ❌ Subproductos (cecinia, compost, estiércol)
-
----
-
-## Visión
-
-Convertir la granja familiar en una **marca reconocida de huevos premium** en Coronel Oviedo y alrededores, diferenciándose por:
-- Calidad superior
-- Bienestar animal
-- Trazabilidad
-- Relación directa con clientes
-
----
-
-## Objetivos 2026
-
-| Mes | Objetivo | Acción Clave |
-|-----|----------|--------------|
-| Mes 1 | Formalizar negocio | Registrar marca, crear empaque |
-| Mes 2-3 | 5 nuevos clientes | Restaurantes + familias premium |
-| Mes 4-6 | Aumentar precio 30% | Posicionamiento premium |
-| Mes 6-12 | Duplicar ingresos | Escalar producción |
-
----
-
-## Contactos Clave
-
-| Persona | Rol | Teléfono |
-|---------|-----|----------|
-| Kevin | Entregas | (empleado) |
-| Jorge | Esposo/co-propietario | - |
-| Alejandro | Soporte técnico/administrativo | +595 972 130 867 |
-
----
-
-## Próximos Pasos Inmediatos
-
-1. [ ] Elegir nombre de marca
-2. [ ] Diseñar logo simple
-3. [ ] Crear empaque básico con branding
-4. [ ] Registrar en Registro Industrial (mínimo)
-5. [ ] Conseguir 3 restaurantes como clientes
-6. [ ] Implementar programa de lealtad simple
-
----
-
-## Fuentes de Verdad (Sources)
-
-Este proyecto tiene un sistema de **trazabilidad de información**:
-
-- `sources/INDEX.md` → Índice maestro con TODOS los links y citations
-- `sources/raw/*.md` → Datos originales con fuentes verificadas por tema
-- `data/key-numbers.md` → Todos los números del proyecto en un lugar
-- `data/whatsapp-facts.md` → Datos extraídos del chat de WhatsApp de Laura
-
-**Regla:** Cada afirmación en este proyecto debe poder rastrearse a una fuente en `sources/`.
-
----
-
-## Modelo de Ingresos Objetivo
+## 📁 ESTRUCTURA DEL REPOSITORIO
 
 ```
-Producción actual: ~126 huevos/día máximo
-Producción sostenible: ~80-100 huevos/día
-
-Meta mes 6:
-- 70 docenas/semana x 18,000 Gs = 1,260,000 Gs/semana
-- 4,800,000 Gs/mes (vs ~3,000,000 actual)
+laura-egg-business/
+│
+├── 01_core_operations/          🚜 OPERACIONES DIARIAS
+│   ├── farm_management/        📋 Gestión del galpón
+│   ├── financial_tracking/     💰 Control financiero
+│   └── production_logs/        📊 Registros de producción
+│
+├── 02_products/                 📦 PRODUCTOS
+│   ├── primary/                🥚 Productos principales
+│   │   ├── eggs/              Huevos frescos
+│   │   ├── poultry/           Pollos de carne
+│   │   └── fertilizer/        Fertilizante base
+│   ├── derived/                🏭 Valor agregado
+│   │   ├── liquid_egg/        Huevo líquido
+│   │   ├── egg_powder/        Huevo en polvo
+│   │   ├── pasta_products/    Fideos con huevo
+│   │   ├── sauces/            Mayonesa/Salsas
+│   │   ├── feathers/          Productos plumas
+│   │   └── processed_poultry/ Pollo procesado
+│   └── organic_certification/ 🌱 Certificación orgánica
+│
+├── 03_sales/                   💵 VENTAS Y DISTRIBUCIÓN
+│   ├── contacts/               📇 Base de datos contactos
+│   │   ├── hotels_restaurants/
+│   │   ├── supermarkets/
+│   │   ├── bakeries/
+│   │   ├── institutions/
+│   │   └── ruta2_paradores/
+│   ├── channels/               🛒 Canales de venta
+│   └── pricing/                💲 Estrategia de precios
+│
+├── 04_supply_chain/            🔗 PROVEEDORES
+│   ├── veterinary/             🐔 Veterinarias/Granjas
+│   ├── feed_mills/             🌾 Molinos balanceados
+│   ├── equipment/              ⚙️ Equipamiento
+│   └── labor/                  👷 Mano de obra
+│
+├── 05_market_intelligence/      📊 INTELIGENCIA DE MERCADO
+│   ├── research/               🔬 Investigación
+│   ├── competitors/           🏢 Competidores
+│   └── benchmarks/             📈 Benchmarks globales
+│
+├── 06_business_plan/           📈 PLAN DE NEGOCIOS
+│   ├── strategy/               🎯 Estrategia maestra
+│   ├── financial_projections/  💹 Proyecciones
+│   └── risk_analysis/          ⚠️ Análisis de riesgos
+│
+├── 07_innovation/              💡 INNOVACIÓN
+│   ├── future_products/        🆕 Productos futuros
+│   ├── tech_upgrades/          🔧 Mejoras tecnológicas
+│   └── best_practices/         ✅ Mejores prácticas
+│
+├── 08_sustainability/          🌿 SOSTENIBILIDAD
+│   ├── composting/             ♻️ Compostaje
+│   ├── bio_energy/             ⚡ Biogás
+│   └── water_management/       💧 Gestión de agua
+│
+└── 09_references/              📚 REFERENCIAS
+    ├── templates/               📝 Plantillas
+    ├── source_data/             📂 Datos fuente (Laura)
+    └── quick_guides/           🚀 Guías rápidas
 ```
 
 ---
 
-**Creado:** Marzo 2026
-**Asesor técnico:** Alejandro Cabral
+## 🎯 EMPEZAR AQUÍ
+
+### Para Laura — Primeros pasos:
+1. 📖 Lee `09_references/quick_guides/quick_start_guide.md`
+2. 💰 Revisa `01_core_operations/financial_tracking/key-numbers.md`
+3. 📇 Contactos clave en `03_sales/contacts/`
+
+### Para expandir — Siguiente nivel:
+1. 📊 Plan maestro: `06_business_plan/strategy/MASTER_PLAN.md`
+2. 💡 Ideas: `07_innovation/`
+3. 📦 Productos derivados: `02_products/derived/`
+
+---
+
+## 📊 ESTADÍSTICAS DEL REPOSITORIO
+
+| Categoría | Archivos | Contenido |
+|-----------|----------|-----------|
+| Contactos comerciales | 50+ | 300+ negocios |
+| Productos | 15+ | Planes detallados |
+| Proveedores | 40+ |Agrovets, molinos |
+| Planes de negocio | 8+ | Fases 1-4 |
+| Plantillas | 4+ | Seguimiento |
+
+---
+
+## 🔥 PRIORIDADES INMEDIATAS
+
+### Esta semana:
+1. ⭐ **Churrasquería DECO** — Contacto existente, formalizar
+2. ⭐ **500 gallinas** — Meta inicial
+3. ⭐ **5 clientes regulares** — Base comercial
+
+### Este mes:
+1. ⭐ Break-even operativo
+2. ⭐ Segunda semana clientes
+3. ⭐ Evaluar crecimiento
+
+---
+
+## 📱 CONTACTO
+
+**Granja Cabral**
+- Ubicación: Coronel Oviedo, Paraguay
+- Coordenadas GPS: ~-25.4, -56.4
+- Zona: Ruta 2, Km 125-140
+
+---
+
+*Documentación mantenida por Sisyphus AI Agent*
+*Para Laura Cabral — Marzo 2026*
