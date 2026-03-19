@@ -1,13 +1,12 @@
-# 🐔 RAW SOURCE DATA — Technology & Tools
+# 🐔 DATOS CRUDOS FUENTE — Tecnología y Herramientas
 
-## Source Documentation
+## Documentación de Fuente
 
-All technology recommendations traced to primary sources. 
-Prices in Gs. converted from USD at ~G. 7,800/USD (March 2026).
+Todas las recomendaciones tecnológicas rastreadas a fuentes primarias. Precios en Gs. convertidos de USD a ~G. 7,800/USD (Marzo 2026).
 
 ---
 
-## 📱 FARM MANAGEMENT APPS
+## 📱 APLICACIONES DE GESTIÓN DE GRANJA
 
 ### SmartBird
 - **URL:** https://smartbirdapp.com
@@ -48,194 +47,193 @@ Prices in Gs. converted from USD at ~G. 7,800/USD (March 2026).
 
 ### Aviarai
 - **URL:** https://aviarai.com
-- **Founded:** 2025
-- **HQ:** Durham, NC (with presence in Ethiopia, Nigeria)
-- **Features:** AI-driven insights, real-time data, feed optimization
-- **Focus:** African poultry farmers
+- **Fundada:** 2025
+- **Sede:** Durham, NC (con presencia en Etiopía, Nigeria)
+- **Características:** Insights impulsados por IA, datos en tiempo real, optimización de alimento
+- **Enfoque:** Agricultores avícolas africanos
 
 ---
 
-## 🌡️ IoT & SENSORS
+## 🌡️ IoT Y SENSORES
 
-### IoT in Poultry — Academic Sources
+### IoT en Avicultura — Fuentes Académicas
 
 ```
-Title: Smart Egg Incubator Based on IoT and AI Technology
-Authors: Wahyuni, Irawan, Febriani, et al.
-Publication: ILKOM Jurnal Ilmiah
-Date: 2024
+Título: Incubadora de Huevos Inteligente Basada en IoT y Tecnología AI
+Autores: Wahyuni, Irawan, Febriani, et al.
+Publicación: ILKOM Jurnal Ilmiah
+Fecha: 2024
 URL: https://jurnal.fikom.umi.ac.id/index.php/ILKOM/article/view/1957
 
-Title: Design and Implementation of an IoT-Enabled Smart Egg Incubator
-Conference: IEEE Xplore
-Date: 2025
+Título: Diseño e Implementación de una Incubadora Inteligente Habilitada para IoT
+Conferencia: IEEE Xplore
+Fecha: 2025
 URL: https://ieeexplore.ieee.org/document/10545611/
 
-Title: Smart Egg Collection System
-Company: Guangxing Poultry Equipment Group
-Date: 2025
+Título: Sistema Inteligente de Recolección de Huevos
+Empresa: Guangxing Poultry Equipment Group
+Fecha: 2025
 URL: https://guangxiniot.com/smart-egg-collection-system/
 ```
 
-### Practical IoT for Small Farms
+### IoT Práctico para Granjas Pequeñas
 
-| Tool | Cost (Gs) | Cost (USD) | Source |
+| Herramienta | Costo (Gs) | Costo (USD) | Fuente |
 |------|----------|----------|--------|
-| Xiaomi Mi Home sensor | 80,000-120,000 | $10-15 | MercadoLibre |
-| Temperature alarm system | 150,000-250,000 | $19-32 | AliExpress |
-| Arinifu Smart Brooder | ~180 USD | ~1.4M | Kenya |
+| Sensor Xiaomi Mi Home | 80,000-120,000 | $10-15 | MercadoLibre |
+| Sistema de alarma de temperatura | 150,000-250,000 | $19-32 | AliExpress |
+| Arinifu Smart Brooder | ~180 USD | ~1.4M | Kenia |
 
-### Smart Brooder (Kenya Example)
-- **Company:** Arinifu Technologies
-- **Product:** Smart Brooder 500 (500 chick capacity)
-- **Cost:** ~$180 USD
-- **Features:** Temperature/humidity control, SMS alerts
-- **Source:** Kenya agricultural technology adoption studies
+### Incubadora Inteligente (Ejemplo Kenia)
+- **Empresa:** Arinifu Technologies
+- **Producto:** Smart Brooder 500 (capacidad 500 pollitos)
+- **Costo:** ~$180 USD
+- **Características:** Control de temperatura/humedad, alertas SMS
+- **Fuente:** Estudios de adopción de tecnología agrícola en Kenia
 
 ---
 
-## ⚡ SOLAR POWER
+## ⚡ ENERGÍA SOLAR
 
-### Coop Solar Setup (100 hens)
+### Instalación Solar para Gallinero (100 gallinas)
 
-| Component | Cost (Gs) | Cost (USD) | Source |
+| Componente | Costo (Gs) | Costo (USD) | Fuente |
 |-----------|----------|----------|--------|
-| 100W solar panel | 350,000-500,000 | $45-64 | Solar shops CdE |
-| 12V 40Ah battery | 250,000-350,000 | $32-45 | Solar shops |
-| Charge controller | 60,000-100,000 | $8-13 | Solar shops |
-| LED lights (3x) | 45,000 | $6 | Electronics stores |
+| Panel solar 100W | 350,000-500,000 | $45-64 | Tiendas solares CdE |
+| Batería 12V 40Ah | 250,000-350,000 | $32-45 | Tiendas solares |
+| Controlador de carga | 60,000-100,000 | $8-13 | Tiendas solares |
+| Luces LED (3x) | 45,000 | $6 | Tiendas electrónica |
 | **Total** | **705,000-995,000** | **$90-127** | |
 
-*Source: Solar shop price research CdE/Asunción*
+*Fuente: Investigación de precios en tiendas solares CdE/Asunción*
 
-### Smaller Solar Option (50W)
-- **Cost:** G. 300,000-400,000 ($38-51)
-- **Use:** Phone charging + 1 LED light + small water pump
-- **Source:** Solar shop research
+### Opción Solar Más Pequeña (50W)
+- **Costo:** G. 300,000-400,000 ($38-51)
+- **Uso:** Carga de celular + 1 luz LED + bomba de agua pequeña
+- **Fuente:** Investigación en tiendas solares
 
 ---
 
-## 💡 LIGHTING
+## 💡 ILUMINACIÓN
 
-### The Science
-- Hens need **14 hours of daylight** to lay optimally
-- Paraguay daylight: 10.5h (June) to 13.5h (December)
-- Gap: Up to 3.5 hours missing in winter
+### La Ciencia
+- Las gallinas necesitan **14 horas de luz del día** para poner óptimamente
+- Luz del día Paraguay: 10.5h (junio) a 13.5h (diciembre)
+- Brecha: Hasta 3.5 horas faltantes en invierno
 
-### LED Timer Setup
-| Item | Cost (Gs) | Cost (USD) |
+### Configuración Temporizador LED
+| Artículo | Costo (Gs) | Costo (USD) |
 |------|----------|----------|
-| Digital timer | 25,000-50,000 | $3-6 |
-| LED bulb 10W | 15,000 | $2 |
+| Temporizador digital | 25,000-50,000 | $3-6 |
+| Bombillo LED 10W | 15,000 | $2 |
 | **Total** | **40,000-65,000** | **$5-8** |
 
-### Impact
-- **+10-15% more eggs** in winter months
-- **ROI:** Within 1-2 months from extra egg sales
-- **Source:** WATTPoultry / Poultry World
+### Impacto
+- **+10-15% más huevos** en meses de invierno
+- **ROI:** Dentro de 1-2 meses de ventas adicionales de huevos
+- **Fuente:** WATTPoultry / Poultry World
 
 ---
 
-## 💧 WATER SYSTEMS
+## 💧 SISTEMAS DE AGUA
 
-### Nipple Waterer System
-| Option | Cost (Gs) | Cost (USD) |
+### Sistema de Bebedero de Pezón
+| Opción | Costo (Gs) | Costo (USD) |
 |--------|----------|----------|
-| Commercial 20L system | 60,000-120,000 | $8-15 |
-| DIY: bottle + nipple | 8,000-15,000 | $1-2 |
-| Poultry nipples (pack) | 5,000-10,000 | $0.60-1.30 |
+| Sistema comercial 20L | 60,000-120,000 | $8-15 |
+| DIY: botella + pezón | 8,000-15,000 | $1-2 |
+| Pezones para aves (paquete) | 5,000-10,000 | $0.60-1.30 |
 
-### Benefits
-- Water stays clean (no poop contamination)
-- Less labor refilling
-- Hens drink more = better production
-- **Source:** Poultry farming best practices
+### Beneficios
+- El agua se mantiene limpia (sin contaminación de popó)
+- Menos mano deoba rellenando
+- Las gallinas beben más = mejor producción
+- **Fuente:** Mejores prácticas de avicultura
 
 ---
 
-## 📊 AUTOMATION MARKET TRENDS
+## 📊 TENDENCIAS DEL MERCADO DE AUTOMATIZACIÓN
 
 ```
-Title: Smart Automation is Transforming Small-scale Poultry Farming
-Publication: Einpresswire / Future Market Insights
-Date: May 15, 2025
+Título: La Automatización Inteligente está Transformando la Avicultura a Pequeña Escala
+Publicación: Einpresswire / Future Market Insights
+Fecha: 15 de Mayo, 2025
 URL: https://www.einpresswire.com/article/812667982/smart-automation-is-transforming-small-scale-poultry-farming-driving-the-next-wave-of-poultry-keeping-machinery-market
 ```
 
-Key finding: Demand for compact, intelligent poultry equipment is rising 
-as smallholder farms embrace automation.
+Hallazgo clave: La demanda de equipos avícolas compactos e inteligentes está aumentando a medida que las granjas pequeñas adoptan la automatización.
 
 ---
 
-## 🇰🇪 KENYA WhatsApp Adoption
+## 🇰🇪 ADOPCIÓN DE WHATSAPP EN KENIA
 
 ```
-Organization: MEDA (MENONITE ECONOMIC DEVELOPMENT ASSOCIATES)
-Program: LEGEND / REFSO (Resilience and Economic Sustainability in the Sahel)
-Location: Kenya
+Organización: MEDA (ASOCIACIONES DE DESARROLLO ECONÓMICO MENONITAS)
+Programa: LEGEND / REFSO (Resiliencia y Sostenibilidad Económica en el Sahel)
+Ubicación: Kenia
 URL: https://meda.org
 ```
 
-Findings:
-- WhatsApp groups for bulk orders + delivery scheduling
-- Farmers report **40% fewer unsold eggs** with organized WhatsApp ordering
-- WhatsApp Business catalog used for product listings
-- 500+ active poultry WhatsApp groups in India alone
+Hallazgos:
+- Grupos de WhatsApp para pedidos a granel + programación de delivery
+- Agricultores reportan **40% menos huevos sin vender** con pedidos organizados por WhatsApp
+- Catálogo de WhatsApp Business usado para listados de productos
+- 500+ grupos activos de avicultura por WhatsApp solo en India
 
 ---
 
-## 🌎 LATIN AMERICA TECH ADOPTION
+## 🌎 ADOPCIÓN DE TECNOLOGÍA EN LATINOAMÉRICA
 
-### Mexico — Heifer International
-- Connected small farmers to formal markets
-- Focus: Yucatán and Puebla states
-- Key technologies: improved housing, feed formulation, mobile market access
+### México — Heifer International
+- Conectó pequeños agricultores con mercados formales
+- Enfoque: Estados de Yucatán y Puebla
+- Tecnologías clave: vivienda mejorada, formulación de alimento, acceso a mercado móvil
 
-### Guatemala — 265-Hen Farm (2026)
-- Model: Systematic organization + phone pre-orders
-- Proves: Technology adoption at 265-hen scale works
+### Guatemala — Granja de 265 Gallinas (2026)
+- Modelo: Organización sistemática + preventas por teléfono
+- Demuestra: Adopción de tecnología a escala de 265 gallinas funciona
 
 ### Venezuela — Avicola La Guasima
-- Royal Pas Reform SmartPro™ hatchery technology
-- Weekly capacity: 1.2 million eggs
-- Family business scaling to leading hatchery
+- Tecnología de incubación Royal Pas Reform SmartPro™
+- Capacidad semanal: 1.2 millones de huevos
+- Negocio familiar escalando a incubadora líder
 
 ---
 
-## 📋 RECOMMENDED STACK FOR LAURA
+## 📋 PAQUETE RECOMENDADO PARA LAURA
 
-### Free / Already Have
-| Tool | What It Does |
+### Gratis / Ya Disponible
+| Herramienta | Qué Hace |
 |------|-------------|
-| WhatsApp Business | Customer orders, catalog, scheduling |
-| Google Sheets | Track eggs, sales, customers |
-| Google Calendar | Vaccination reminders |
-| Google Photos | Visual records |
+| WhatsApp Business | Pedidos de clientes, catálogo, programación |
+| Google Sheets | Rastrear huevos, ventas, clientes |
+| Google Calendar | Recordatorios de vacunación |
+| Google Photos | Registros visuales |
 
-### Under G. 200,000 (~$25 USD)
-| Tool | Cost (Gs) | Impact |
+### Menos de G. 200,000 (~$25 USD)
+| Herramienta | Costo (Gs) | Impacto |
 |------|----------|--------|
-| LED timer | 40,000-65,000 | +10-15% eggs |
-| Nipple waterer DIY | 8,000-15,000 | Healthier flock |
-| Foot bath | 25,000 | Disease prevention |
+| Temporizador LED | 40,000-65,000 | +10-15% huevos |
+| Bebedero de pezón DIY | 8,000-15,000 | Rebaño más saludable |
+| Baño de pies | 25,000 | Prevención de enfermedades |
 
-### Future Upgrades
-| Tool | Cost (Gs) | ROI Timeline |
+### Mejoras Futuras
+| Herramienta | Costo (Gs) | Tiempo ROI |
 |------|----------|-------------|
-| Solar 50W | 300,000-400,000 | 6-12 months |
-| Incubator | 600,000-1,200,000 | 12-18 months |
-| IoT sensor | 80,000-150,000 | 3-6 months |
+| Solar 50W | 300,000-400,000 | 6-12 meses |
+| Incubadora | 600,000-1,200,000 | 12-18 meses |
+| Sensor IoT | 80,000-150,000 | 3-6 meses |
 
 ---
 
-## 🔄 UPDATE LOG
+## 🔄 REGISTRO DE ACTUALIZACIONES
 
-| Date | Change | Source |
-|------|--------|--------|
-| Mar 2026 | Initial research | Web search, app stores, MEDA |
-| Mar 2026 | Prices updated | CdE solar shop estimates |
+| Fecha | Cambio | Fuente |
+|-------|--------|--------|
+| Mar 2026 | Investigación inicial | Búsqueda web, tiendas de apps, MEDA |
+| Mar 2026 | Precios actualizados | Estimaciones tiendas solares CdE |
 
 ---
 
-*Generated: March 19, 2026*
-*Verify at: smartbirdapp.com | kukufarm.com | farmonaut.com | ieeexplore.ieee.org*
+*Generado: 19 de Marzo, 2026*
+*Verificar en: smartbirdapp.com | kukufarm.com | farmonaut.com | ieeexplore.ieee.org*

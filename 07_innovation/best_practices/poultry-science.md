@@ -1,14 +1,14 @@
-# 🌟 RAW SOURCE DATA — Expert Tips & Best Practices
+# 🌟 DATOS CRUDOS FUENTE — Consejos de Expertos y Mejores Prácticas
 
-## Source Documentation
+## Documentación de Fuente
 
-All expert recommendations traced to agricultural science sources.
+Todas las recomendaciones de expertos rastreadas a fuentes de ciencia agrícola.
 
 ---
 
-## 🥚 PRODUCTION OPTIMIZATION
+## 🥚 OPTIMIZACIÓN DE PRODUCCIÓN
 
-### Lighting Requirements
+### Requisitos de Iluminación
 
 ```
 Standard: Hens need 14 hours of daylight for optimal lay rate
@@ -48,160 +48,160 @@ Source: USDA Poultry Biosecurity Guidelines 2026
 ```
 
 ### Essential Biosecurity (100 hens)
-1. Foot bath at coop entrance — G. 25,000 bucket + disinfectant
-2. Restrict access — visitors sanitize shoes
-3. Rodent control — mice carry 30+ poultry diseases
-4. Clean water daily — dirty water spreads illness
-5. Quarantine new birds — 2-4 weeks before mixing
+1. Baño de pies en entrada del gallinero — Cubeta G. 25,000 + desinfectante
+2. Restringir acceso — visitantes desinfectan zapatos
+3. Control de roedores — ratones transmiten 30+ enfermedades avícolas
+4. Agua limpia diariamente — agua sucia propaga enfermedades
+5. Cuarentena para aves nuevas — 2-4 semanas antes de mezclar
 
-### Vaccination Program
+### Programa de Vacunación
 
-| Vaccine | Schedule | Cost (Gs) | Source |
-|---------|----------|----------|--------|
-| Newcastle Disease | Day 1 + booster 3wk | 8,000-15,000/500 doses | SENACSA |
-| Infectious Bronchitis | Day 1 + booster 3wk | 8,000-15,000/500 doses | SENACSA |
-| Marek's Disease | Day 1 (injection) | 10,000-20,000/100 doses | SENACSA |
+| Vacuna | Programa | Costo (Gs) | Fuente |
+|--------|----------|----------|--------|
+| Enfermedad de Newcastle | Día 1 + refuerzo 3sem | 8,000-15,000/500 dosis | SENACSA |
+| Bronquitis Infecciosa | Día 1 + refuerzo 3sem | 8,000-15,000/500 dosis | SENACSA |
+| Enfermedad de Marek | Día 1 (inyección) | 10,000-20,000/100 dosis | SENACSA |
 
-*Source: SENACSA Paraguay official guidelines*
+*Fuente: Guías oficiales SENACSA Paraguay*
 
-### Daily Health Check (5 minutes)
-Watch for:
-- ⚠️ Drop in feed/water consumption
-- ⚠️ Unusual droppings (color, texture)
-- ⚠️ Isolation from flock
-- ⚠️ Labored breathing or sneezing
-- ⚠️ Pale combs (normally red)
-- ⚠️ Sudden death (investigate immediately)
+### Chequeo Diario de Salud (5 minutos)
+Observar:
+- ⚠️ Caída en consumo de alimento/agua
+- ⚠️ Heces inusuales (color, textura)
+- ⚠️ Aislamiento del rebaño
+- ⚠️ Respiración dificultosa o estornudos
+- ⚠️ Crestas pálidas (normalmente rojas)
+- ⚠️ Muerte súbita (investigar inmediatamente)
 
 ---
 
-## 📊 EXTENDING LAYING CYCLE
+## 📊 EXTENSIÓN DEL CICLO DE POSTURA
 
-### Production Timeline
+### Línea de Tiempo de Producción
 ```
-Day 1-150 (5 months):   Chick → Non-producing
-Day 150-500 (~1-1.5 yr): PEAK PRODUCTION → Eggs
-Day 500+ (18+ months):  Spent hen → Cull or process
+Día 1-150 (5 meses):   Pollita → No productiva
+Día 150-500 (~1-1.5 año): PRODUCCIÓN PICO → Huevos
+Día 500+ (18+ meses):  Gallina vieja → Sacrificar o procesar
 ```
 
-### Key Practices for Longer Production
+### Prácticas Clave para Producción Más Larga
 
-| Practice | Benefit | Source |
+| Práctica | Beneficio | Fuente |
 |----------|---------|--------|
-| Forced molting | 70% production bounce-back | Poultry science |
-| Protein reduction post-peak | Slow aging | Layer nutrition |
-| Select best layers | Heritability of laying traits | Breeding |
-| Annual health reset | Worming + mite treatment | Poultry experts |
-| Continue calcium | Older hens need more calcium | Layer nutrition |
+| Muda forzada | Recuperación 70% de producción | Ciencia avícola |
+| Reducción de proteína post-pico | Envejecimiento lento | Nutrición ponedoras |
+| Seleccionar mejores ponedoras | Heredabilidad de rasgos de postura | Cría |
+| Reset de salud anual | Desparasitación + tratamiento ácaros | Expertos avícolas |
+| Continuar calcio | Gallinas viejas necesitan más calcio | Nutrición ponedoras |
 
-### Forced Molting Guide
-1. Reduce light to 8 hours/day for 10-14 days
-2. Reduce feed to 50% of normal
-3. Maintain water access always
-4. After 10-14 days: Return to normal feeding + 14-hour light
-5. **Result**: 70% production bounce-back within 4 weeks
-
----
-
-## 💰 FEED COST MANAGEMENT
-
-### Feed = 70% of Production Costs
-
-```
-Strategy 1: Bulk purchasing cooperatives
-- Partner with 3-5 other farms
-- Typical savings: 10-20% on bulk orders
-- WhatsApp group coordination
-- Volume needed: Usually 20+ bags for discount
-
-Strategy 2: Homegrown alternatives (Paraguay)
-- Moringa: 30% protein leaves, thrives in Paraguay
-- Cassava: Carbohydrates, grows in poor soil
-- Sweet potato: Carbohydrates + vitamins
-
-Strategy 3: Feed waste reduction
-- Hopper feeders: Prevents scratching/waste
-- Target: 40g feed/hen/day for layers
-- Audit monthly: Rodent contamination
-- Store: Dry, ventilated, off ground
-
-Strategy 4: Dynamic pricing
-- Raise prices when feed costs rise
-- Tell customers: "Feed costs increased"
-- Acceptable: 1-2 price increases per year
-Source: Poultry farming economics
-```
+### Guía de Muda Forzada
+1. Reducir luz a 8 horas/día por 10-14 días
+2. Reducir alimento a 50% del normal
+3. Mantener acceso a agua siempre
+4. Después de 10-14 días: Volver a alimentación normal + 14 horas de luz
+5. **Resultado**: Recuperación de 70% de producción en 4 semanas
 
 ---
 
-## ❌ COMMON MISTAKES
+## 💰 GESTIÓN DE COSTOS DE ALIMENTO
 
-| Mistake | Consequence | Prevention | Source |
+### Alimento = 70% de Costos de Producción
+
+```
+Estrategia 1: Cooperativas de compra a granel
+- Asociarse con 3-5 otras granjas
+- Ahorros típicos: 10-20% en pedidos a granel
+- Coordinación por grupo de WhatsApp
+- Volumen necesario: Generalmente 20+ bolsas para descuento
+
+Estrategia 2: Alternativas cultivadas localmente (Paraguay)
+- Moringa: 30% proteína en hojas, prospera en Paraguay
+- Mandioca: Carbohidratos, crece en suelo pobre
+- Batata: Carbohidratos + vitaminas
+
+Estrategia 3: Reducción de desperdicio de alimento
+- Comederos de tolva: Previenen rascado/desperdicio
+- Meta: 40g alimento/gallina/día para ponedoras
+- Auditar mensualmente: Contaminación por roedores
+- Almacenar: Seco, ventilado, fuera del suelo
+
+Estrategia 4: Precios dinámicos
+- Subir precios cuando suben costos de alimento
+- Decir a clientes: "Los costos de alimento subieron"
+- Aceptable: 1-2 aumentos de precio por año
+Fuente: Economía de la avicultura
+```
+
+---
+
+## ❌ ERRORES COMUNES
+
+| Error | Consecuencia | Prevención | Fuente |
 |---------|-------------|-----------|--------|
-| Skipping biosecurity | Total flock loss | Foot bath + restricted access | USDA |
-| Cheap feed | Poor production | Check protein % 16-18% | Poultry World |
-| No vaccination | Newcastle kills flock | G. 30-50k/year vaccines | SENACSA |
-| No record keeping | Can't spot problems | Google Sheets 5 min/day | Business |
-| Overcrowding | Stress = less eggs | 0.15-0.2 m² per bird | Poultry science |
-| Egg-eater caught late | Spreads to flock | Isolate + wooden eggs | Poultry experts |
-| No cull plan | Old hens eat feed | Cull at 18 months | Business |
+| Saltar bioseguridad | Pérdida total del rebaño | Baño de pies + acceso restringido | USDA |
+| Alimento barato | Mala producción | Verificar % proteína 16-18% | Poultry World |
+| Sin vacunación | Newcastle mata rebaño | G. 30-50k/año vacunas | SENACSA |
+| Sin registro de datos | No puede detectar problemas | Google Sheets 5 min/día | Negocios |
+| Sobrepoblación | Estrés = menos huevos | 0.15-0.2 m² por ave | Ciencia avícola |
+| Comedora de huevos detectada tarde | Se propaga al rebaño | Aislar + huevos de madera | Expertos avícolas |
+| Sin plan de sacrificio | Gallinas viejas comen alimento | Sacrificar a los 18 meses | Negocios |
 
 ---
 
-## 🇵🇾 PARAGUAY-SPECIFIC
+## 🇵🇾 ESPECÍFICO DE PARAGUAY
 
-### Local Suppliers
-| Item | Where | Cost | Source |
+### Proveedores Locales
+| Artículo | Dónde | Costo | Fuente |
 |------|-------|------|--------|
-| Oyster shell | Agro-veterinarias | G. 15,000-25,000/25kg | Local |
-| Vitamin premixes | Agro-veterinarias | G. 30,000-60,000 | Local |
-| Probiotics | Agro-veterinarias | G. 20,000-40,000 | Local |
+| Concha de ostra | Agro-veterinarias | G. 15,000-25,000/25kg | Local |
+| Premix de vitaminas | Agro-veterinarias | G. 30,000-60,000 | Local |
+| Probióticos | Agro-veterinarias | G. 20,000-40,000 | Local |
 
-### Key Organizations
-- **SENACSA:** Official poultry health authority, vaccinations
-  - San Antonio, Asunción: Main office
-  - CdE: Regional offices
-- **MAG:** Ministry of Agriculture, training programs
-- **Agro-veterinarias CdE:** Avian vaccines and supplements
+### Organizaciones Clave
+- **SENACSA:** Autoridad oficial de salud avícola, vacunaciones
+  - San Antonio, Asunción: Oficina principal
+  - CdE: Oficinas regionales
+- **MAG:** Ministerio de Agricultura, programas de capacitación
+- **Agro-veterinarias CdE:** Vacunas y suplementos avícolas
 
 ---
 
-## 📅 DAILY ROUTINE (100 hens)
+## 📅 RUTINA DIARIA (100 gallinas)
 
-| Time | Activity | Duration |
+| Hora | Actividad | Duración |
 |------|----------|----------|
-| 6:00 AM | Open coop, check water | 5 min |
-| 6:05 AM | Feed (40g/hen = 4kg total) | 5 min |
-| 6:10 AM | Collect eggs (morning = best) | 5 min |
-| 6:15 AM | Quick health check | 5 min |
-| 6:20 AM | Fresh water + ACV mixture | 5 min |
-| 12:00 PM | Optional: second water check | 2 min |
-| 5:00 PM | Second feeding | 5 min |
-| 5:30 PM | Collect remaining eggs | 5 min |
-| 6:00 PM | Close coop, secure | 5 min |
+| 6:00 AM | Abrir gallinero, chequear agua | 5 min |
+| 6:05 AM | Alimentar (40g/gallina = 4kg total) | 5 min |
+| 6:10 AM | Recoger huevos (mañana = mejor) | 5 min |
+| 6:15 AM | Chequeo rápido de salud | 5 min |
+| 6:20 AM | Agua fresca + mezcla de AV | 5 min |
+| 12:00 PM | Opcional: segundo chequeo de agua | 2 min |
+| 5:00 PM | Segunda alimentación | 5 min |
+| 5:30 PM | Recoger huevos restantes | 5 min |
+| 6:00 PM | Cerrar gallinero, asegurar | 5 min |
 
-**Total: 30-40 minutes/day**
+**Total: 30-40 minutos/día**
 
 ---
 
-## 🔬 NUTRITION SPECIFICATIONS
+## 🔬 ESPECIFICACIONES DE NUTRICIÓN
 
-| Nutrient | Target for Layers | Source |
+| Nutriente | Meta para Ponedoras | Fuente |
 |---------|-----------------|--------|
-| Protein | 16-18% | Layer feed standard |
-| Calcium | 3.5-4% | Shell quality |
-| Phosphorus | 0.4-0.5% | Bone health |
-| Grit | Always available | Digestion |
+| Proteína | 16-18% | Estándar alimento ponedoras |
+| Calcio | 3.5-4% | Calidad de cáscara |
+| Fósforo | 0.4-0.5% | Salud ósea |
+| Gastrolitos | Siempre disponibles | Digestión |
 
 ---
 
-## 🔄 UPDATE LOG
+## 🔄 REGISTRO DE ACTUALIZACIONES
 
-| Date | Change | Source |
-|------|--------|--------|
-| Mar 2026 | All data compiled | USDA, WATTPoultry, SENACSA, Poultry World |
+| Fecha | Cambio | Fuente |
+|-------|--------|--------|
+| Mar 2026 | Todos los datos compilados | USDA, WATTPoultry, SENACSA, Poultry World |
 
 ---
 
-*Generated: March 19, 2026*
-*Verify at: usda.gov | wattpoultry.com | senacsa.gov.py | poultryworld.net*
+*Generado: 19 de Marzo, 2026*
+*Verificar en: usda.gov | wattpoultry.com | senacsa.gov.py | poultryworld.net*

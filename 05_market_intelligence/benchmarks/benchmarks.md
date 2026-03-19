@@ -1,22 +1,21 @@
-# 🌍 RAW SOURCE DATA — Global Benchmarks
+# 🌍 DATOS CRUDOS FUENTE — Referencias Globales
 
-## Source Documentation
+## Documentación de Fuente
 
-All benchmark data traced to primary sources. Each farm/case study 
-includes source URL and verification status.
+Todos los datos de referencia rastreados a fuentes primarias. Cada granja/caso de estudio incluye URL de fuente y estado de verificación.
 
 ---
 
 ## 🇦🇷 ARGENTINA — Holy Eggs Córdoba
 
-### Basic Facts
-- **Location:** Ascochinga, Córdoba, Argentina
-- **Founded:** During COVID pandemic (2020)
-- **Scale:** 600 laying hens
-- **Production:** 18,000 eggs/month (600 maples)
-- **Feed:** 50% balanced feed + 50% pasture (grasses, insects)
-- **Distribution:** 100% pre-sold, direct to customers
-- **Premium:** ~25% above conventional eggs
+### Datos Básicos
+- **Ubicación:** Ascochinga, Córdoba, Argentina
+- **Fundada:** Durante pandemia COVID (2020)
+- **Escala:** 600 gallinas ponedoras
+- **Producción:** 18,000 huevos/mes (600 maples)
+- **Alimento:** 50% alimento balanceado + 50% pastoreo (pastos, insectos)
+- **Distribución:** 100% preventa, directo a clientes
+- **Premium:** ~25% por encima de huevos convencionales
 
 ### Source
 ```
@@ -27,24 +26,24 @@ Date: May 19, 2021
 URL: https://infonegocios.info/enfoque/holy-eggs-el-emprendimiento-cordobes-que-vende-18-000-huevos-pastoriles-al-mes-y-busca-llegar-a-las-dieteticas
 ```
 
-### Key Insight for Laura
-- Pasture-raised + direct sales = zero waste
-- Everything produced is pre-sold
-- 600 hens at 75% lay rate = 18,000 eggs/month ✓
-- Laura has 80-100 hens — same model, smaller scale
+### Hallazgo Clave para Laura
+- Pastoreo + ventas directas = cero desperdicio
+- Todo lo producido es preventa
+- 600 gallinas al 75% de postura = 18,000 huevos/mes ✓
+- Laura tiene 80-100 gallinas — mismo modelo, escala menor
 
 ---
 
 ## 🇺🇸 USA — Vital Farms
 
-### Basic Facts
-- **Founded:** 2007
-- **Revenue:** ~$600M+ annually
-- **Target:** $1B by 2027
-- **Market share:** 85% of US pasture-raised eggs
-- **Retail price:** $7-9/dozen (vs. $2-3 conventional)
-- **Model:** Partnerships with 400+ family farms
-- **Retail reach:** 24,000+ stores
+### Datos Básicos
+- **Fundada:** 2007
+- **Ingresos:** ~$600M+ anualmente
+- **Objetivo:** $1B para 2027
+- **Participación de mercado:** 85% de huevos de pastoreo en EE.UU.
+- **Precio minorista:** $7-9/docena (vs. $2-3 convencional)
+- **Modelo:** Asociaciones con 400+ granjas familiares
+- **Alcance minorista:** 24,000+ tiendas
 
 ### Key Innovations
 1. QR codes linking to actual farm tours

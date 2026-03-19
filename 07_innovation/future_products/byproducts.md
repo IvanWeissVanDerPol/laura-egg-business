@@ -1,230 +1,229 @@
-# 💰 RAW SOURCE DATA — Spent Hens & Byproduct Valorization
+# 💰 DATOS CRUDOS FUENTE — Gallinas Viejas y Valorización de Subproductos
 
-## Source Documentation
+## Documentación de Fuente
 
-All byproduct and waste valorization data traced to primary sources.
+Todos los datos de subproductos y valorización de desechos rastreados a fuentes primarias.
 
 ---
 
-## 🐔 SPENT HENS — Scientific Background
+## 🐔 GALLINAS VIEJAS — Antecedentes Científicos
 
-### What is a Spent Hen?
-A hen that has completed her laying cycle (~72 weeks / 18 months). Production drops 
-from ~90% to 30-40%. Feed costs remain constant.
+### ¿Qué es una Gallina Vieja?
+Una gallina que ha completado su ciclo de postura (~72 semanas / 18 meses). La producción cae de ~90% a 30-40%. Los costos de alimento permanecen constantes.
 
 ```
-Source: World's Poultry Science Journal
-Title: Processing and utilization of spent hens
-Authors: N. Kondaiah and B. Panda
+Fuente: World's Poultry Science Journal
+Título: Processing and utilization of spent hens
+Autores: N. Kondaiah and B. Panda
 URL: https://www.cambridge.org/core/journals/worlds-poultry-science-journal
-Published: September 2007
+Publicado: Septiembre 2007
 ```
 
-### Key Facts
-- Billions of spent hens produced globally each year
-- Most are ground into protein meal or pet food
-- In Asian countries (China, India, Korea, Thailand): Used as food
-- In western countries: Often disposed as waste
-- Meat quality: Tough, less tender — needs processing
+### Datos Clave
+- Miles de millones de gallinas viejas producidas globalmente cada año
+- La mayoría se muelen para harina de proteína o alimento para mascotas
+- En países asiáticos (China, India, Corea, Tailandia): Usadas como alimento
+- En países occidentales: A menudo desechadas como residuos
+- Calidad de la carne: Dura, menos tierna — necesita procesamiento
 
 ```
-Source: Bioresources and Bioprocessing (2022)
-Title: Conventional use and sustainable valorization of spent egg-laying hens
-Authors: Hongbing Fan and Jianping Wu
+Fuente: Bioresources and Bioprocessing (2022)
+Título: Conventional use and sustainable valorization of spent egg-laying hens
+Autores: Hongbing Fan and Jianping Wu
 URL: https://bioresourcesbioprocessing.springeropen.com
 DOI: https://doi.org/10.1186/s40643-022-00529-z
 ```
 
-### Preservation Methods
+### Métodos de Preservación
 
 ```
-Source: Journal of Applied Poultry Research (2003)
-Title: Preservation of Spent Leghorn Hen Meat by a Drying and Salting Process
-Authors: Rocha Garcia, Youssef, Souza, Matsushita, Figueiredo, Shimokomaki
+Fuente: Journal of Applied Poultry Research (2003)
+Título: Preservation of Spent Leghorn Hen Meat by a Drying and Salting Process
+Autores: Rocha Garcia, Youssef, Souza, Matsushita, Figueiredo, Shimokomaki
 URL: https://www.sciencedirect.com/science/article/pii/S1056617119313972
 ```
 
-Method: Drying process after heavy salting (similar to cecinia/chicharrón preparation)
-- Salted → Dried → Stored
-- Shelf-stable without refrigeration
+Método: Proceso de secado después de salado pesado (similar a la preparación de cecinia/chicharrón)
+- Salada → Secada → Almacenada
+- Estable sin refrigeración
 
 ---
 
 ## 🥩 CECINIA / CHICKEN JERKY
 
-### What is Cecinia?
-Traditional dried, salted chicken — common in Paraguay, known as "cecina" or "chicharrón de gallina."
+### ¿Qué es la Cecinia?
+Pollo seco y salado tradicional — común en Paraguay, conocido como "cecina" o "chicharrón de gallina."
 
-### Paraguay Market Price
-| Presentation | Price | Source |
+### Precio de Mercado Paraguay
+| Presentación | Precio | Fuente |
 |-------------|-------|--------|
-| 500g package | G. 30,000-40,000 | Market research |
-| 1kg package | G. 55,000-70,000 | Market research |
+| Paquete 500g | G. 30,000-40,000 | Investigación mercado |
+| Paquete 1kg | G. 55,000-70,000 | Investigación mercado |
 
-### Processing Method
+### Método de Procesamiento
 ```
-1. Boil spent hen meat until tender (2-3 hours)
-2. Shred the meat from bones
-3. Salt generously (helps preservation)
-4. Dry in sun or low oven (2-3 days)
-5. Store in airtight containers
+1. Hervir carne de gallina vieja hasta que esté tierna (2-3 horas)
+2. Deshebrar la carne de los huesos
+3. Salar generosamente (ayuda a la preservación)
+4. Secar al sol o en horno bajo (2-3 días)
+5. Almacenar en recipientes herméticos
 ```
 
-### Revenue from Cecinia
+### Ingresos de la Cecinia
 
-| Input | Value |
+| Entrada | Valor |
 |-------|-------|
-| 1 spent hen | G. 20,000 (live sale value given up) |
-| Processed into cecinia | 3-5 packages × G. 35,000 |
-| **Gross revenue** | **G. 105,000-175,000** |
-| Processing cost | ~G. 20,000 (labor, salt, packaging) |
-| **Net additional value** | **G. 65,000-135,000 per hen** |
+| 1 gallina vieja | G. 20,000 (valor de venta en vivo cedido) |
+| Procesada en cecinia | 3-5 paquetes × G. 35,000 |
+| **Ingreso bruto** | **G. 105,000-175,000** |
+| Costo de procesamiento | ~G. 20,000 (mano de obra, sal, empaque) |
+| **Valor adicional neto** | **G. 65,000-135,000 por gallina** |
 
 ---
 
-## 🍲 CHICKEN BROTH / CALDO
+## 🍲 CALDO DE POLLO
 
-### Product
-Concentrated chicken broth, traditionally used in Paraguayan cuisine.
+### Producto
+Caldo de pollo concentrado, tradicionalmente usado en la cocina paraguaya.
 
-### Paraguay Market
-| Presentation | Price | Source |
+### Mercado Paraguay
+| Presentación | Precio | Fuente |
 |-------------|-------|--------|
-| 1 liter | G. 15,000-25,000 | Market research |
-| Traditional use | Soups, rice,ern medicine | Cultural |
+| 1 litro | G. 15,000-25,000 | Investigación mercado |
+| Uso tradicional | Sopas, arroz, medicina tradicional | Cultural |
 
-### Processing
+### Procesamiento
 ```
-1. Boil bones + remaining meat 4-6 hours
-2. Reduce to concentrate
-3. Freeze in bags or sell fresh
-4. Label: "Caldo de gallina casero"
+1. Hervir huesos + carne restante 4-6 horas
+2. Reducir hasta concentrar
+3. Congeler en bolsas o vender fresco
+4. Etiquetar: "Caldo de gallina casero"
 ```
 
 ---
 
-## 🌱 MANURE — Fertilizer Value
+## 🌱 ESTIÉRCOL — Valor como Fertilizante
 
-### The Math
+### La Matemática
 ```
-100 hens × 150g manure/day × 365 days = 5,475 kg/year
-= 5.5 tons of manure annually
+100 gallinas × 150g estiércol/día × 365 días = 5,475 kg/año
+= 5.5 toneladas de estiércol anualmente
 ```
 
-### Value Chain
+### Cadena de Valor
 
-| Product | Price | Annual Revenue | Source |
+| Producto | Precio | Ingreso Anual | Fuente |
 |---------|-------|---------------|--------|
-| Raw manure (sacks) | G. 5,000-8,000/sack | G. 1,000,000-2,000,000 | Market research |
-| Composted (bags) | G. 15,000-25,000/bag | G. 2,500,000-4,000,000 | Market research |
-| Pelletized | G. 30,000-50,000/bag | G. 5,000,000-8,000,000 | Market research |
+| Estiércol crudo (sacos) | G. 5,000-8,000/saco | G. 1,000,000-2,000,000 | Investigación mercado |
+| Compostado (bolsas) | G. 15,000-25,000/bolsa | G. 2,500,000-4,000,000 | Investigación mercado |
+| Pelletizado | G. 30,000-50,000/bolsa | G. 5,000,000-8,000,000 | Investigación mercado |
 
-### Compost Method
+### Método de Compostaje
 ```
-1. Layer: manure + dry leaves + straw
-2. Turn every 3-4 days for 3-6 months
-3. Temperature reaches 60-70°C (kills pathogens)
-4. Result: Rich organic fertilizer
+1. Capas: estiércol + hojas secas + paja
+2. Girar cada 3-4 días por 3-6 meses
+3. Temperatura alcanza 60-70°C (mata patógenos)
+4. Resultado: Fertilizante orgánico rico
 ```
 
 ```
-Source: FarmXpert 2025
-Title: Poultry Waste-to-Wealth: Turning Manure into Profits
+Fuente: FarmXpert 2025
+Título: Poultry Waste-to-Wealth: Turning Manure into Profits
 URL: https://www.farmxpertgroup.com/2025/08/poultry-waste-to-wealth-turning-manure.html
 ```
 
 ---
 
-## 🥚 EGGSHELL CALCIUM
+## 🥚 CALCIO DE CÁSCARAS DE HUEVO
 
-### Recycling Into Feed
+### Reciclaje para Alimento
 ```
-Process: Bake shells at 150°C for 10 minutes, crush VERY fine
-Use: Free calcium supplement for own hens
-Savings: G. 30,000-50,000/year in calcium supplements
+Proceso: Hornear cáscaras a 150°C por 10 minutos, moler MUY fino
+Uso: Suplemento de calcio gratis para las propias gallinas
+Ahorro: G. 30,000-50,000/año en suplementos de calcio
 ```
 
-### Selling to Others
-| Product | Price | Buyer | Source |
+### Venta a Terceros
+| Producto | Precio | Comprador | Fuente |
 |---------|-------|-------|--------|
-| Crushed shells | G. 3,000-5,000/kg | Fish farms, composters | Market research |
-| Calcium powder | G. 8,000-15,000/bag | Backyard poultry keepers | Market research |
+| Cáscaras molidas | G. 3,000-5,000/kg | Granjas de peces, compostadores | Investigación mercado |
+| Polvo de calcio | G. 8,000-15,000/bolsa | Criadores de aves caseras | Investigación mercado |
 
 ---
 
-## 🪶 FEATHERS
+## 🪶 PLUMAS
 
-### The Math
+### La Matemática
 ```
-100 hens × 50g feathers/month = 5 kg/month = 60 kg/year
+100 gallinas × 50g plumas/mes = 5 kg/mes = 60 kg/año
 ```
 
-### Value Options
+### Opciones de Valor
 
-| Product | Price | Use | Source |
+| Producto | Precio | Uso | Fuente |
 |---------|-------|-----|--------|
-| Raw feathers | G. 3,000-5,000/kg | Fish farms, organic fertilizer | Market research |
-| Composted | G. 8,000-12,000/bag | Premium organic fertilizer | Market research |
-| Feather meal | G. 15,000-25,000/kg | Animal feed protein | Industry |
+| Plumas crudas | G. 3,000-5,000/kg | Granjas de peces, fertilizante orgánico | Investigación mercado |
+| Compostadas | G. 8,000-12,000/bolsa | Fertilizante orgánico premium | Investigación mercado |
+| Harina de plumas | G. 15,000-25,000/kg | Proteína para alimento animal | Industria |
 
-### Quick Win
-- Bag dried feathers in 5kg sacks
-- Market as: "Plumas de gallina para jardines y agricultura"
-- Extra benefit: Feathers deter slugs — market as pest control
+### Victoria Rápida
+- Envasar plumas secas en sacos de 5kg
+- Mercadear como: "Plumas de gallina para jardines y agricultura"
+- Beneficio extra: Las plumas ahuyentan babosas — mercadear como control de plagas
 
 ---
 
-## ♻️ MORTALITY COMPOST
+## ♻️ COMPOSTAJE DE MORTALIDAD
 
-### Hot Composting Method
+### Método de Compostaje Caliente
 ```
-1. Dig pit 1m × 1m × 1m
-2. Layer: manure + straw + dead birds + lime
-3. Turn every 3-4 days for 4-6 weeks
-4. Temperature: 60-70°C (kills pathogens)
-5. Result: Premium soil amendment
+1. Excavar pozo 1m × 1m × 1m
+2. Capas: estiércol + paja + aves muertas + cal
+3. Girar cada 3-4 días por 4-6 semanas
+4. Temperatura: 60-70°C (mata patógenos)
+5. Resultado: Enmienda de suelo premium
 ```
 
-### Selling Compost
-| Product | Price | Customers | Source |
+### Venta de Compost
+| Producto | Precio | Clientes | Fuente |
 |---------|-------|----------|--------|
-| Compost (20L bag) | G. 15,000-25,000 | Vegetable farmers, nurseries | Market research |
+| Compost (bolsa 20L) | G. 15,000-25,000 | Agricultores de vegetales, viveros | Investigación mercado |
 
 ---
 
-## 💵 ANNUAL REVENUE SUMMARY
+## 💵 RESUMEN DE INGRESOS ANUALES
 
-| Byproduct | Annual Volume | Est. Revenue | Source |
+| Subproducto | Volúmen Anual | Ingreso Est. | Fuente |
 |-----------|-------------|-------------|--------|
-| Cecinia (35 hens) | ~105-175 packages | G. 3,675,000-6,125,000 | Calc from prices |
-| Chicken broth (35 hens) | ~140L | G. 2,100,000-3,500,000 | Calc from prices |
-| Manure | 5,000 kg | G. 1,000,000-2,000,000 | Market research |
-| Eggshells recycled | 200 kg | G. 400,000-800,000 (savings) | Calc |
-| Feathers | 60 kg | G. 300,000-500,000 | Market research |
-| Compost | 1,000 kg | G. 500,000-1,000,000 | Market research |
+| Cecinia (35 gallinas) | ~105-175 paquetes | G. 3,675,000-6,125,000 | Cálculo de precios |
+| Caldo de pollo (35 gallinas) | ~140L | G. 2,100,000-3,500,000 | Cálculo de precios |
+| Estiércol | 5,000 kg | G. 1,000,000-2,000,000 | Investigación mercado |
+| Cáscaras recicladas | 200 kg | G. 400,000-800,000 (ahorros) | Cálculo |
+| Plumas | 60 kg | G. 300,000-500,000 | Investigación mercado |
+| Compost | 1,000 kg | G. 500,000-1,000,000 | Investigación mercado |
 | **TOTAL** | | **G. 5,975,000-13,925,000** | |
 
 ---
 
-## 🌍 INTERNATIONAL COMPARISON
+## 🌍 COMPARACIÓN INTERNACIONAL
 
-### Spent Hen Utilization by Region
-| Region | Primary Use | Value |
+### Utilización de Gallinas Viejas por Región
+| Región | Uso Principal | Valor |
 |--------|-----------|-------|
-| China, India, Korea, Thailand | Food (processed meat) | High |
-| USA, Europe | Pet food, protein meal | Medium |
-| Africa | Food (informal), composting | Growing |
-| Paraguay | Mostly discarded | Opportunity |
+| China, India, Corea, Tailandia | Alimento (carne procesada) | Alto |
+| EE.UU., Europa | Alimento para mascotas, harina proteica | Medio |
+| África | Alimento (informal), compostaje | Creciente |
+| Paraguay | Mayormente descartado | Oportunidad |
 
 ---
 
-## 🔄 UPDATE LOG
+## 🔄 REGISTRO DE ACTUALIZACIONES
 
-| Date | Change | Source |
-|------|--------|--------|
-| Mar 2026 | All data compiled | World Poultry Science Journal, Poultry Site, FarmXpert, market research |
+| Fecha | Cambio | Fuente |
+|-------|--------|--------|
+| Mar 2026 | Todos los datos compilados | World Poultry Science Journal, Poultry Site, FarmXpert, investigación mercado |
 
 ---
 
-*Generated: March 19, 2026*
-*Verify at: cambridge.org | sciencedirect.com | poultrysite.com | farmxpertgroup.com*
+*Generado: 19 de Marzo, 2026*
+*Verificar en: cambridge.org | sciencedirect.com | poultrysite.com | farmxpertgroup.com*

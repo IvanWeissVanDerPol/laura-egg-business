@@ -5,7 +5,7 @@
 
 ## 🎯 PLAN ESTRATÉGICO
 
-**"Start small, reinvest profits, scale systematically"**
+**"Empezar pequeño, reinvertir ganancias, escalar sistemáticamente"**
 
 ---
 
@@ -78,7 +78,7 @@
 | Caída precio huevos | Media | Medio | Diversificación |
 | Competencia grandes | Baja | Alto | Diferenciación local |
 | Regulaciones | Baja | Medio | Certificación temprana |
-| Falta capital | Media | Alto | Start small |
+| Falta capital | Media | Alto | Empezar pequeño |
 
 ---
 

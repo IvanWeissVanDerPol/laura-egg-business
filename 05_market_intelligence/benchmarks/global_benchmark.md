@@ -1,206 +1,187 @@
-# 🌍 Global Benchmarks — Comparable Farms and What We Can Learn
+# 🌍 Referencias Globales — Granjas Comparables y Lo Que Podemos Aprender
 
-## Comparable Farms by Size and Model
+## Granjas Comparables por Tamaño y Modelo
 
-### 🇧🇷 Brazil — "Fazenda do Vale" (150 hens, Family Run)
-- **Setup**: Free-range on 1 hectare, mixed farm (vegetables + eggs)
-- **Products**: Fresh eggs + surplus vegetables to neighbors
-- **Revenue model**: 60% direct sales, 40% to local restaurant
-- **Key insight**: Diversification reduces risk. When egg prices dropped, 
-  vegetable sales covered the gap.
-- **Premium strategy**: "Huevos de campo" label, sells at 20% above market
-- **Lesson for Laura**: Consider small vegetable plots near coop — chickens 
-  eat scraps, produce fertilizer, eggs command premium
+### 🇧🇷 Brasil — "Fazenda do Vale" (150 gallinas, Familiar)
+- **Configuración**: Libre pastoreo en 1 hectárea, granja mixta (vegetales + huevos)
+- **Productos**: Huevos frescos + vegetales excedentes para vecinos
+- **Modelo de ingresos**: 60% ventas directas, 40% a restaurante local
+- **Hallazgo clave**: La diversificación reduce el riesgo. Cuando los precios de los huevos bajaron, las ventas de vegetales cubrieron la brecha.
+- **Estrategia premium**: Etiqueta "Huevos de campo", vende 20% por encima del mercado
+- **Lección para Laura**: Considerar pequeños huertos cerca del gallinero — las gallinas comen sobras, producen fertilizante, los huevos valen más
 
 ---
 
-### 🇬🇹 Guatemala — 265 Hens, Mother-Daughter (2026)
-- **Setup**: Rural family farm, free-range layers
-- **Production**: ~200 eggs/day (75% lay rate)
-- **Sales**: Organized in local markets, pre-orders via phone
-- **Revenue**: Generates continuous rural household income
-- **Key insight**: Organization and consistency > farm size
-- **Lesson for Laura**: Laura's 80-100 hens is the SAME scale. 
-  The Guatemalan farm organized sales systematically. 
-  That's the missing piece.
+### 🇬🇹 Guatemala — 265 Gallinas, Madre-Hija (2026)
+- **Configuración**: Granja familiar rural, gallinas ponedoras de libre pastoreo
+- **Producción**: ~200 huevos/día (75% tasa de postura)
+- **Ventas**: Organizadas en mercados locales, pedidos por teléfono
+- **Ingresos**: Genera ingresos rurales continuos para el hogar
+- **Hallazgo clave**: Organización y consistencia > tamaño de la granja
+- **Lección para Laura**: Las 80-100 gallinas de Laura son la MISMA escala. La granja guatemalteca organizó las ventas sistemáticamente. Ese es el elemento faltante.
 
 ---
 
-### 🇦🇷 Argentina — Holy Eggs (Córdoba, 600 Hens)
-- **Setup**: Pasture-raised hens in Ascochinga
-- **Production**: 18,000 eggs/month (600 maples)
-- **Feed**: 50% balanced feed + 50% pasture (grasses, insects)
-- **Premium price**: ~25% above conventional eggs
-- **Distribution**: 100% pre-sold, direct to customers
-- **Growth**: Started during COVID pandemic, now sells everything they produce
-- **Lesson for Laura**: Pasture-raised + direct sales = no waste + premium price.
-  Holy Eggs doesn't have unsold eggs because everything is pre-ordered.
+### 🇦🇷 Argentina — Holy Eggs (Córdoba, 600 Gallinas)
+- **Configuración**: Gallinas en pastoreo en Ascochinga
+- **Producción**: 18,000 huevos/mes (600 maples)
+- **Alimento**: 50% alimento balanceado + 50% pastoreo (pastos, insectos)
+- **Precio premium**: ~25% por encima de los huevos convencionales
+- **Distribución**: 100% preventa, directo a clientes
+- **Crecimiento**: Comenzó durante la pandemia de COVID, ahora venden todo lo que producen
+- **Lección para Laura**: Pastoreo + ventas directas = sin desperdicio + precio premium. Holy Eggs no tiene huevos sin vender porque todo es preventa.
 
 ---
 
-### 🇺🇸 USA — Vital Farms (~$600M+ Revenue)
-- **Model**: Pasture-raised eggs, direct relationships with 400+ family farms
-- **Retail price**: $7-9/dozen (vs. $2-3 conventional)
-- **Key innovations**:
-  - Farm二维码 codes linking to actual farm tours
-  - "B-Corp" certification for social/environmental standards
-  - 85% market share in US pasture-raised category
-  - Targeting $1B revenue by 2027
-- **Lesson for Laura**: Trust and transparency are worth money.
-  Customers in Asunción will pay more for eggs from a real farm they 
-  can visit or see on WhatsApp.
+### 🇺🇸 EE.UU. — Vital Farms (~$600M+ en Ingresos)
+- **Modelo**: Huevos de pastoreo, relaciones directas con 400+ granjas familiares
+- **Precio minorista**: $7-9/docena (vs. $2-3 convencional)
+- **Innovaciones clave**:
+  - Códigos QR de granjas que enlazan a visitas virtuales reales
+  - Certificación "B-Corp" para estándares sociales/ambientales
+  - 85% de participación de mercado en la categoría de pastoreo en EE.UU.
+  - Objetivo: $1B en ingresos para 2027
+- **Lección para Laura**: La confianza y transparencia valen dinero. Los clientes en Asunción pagarán más por huevos de una granja real que puedan visitar o ver en WhatsApp.
 
 ---
 
-### 🇺🇸 USA — JMZ Farms (Texas, 500 Hens, $12.50/Dozen)
-- **Setup**: Organic pasture-raised, Joel Salatin methods
-- **Price**: $12.50/dozen (5x conventional)
-- **Premium factors**:
-  - Certified organic feed (locally milled)
-  - Farm transparency + visits
-  - "Veteran support" charity angle
-- **Lesson for Laura**: You don't need 10,000 hens. 500 hens at $12.50/dozen 
-  beats 5,000 hens at $3/dozen on quality of life and margin.
+### 🇺🇸 EE.UU. — JMZ Farms (Texas, 500 Gallinas, $12.50/Docena)
+- **Configuración**: Pastoreo orgánico, métodos Joel Salatin
+- **Precio**: $12.50/docena (5x convencional)
+- **Factores premium**:
+  - Alimento orgánico certificado (molido localmente)
+  - Transparencia de granja + visitas
+  - Apoyo a veteranos como ángulo de caridad
+- **Lección para Laura**: No necesitas 10,000 gallinas. 500 gallinas a $12.50/docena superan a 5,000 gallinas a $3/docena en calidad de vida y margen.
 
 ---
 
-### 🇰🇪 Kenya — Rachel Adipo (1,000 Hens, $1,550 CAD Profit)
-- **Journey**: Started 2019 with 82 chickens, $164 CAD
-- **Growth**: Training + improved housing → 1,000 birds by 2023
-- **Key insight**: Feed formulation training cut costs 50%
-- **Revenue**: Ksh 140,000 (~$1,550 CAD) annual profit
-- **Lesson for Laura**: Feed costs are the biggest expense. 
-  Even small improvements in feed efficiency = big profit gains.
+### 🇰🇪 Kenia — Rachel Adipo (1,000 Gallinas, $1,550 CAD de Ganancia)
+- **Historia**: Comenzó en 2019 con 82 pollos, $164 CAD
+- **Crecimiento**: Capacitación + mejor vivienda → 1,000 aves para 2023
+- **Hallazgo clave**: La capacitación en formulación de alimento redujo costos 50%
+- **Ingresos**: Ksh 140,000 (~$1,550 CAD) de ganancia anual
+- **Lección para Laura**: Los costos de alimento son el mayor gasto. Incluso pequeñas mejoras en la eficiencia del alimento = grandes ganancias.
 
 ---
 
-### 🇵🇾 Paraguay — Al Campo (First Certified Humane Farm)
-- **Certification**: Certified Humane (first in Paraguay)
-- **Positioning**: "Huevos camperos" (free-range), premium positioning
-- **Lesson for Laura**: Certification differentiates in the Asunción market.
-  Al Campo proved there's demand for quality-labeled eggs in Paraguay.
+### 🇵🇾 Paraguay — Al Campo (Primera Granja Certificada Humane)
+- **Certificación**: Certified Humane (primera en Paraguay)
+- **Posicionamiento**: "Huevos camperos" (libre pastoreo), posicionamiento premium
+- **Lección para Laura**: La certificación diferencia en el mercado de Asunción. Al Campo demostró que hay demanda de huevos con etiqueta de calidad en Paraguay.
 
 ---
 
 ### 🇵🇾 Paraguay — Nutrihuevos + Huevo Rico
-- **Nutrihuevos**: Type A premium eggs, batch codes for traceability
-- **Huevo Rico**: Organic fresh eggs positioning
-- **Lesson for Laura**: Even simple things like batch codes and 
-  "from our farm to your table" messaging differentiate from bulk sellers.
+- **Nutrihuevos**: Huevos premium Tipo A, códigos de lote para trazabilidad
+- **Huevo Rico**: Posicionamiento de huevos frescos orgánicos
+- **Lección para Laura**: Incluso cosas simples como códigos de lote y el mensaje "de nuestra granja a tu mesa" diferencian de los vendedores mayoristas.
 
 ---
 
-## Key Patterns Across All Successful Small Farms
+## Patrones Clave en Todas las Granjas Pequeñas Exitosas
 
-### 1. Direct Sales Beat Wholesale Every Time
+### 1. Las Ventas Directas Superan a las Mayoristas Siempre
 
-| Channel | Price (Gs/dozen) | Notes |
-|---------|-----------------|-------|
-| Wholesale to distributor | 7,000-8,000 | Fast, low margin |
-| Restaurant/hotel | 10,000-14,000 | Stable orders |
-| Direct to consumer | 12,000-18,000 | Highest margin, most work |
-| Premium + delivery | 15,000-22,000 | Best overall |
+| Canal | Precio (Gs/docena) | Notas |
+|-------|-------------------|-------|
+| Mayorista a distribuidor | 7,000-8,000 | Rápido, bajo margen |
+| Restaurante/hotel | 10,000-14,000 | Pedidos estables |
+| Directo al consumidor | 12,000-18,000 | Mayor margen, más trabajo |
+| Premium + delivery | 15,000-22,000 | Mejor general |
 
-**Holy Eggs (Argentina)**: 100% direct pre-orders. Zero waste. 
-**Vital Farms**: 100% direct-to-retail (no wholesale).
+**Holy Eggs (Argentina)**: 100% preventa directa. Cero desperdicio.
+**Vital Farms**: 100% directo a minoristas (sin mayoristas).
 
-**Action**: Laura should be selling at minimum 50% direct, 
-not giving eggs to distributors for 7,000/dozen.
+**Acción**: Laura debería vender mínimo 50% directo, no dar huevos a distribuidores por 7,000/docena.
 
 ---
 
-### 2. Premium Positioning Works at Any Scale
+### 2. El Posicionamiento Premium Funciona en Cualquier Escala
 
-**The premium ladder** (prices in Gs/dozen):
+**La escalera premium** (precios en Gs/docena):
 ```
-Conventional bulk eggs:     7,000-8,000
-Cage-free label:            10,000-12,000
-Free-range/campero:        12,000-15,000
-Pasture-raised:            15,000-18,000
-Organic certified:          18,000-22,000+
+Huevos convencionales a granel:     7,000-8,000
+Etiqueta sin jaula:                 10,000-12,000
+Libre pastoreo/campero:            12,000-15,000
+Criados en pastoreo:               15,000-18,000
+Orgánico certificado:               18,000-22,000+
 ```
 
-**Lauras current pricing (2021)**: 12,000-16,000/dozen
-**Lauras current reality**: Likely selling bulk at 8,000-10,000 to distributors
+**Precios actuales de Laura (2021)**: 12,000-16,000/docena
+**Realidad actual de Laura**: Probablemente vendiendo a granel a 8,000-10,000 a distribuidores
 
-**Gap**: 4,000-8,000 Gs/dozen left on the table by not selling direct.
-
----
-
-### 3. Consistency > Volume
-
-**What every successful farm did**:
-- Same delivery days (e.g., Tuesday + Friday)
-- Same customers, recurring orders
-- Same quality, same size grading every time
-- WhatsApp/phone for orders, pre-schedule
-
-**What struggling farms did**:
-- Sold whatever was available
-- No regular customers
-- No scheduling
-
-**Action**: Pick 2 delivery days per week. Tell all customers 
-"Entregamos los martes y viernes." Build the habit.
+**Brecha**: 4,000-8,000 Gs/docena perdidos por no vender directo.
 
 ---
 
-### 4. Story Sells More Than Facts
+### 3. Consistencia > Volúmen
 
-**Vital Farms discovered**: Customers don't just buy eggs.
-They buy the idea of happy hens on pasture, a real farmer they 
-can trust, and food that's better for the planet.
+**Lo que hizo cada granja exitosa**:
+- Mismos días de entrega (ej., martes + viernes)
+- Mismos clientes, pedidos recurrentes
+- Misma calidad, misma clasificación de tamaño siempre
+- WhatsApp/teléfono para pedidos, programar con anticipación
 
-**Laura's story is compelling**:
+**Lo que hicieron las granjas que luchan**:
+- Vendían lo que había disponible
+- Sin clientes regulares
+- Sin programación
+
+**Acción**: Elegir 2 días de entrega por semana. Decir a todos los clientes "Entregamos los martes y viernes." Construir el hábito.
+
+---
+
+### 4. La Historia Vende Más que los Datos
+
+**Vital Farms descubrió**: Los clientes no solo compran huevos. Compran la idea de gallinas felices en pastoreo, un granjero real en quien confiar, y comida mejor para el planeta.
+
+**La historia de Laura es convincente**:
 - "Huevos de la granja familiar en Oviedo"
-- Real hens, real farm, real family
-- Fresh, not from a warehouse
-- You can visit / see photos on WhatsApp
+- Gallinas reales, granja real, familia real
+- Frescos, no de un almacén
+- Puedes visitar / ver fotos en WhatsApp
 
-**This story is worth 2,000-4,000 Gs/dozen premium** 
-in Asunción's middle-class neighborhoods.
-
----
-
-## Financial Benchmarks
-
-### What 100 Hens Can Generate
-
-| Item | Monthly | Annual |
-|------|---------|--------|
-| Eggs produced | ~2,400-2,700 | ~28,800-32,400 |
-| Direct sales @ G. 12,000/doz | G. 2,880,000-3,240,000 | G. 34,560,000-38,880,000 |
-| Direct sales @ G. 15,000/doz | G. 3,600,000-4,050,000 | G. 43,200,000-48,600,000 |
-| Direct sales @ G. 18,000/doz | G. 4,320,000-4,860,000 | G. 51,840,000-58,320,000 |
-
-**Note**: Assumes 80-90% lay rate, 28 eggs/dozen
+**Esta historia vale 2,000-4,000 Gs/docena de premium** en los barrios de clase media de Asunción.
 
 ---
 
-### Profit Margins by Channel
+## Referencias Financieras
 
-| Channel | Revenue | Costs | Margin |
-|---------|---------|-------|--------|
-| Wholesale | 100% | 85% | 15% |
-| Restaurant | 130% | 90% | 40% |
-| Direct consumer | 160% | 100% | 60% |
+### Lo Que 100 Gallinas Pueden Generar
+
+| Artículo | Mensual | Anual |
+|----------|---------|-------|
+| Huevos producidos | ~2,400-2,700 | ~28,800-32,400 |
+| Ventas directas @ G. 12,000/doc | G. 2,880,000-3,240,000 | G. 34,560,000-38,880,000 |
+| Ventas directas @ G. 15,000/doc | G. 3,600,000-4,050,000 | G. 43,200,000-48,600,000 |
+| Ventas directas @ G. 18,000/doc | G. 4,320,000-4,860,000 | G. 51,840,000-58,320,000 |
+
+**Nota**: Asume 80-90% tasa de postura, 28 huevos/docena
+
+---
+
+### Márgenes de Ganancia por Canal
+
+| Canal | Ingresos | Costos | Margen |
+|-------|---------|--------|--------|
+| Mayorista | 100% | 85% | 15% |
+| Restaurante | 130% | 90% | 40% |
+| Consumidor directo | 160% | 100% | 60% |
 | Premium + delivery | 200% | 110% | 90% |
 
-**The math**: Selling direct costs a bit more (time, delivery) 
-but generates 3-6x the margin per dozen.
+**La matemática**: Vender directo cuesta un poco más (tiempo, delivery) pero genera 3-6x el margen por docena.
 
 ---
 
-## Quick Wins from Global Benchmarks
+## Victorias Rápidas de las Referencias Globales
 
-1. **WhatsApp catalog** → Instant premium positioning (free)
-2. **Free-range label** → +3,000-5,000 Gs/dozen
-3. **2 fixed delivery days** → Build recurring customers
-4. **Egg grading consistency** → Trust = premium price
-5. **"Family farm" story** → Emotional connection, repeat buyers
+1. **Catálogo WhatsApp** → Posicionamiento premium instantáneo (gratis)
+2. **Etiqueta libre pastoreo** → +3,000-5,000 Gs/docena
+3. **2 días de entrega fijos** → Construir clientes recurrentes
+4. **Consistencia en clasificación de huevos** → Confianza = precio premium
+5. **Historia de "granja familiar"** → Conexión emocional, compradores recurrentes
 
 ---
 
-*Sources: Holy Eggs Córdoba 2021, Guatemala Rural Income Study 2026,
-Vital Farms Annual Report, JMZ Farms Texas, 
-Kenya MEDA Success Stories, Al Campo Paraguay*
+*Fuentes: Holy Eggs Córdoba 2021, Estudio de Ingresos Rurales Guatemala 2026, Informe Anual Vital Farms, JMZ Farms Texas, Historias de Éxito MEDA Kenia, Al Campo Paraguay*

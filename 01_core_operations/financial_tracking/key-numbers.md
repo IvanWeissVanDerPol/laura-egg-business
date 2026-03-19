@@ -1,257 +1,257 @@
-# 🔢 KEY NUMBERS — All Data Points in One Place
+# 🔢 NÚMEROS CLAVE — Todos los Datos en un Solo Lugar
 
-## Production
+## Producción
 
-| Metric | Value | Unit | Source |
-|--------|-------|------|--------|
-| Current hens | ~100 | hens | WhatsApp chat |
-| Peak production | ~126 | eggs/day | WhatsApp chat |
-| Sustainable production | ~80-100 | eggs/day | WhatsApp chat |
-| Lay rate | 75-90% | % | Industry standard |
-| Eggs per dozen | 28 | eggs | Industry standard |
-
----
-
-## Revenue (2021-2026) — ACTUAL DATA
-
-### 2021 Baseline (from WhatsApp chat)
-
-| Metric | Value | Currency | Date | Source |
-|--------|-------|----------|------|--------|
-| 4-day revenue example | 1,197,500 | Gs | 2021 | WhatsApp chat |
-| Daily avg (from 4-day) | ~299,375 | Gs | 2021 | Calculated |
-| Monthly est. (2021) | ~8,981,250 | Gs | 2021 | Calculated |
-
-### 2024 ACTUAL Sales (from real data analysis)
-
-| Metric | Value | Currency | Period | Source |
-|--------|-------|----------|--------|--------|
-| **June 2024 daily peak** | ~2,000,000+ | Gs | Jun 1-4, 2024 | Sales log analysis |
-| **June 2024 4-day total** | 7,315,500 | Gs | Jun 1-4, 2024 | Sales log analysis |
-| **June 2024 projected monthly** | 55,200,000 | Gs | Jun 2024 | Calculated |
-| **Top customer (Fada) monthly** | 16,000,000-18,000,000 | Gs | 2024 | Sales log analysis |
-| **Top 3 customers monthly** | 35,000,000-40,000,000 | Gs | 2024 | Sales log analysis |
-| **Estimated actual monthly** | 15,000,000-25,000,000 | Gs | 2024 | Conservative est. |
-
-### Market Prices
-
-| Metric | Value | Currency | Date | Source |
-|--------|-------|----------|------|--------|
-| Wholesale price | 9,200 | Gs/doz | Feb 2026 | Abasto Asunción |
-| Plancha 30 price | 45,000+ | Gs | Mar 2026 | Market |
+| Métrica | Valor | Unidad | Fuente |
+|---------|-------|--------|--------|
+| Gallinas actuales | ~100 | gallinas | Chat WhatsApp |
+| Pico de producción | ~126 | huevos/día | Chat WhatsApp |
+| Producción sostenible | ~80-100 | huevos/día | Chat WhatsApp |
+| Tasa de postura | 75-90% | % | Estándar de la industria |
+| Huevos por docena | 28 | huevos | Estándar de la industria |
 
 ---
 
-## 📊 ACTUAL PRICES 2024 (from real sales data)
+## Ingresos (2021-2026) — DATOS REALES
 
-### Price Evolution by Size (Gs per dozen)
+### Línea base 2021 (del chat de WhatsApp)
 
-| Period | Size A (T1) | Size B (T2) | Size S (T3) | Size J (Jumbo) | Source |
-|--------|-------------|-------------|-------------|----------------|--------|
-| **June 2024** | 23-25 | 21-23 | 24-27 | 27-30 | Sales log |
-| **August 2024** | 22-23 | 21-23 | 23-25 | 25-28 | Sales log |
-| **October 2024** | 19-22 | 17-20 | 21-22 | 25 | Sales log |
-| **December 2024** | 18-22 | 16-19 | 21-22 | 25 | Sales log |
-| **Price change (Jun→Dec)** | -20% | -20% | -18% | -17% | Calculated |
+| Métrica | Valor | Moneda | Fecha | Fuente |
+|---------|-------|--------|-------|--------|
+| Ejemplo ingreso 4 días | 1,197,500 | Gs | 2021 | Chat WhatsApp |
+| Promedio diario (de 4 días) | ~299,375 | Gs | 2021 | Calculado |
+| Estimación mensual (2021) | ~8,981,250 | Gs | 2021 | Calculado |
 
-**Key Finding**: Prices decreased ~20% from winter (June) to summer (December), showing clear seasonal pattern.
+### Ventas REALES 2024 (de análisis de datos)
 
-### 2021 vs 2024 Price Comparison
+| Métrica | Valor | Moneda | Período | Fuente |
+|---------|-------|--------|---------|--------|
+| **Pico diario Junio 2024** | ~2,000,000+ | Gs | Jun 1-4, 2024 | Análisis registro de ventas |
+| **Total 4 días Junio 2024** | 7,315,500 | Gs | Jun 1-4, 2024 | Análisis registro de ventas |
+| **Proyección mensual Junio 2024** | 55,200,000 | Gs | Jun 2024 | Calculado |
+| **Cliente top (Fada) mensual** | 16,000,000-18,000,000 | Gs | 2024 | Análisis registro de ventas |
+| **Top 3 clientes mensual** | 35,000,000-40,000,000 | Gs | 2024 | Análisis registro de ventas |
+| **Estimación real mensual** | 15,000,000-25,000,000 | Gs | 2024 | Estimación conservadora |
 
-| Size | 2021 Price | 2024 Avg Price | Increase | Source |
-|------|------------|----------------|----------|--------|
-| **A (T1)** | G. 15,000 | G. 21,000 | +40% | WhatsApp vs Sales log |
-| **B (T2)** | G. 12,000-13,500 | G. 19,000 | +40-58% | WhatsApp vs Sales log |
-| **S (T3)** | G. 14,000-18,000 | G. 23,000 | +28-64% | WhatsApp vs Sales log |
-| **J (Jumbo)** | G. 16,000 | G. 27,000 | +69% | WhatsApp vs Sales log |
+### Precios de Mercado
 
----
-
-## 👥 ACTUAL CUSTOMERS (from 2024 sales data)
-
-### Top Customers by Revenue (2024)
-
-| Rank | Customer | Type | Avg Order | Monthly Volume | Monthly Revenue | Payment Status |
-|------|----------|------|-----------|----------------|-----------------|----------------|
-| 1 | **Fada** | Bulk/Wholesale | 50-100+ doz | ~800 dozens | G. 16-18M | Some debt |
-| 2 | **Dalila** | Bulk/Regular | 30-60 doz | ~500 dozens | G. 10-12M | Has debt |
-| 3 | **Coti** | Bulk/Regular | 40-60 doz | ~400 dozens | G. 8-10M | Pays |
-| 4 | **Fredi/Fredy** | Regular | 10-20 doz | ~100 dozens | G. 2-2.5M | Transfer |
-| 5 | **Noelia** | Regular | 10 doz | ~80 dozens | G. 1.6-2M | Pays |
-| 6 | **Ramón disco** | Regular | 30-40 doz | ~150 dozens | G. 3-3.5M | Has debt |
-| 7 | **Derlis Paredes** | Regular | 10-15 doz | ~60 dozens | G. 1.3-1.5M | Pays |
-| 8 | **Joel sabor urbano** | Business | 40-60 doz | ~80 dozens | G. 1.6-2M | Pays |
-| 9 | **Benito** | Regular | 10 doz | ~50 dozens | G. 1-1.2M | Pays |
-| 10 | **Vecinos** | Occasional | 2-5 doz | ~40 dozens | G. 0.8-1M | Cash |
-
-### Customer Segmentation (2024)
-
-| Segment | Customers | % of Revenue | Avg Order | Priority |
-|---------|-----------|--------------|-----------|----------|
-| **Wholesale (40+ doz)** | Fada, Dalila, Coti, Ramón | ~60% | 50-100+ doz | ⭐ Critical |
-| **Regular (10-39 doz)** | Fredi, Noelia, Derlis, Benito, Joel | ~30% | 10-30 doz | ⭐ High |
-| **Occasional (<10 doz)** | Vecinos, Random, family | ~10% | 2-8 doz | Normal |
+| Métrica | Valor | Moneda | Fecha | Fuente |
+|---------|-------|--------|-------|--------|
+| Precio mayorista | 9,200 | Gs/doc | Feb 2026 | Abasto Asunción |
+| Precio plancha 30 | 45,000+ | Gs | Mar 2026 | Mercado |
 
 ---
 
-## 🐔 ACTUAL PRODUCT MIX (2024)
+## 📊 PRECIOS REALES 2024 (de datos de ventas reales)
 
-### Egg Sales by Size
+### Evolución de Precios por Tamaño (Gs por docena)
 
-| Size | Volume % | Avg Price (Gs/doz) | Monthly Est. Revenue | Margin Est. |
-|------|----------|-------------------|---------------------|-------------|
+| Período | Tamaño A (T1) | Tamaño B (T2) | Tamaño S (T3) | Tamaño J (Jumbo) | Fuente |
+|---------|---------------|---------------|---------------|------------------|--------|
+| **Junio 2024** | 23-25 | 21-23 | 24-27 | 27-30 | Registro de ventas |
+| **Agosto 2024** | 22-23 | 21-23 | 23-25 | 25-28 | Registro de ventas |
+| **Octubre 2024** | 19-22 | 17-20 | 21-22 | 25 | Registro de ventas |
+| **Diciembre 2024** | 18-22 | 16-19 | 21-22 | 25 | Registro de ventas |
+| **Cambio de precio (Jun→Dic)** | -20% | -20% | -18% | -17% | Calculado |
+
+**Hallazgo clave**: Los precios disminuyeron ~20% del invierno (junio) al verano (diciembre), mostrando un patrón estacional claro.
+
+### Comparación de Precios 2021 vs 2024
+
+| Tamaño | Precio 2021 | Precio Prom. 2024 | Aumento | Fuente |
+|--------|-------------|-------------------|---------|--------|
+| **A (T1)** | G. 15,000 | G. 21,000 | +40% | WhatsApp vs Registro de ventas |
+| **B (T2)** | G. 12,000-13,500 | G. 19,000 | +40-58% | WhatsApp vs Registro de ventas |
+| **S (T3)** | G. 14,000-18,000 | G. 23,000 | +28-64% | WhatsApp vs Registro de ventas |
+| **J (Jumbo)** | G. 16,000 | G. 27,000 | +69% | WhatsApp vs Registro de ventas |
+
+---
+
+## 👥 CLIENTES REALES (de datos de ventas 2024)
+
+### Top Clientes por Ingresos (2024)
+
+| Ranking | Cliente | Tipo | Orden Prom. | Volúmen Mensual | Ingreso Mensual | Estado de Pago |
+|---------|---------|------|-------------|-----------------|-----------------|----------------|
+| 1 | **Fada** | Mayorista | 50-100+ doc | ~800 docenas | G. 16-18M | Algo de deuda |
+| 2 | **Dalila** | Mayorista/Regular | 30-60 doc | ~500 docenas | G. 10-12M | Tiene deuda |
+| 3 | **Coti** | Mayorista/Regular | 40-60 doc | ~400 docenas | G. 8-10M | Paga |
+| 4 | **Fredi/Fredy** | Regular | 10-20 doc | ~100 docenas | G. 2-2.5M | Transferencia |
+| 5 | **Noelia** | Regular | 10 doc | ~80 docenas | G. 1.6-2M | Paga |
+| 6 | **Ramón disco** | Regular | 30-40 doc | ~150 docenas | G. 3-3.5M | Tiene deuda |
+| 7 | **Derlis Paredes** | Regular | 10-15 doc | ~60 docenas | G. 1.3-1.5M | Paga |
+| 8 | **Joel sabor urbano** | Negocio | 40-60 doc | ~80 docenas | G. 1.6-2M | Paga |
+| 9 | **Benito** | Regular | 10 doc | ~50 docenas | G. 1-1.2M | Paga |
+| 10 | **Vecinos** | Ocasional | 2-5 doc | ~40 docenas | G. 0.8-1M | Efectivo |
+
+### Segmentación de Clientes (2024)
+
+| Segmento | Clientes | % de Ingresos | Orden Prom. | Prioridad |
+|----------|----------|---------------|-------------|-----------|
+| **Mayorista (40+ doc)** | Fada, Dalila, Coti, Ramón | ~60% | 50-100+ doc | ⭐ Crítico |
+| **Regular (10-39 doc)** | Fredi, Noelia, Derlis, Benito, Joel | ~30% | 10-30 doc | ⭐ Alto |
+| **Ocasional (<10 doc)** | Vecinos, Random, familia | ~10% | 2-8 doc | Normal |
+
+---
+
+## 🐔 MEZCLA DE PRODUCTOS REAL (2024)
+
+### Ventas de Huevos por Tamaño
+
+| Tamaño | % Volúmen | Precio Prom. (Gs/doc) | Ingreso Mensual Est. | Margen Est. |
+|--------|-----------|-----------------------|----------------------|-------------|
 | **A (T1)** | 45% | G. 21 | G. 7-10M | 60-70% |
 | **B (T2)** | 30% | G. 19 | G. 4.5-6M | 55-65% |
 | **S (T3)** | 15% | G. 23 | G. 2.5-3.5M | 65-75% |
 | **J (Jumbo)** | 10% | G. 27 | G. 2-3M | 70-80% |
-| **Picado** | <5% | G. 15/each | G. 0.5-1M | 50% |
+| **Picado** | <5% | G. 15/cada | G. 0.5-1M | 50% |
 
-### Additional Revenue Streams (Observed in 2024)
+### Fuentes de Ingreso Adicionales (Observadas en 2024)
 
-| Product | Price | Annual Volume | Annual Revenue | Source |
-|---------|-------|---------------|----------------|--------|
-| **Spent hens** | G. 20,000/each | 50-100 sold | G. 1-2M | Sales log |
-| **Manure bags** | G. 10/bag | 500-1,000 bags | G. 500K-1M | Sales log |
-| **Total secondary** | - | - | **G. 1.5-3M/year** | Calculated |
-
----
-
-## Costs (Estimated)
-
-| Item | Est. Cost | Unit | Source |
-|------|----------|------|--------|
-| Feed (100 hens) | ~800,000 | Gs/month | Industry est. |
-| Feed per hen | ~40 | Gs/day | Industry est. |
-| Feed per hen | ~27,000 | Gs/month | Calculated |
-| Vaccines (annual) | 30,000-50,000 | Gs | SENACSA est. |
-| Oyster shell (25kg) | 15,000-25,000 | Gs | Agro-veterinaria |
+| Producto | Precio | Volúmen Anual | Ingreso Anual | Fuente |
+|----------|--------|---------------|---------------|--------|
+| **Gallinas viejas** | G. 20,000/cada | 50-100 vendidas | G. 1-2M | Registro de ventas |
+| **Bolsas de estiércol** | G. 10/bolsa | 500-1,000 bolsas | G. 500K-1M | Registro de ventas |
+| **Total secundario** | - | - | **G. 1.5-3M/año** | Calculado |
 
 ---
 
-## Margins
+## Costos (Estimados)
 
-| Channel | Price (Gs/doz) | Margin | Source |
-|---------|---------------|--------|--------|
-| Wholesale | 7,000-8,000 | 15% | Market |
-| Restaurant | 11,000-14,000 | 40% | Market |
-| Direct consumer | 14,000-18,000 | 60% | Market |
-| Premium + delivery | 16,000-22,000 | 90% | Market |
-
----
-
-## Investments
-
-| Item | Cost (Gs) | Category | Source |
-|------|----------|----------|--------|
-| Logo + design | 100,000 | Startup | Estimated |
-| Boxes (50) | 150,000 | Startup | Estimated |
-| Business cards (100) | 30,000 | Startup | Estimated |
-| LED timer | 40,000-65,000 | Tech | Electronics |
-| Nipple waterer DIY | 8,000-15,000 | Tech | Estimated |
-| Foot bath | 25,000 | Biosecurity | Estimated |
-| Solar 50W | 300,000-400,000 | Energy | CdE shops |
-| Incubator | 600,000-1,200,000 | Production | Asunción suppliers |
+| Artículo | Costo Est. | Unidad | Fuente |
+|----------|----------|--------|--------|
+| Alimento (100 gallinas) | ~800,000 | Gs/mes | Estimación de la industria |
+| Alimento por gallina | ~40 | Gs/día | Estimación de la industria |
+| Alimento por gallina | ~27,000 | Gs/mes | Calculado |
+| Vacunas (anual) | 30,000-50,000 | Gs | Estimación SENACSA |
+| Concha de ostra (25kg) | 15,000-25,000 | Gs | Agro-veterinaria |
 
 ---
 
-## Paraguay Context
+## Márgenes
 
-| Metric | Value | Source |
-|--------|-------|--------|
-| USD exchange rate | ~7,800 Gs | March 2026 |
-| Salary minimum | 2,742,865 Gs/month | Paraguay 2026 |
-| Egg consumption/capita | ~140/year | FAOstat / MAG |
-| Oviedo population | ~130,000 | INE |
+| Canal | Precio (Gs/doc) | Margen | Fuente |
+|-------|-----------------|--------|--------|
+| Mayorista | 7,000-8,000 | 15% | Mercado |
+| Restaurante | 11,000-14,000 | 40% | Mercado |
+| Consumidor directo | 14,000-18,000 | 60% | Mercado |
+| Premium + delivery | 16,000-22,000 | 90% | Mercado |
 
 ---
 
-## Global Benchmarks
+## Inversiones
 
-| Farm | Hens | Price/doz | USD equiv | Source |
-|------|------|-----------|----------|--------|
+| Artículo | Costo (Gs) | Categoría | Fuente |
+|----------|-----------|-----------|--------|
+| Logo + diseño | 100,000 | Inicio | Estimado |
+| Cajas (50) | 150,000 | Inicio | Estimado |
+| Tarjetas de presentación (100) | 30,000 | Inicio | Estimado |
+| Temporizador LED | 40,000-65,000 | Tecnología | Tiendas de electrónica |
+| Bebedero de pezón DIY | 8,000-15,000 | Tecnología | Estimado |
+| Baño de pies | 25,000 | Bioseguridad | Estimado |
+| Solar 50W | 300,000-400,000 | Energía | Tiendas CdE |
+| Incubadora | 600,000-1,200,000 | Producción | Proveedores Asunción |
+
+---
+
+## Contexto Paraguay
+
+| Métrica | Valor | Fuente |
+|---------|-------|--------|
+| Tasa de cambio USD | ~7,800 Gs | Marzo 2026 |
+| Salario mínimo | 2,742,865 Gs/mes | Paraguay 2026 |
+| Consumo de huevos/cápita | ~140/año | FAOstat / MAG |
+| Población Oviedo | ~130,000 | INE |
+
+---
+
+## Referencias Globales
+
+| Granja | Gallinas | Precio/doc | Equiv. USD | Fuente |
+|--------|----------|-----------|------------|--------|
 | Holy Eggs Argentina | 600 | +25% | ~$3.50 | infonegocios |
-| JMZ Farms Texas | 500 | $12.50 | $12.50 | Market |
+| JMZ Farms Texas | 500 | $12.50 | $12.50 | Mercado |
 | Vital Farms USA | — | $7-9 | $7-9 | Vital Farms |
 
 ---
 
-## Historical Prices (Gs/doz)
+## Precios Históricos (Gs/doc)
 
-| Year | Price | Event | Source |
-|------|-------|-------|--------|
-| 1996 | 800 | Baseline | Pedro Severiche FB |
-| 2000 | 1,800 | Baseline | Pedro Severiche FB |
-| 2016 | 3,500 | Oversupply | ABC Color |
+| Año | Precio | Evento | Fuente |
+|-----|--------|--------|--------|
+| 1996 | 800 | Línea base | Pedro Severiche FB |
+| 2000 | 1,800 | Línea base | Pedro Severiche FB |
+| 2016 | 3,500 | Sobreoferta | ABC Color |
 | 2022 | 5,040 | Crisis | ABC Color |
-| Feb 2026 | 9,200 | Current wholesale | Abasto Asunción |
+| Feb 2026 | 9,200 | Mayorista actual | Abasto Asunción |
 
 ---
 
-## Byproduct Potential
+## Potencial de Subproductos
 
-| Product | Annual Volume | Revenue | Source |
-|---------|-------------|---------|--------|
-| Cecinia (spent hens) | 35 hens | 3,500,000-4,000,000 | Calculated |
-| Manure | 5,500 kg | 1,000,000-2,000,000 | Market |
-| Eggshells recycled | 200 kg | 400,000-800,000 | Calculated |
-| Feathers | 60 kg | 300,000-500,000 | Market |
+| Producto | Volúmen Anual | Ingreso | Fuente |
+|----------|--------------|---------|--------|
+| Cecinia (gallinas viejas) | 35 gallinas | 3,500,000-4,000,000 | Calculado |
+| Estiércol | 5,500 kg | 1,000,000-2,000,000 | Mercado |
+| Cáscaras recicladas | 200 kg | 400,000-800,000 | Calculado |
+| Plumas | 60 kg | 300,000-500,000 | Mercado |
 | **Total** | | **5,200,000-7,300,000** | |
 
 ---
 
-## Key Contacts
+## Contactos Clave
 
-### Business Team
+### Equipo de Negocio
 
-| Person | Role | Phone | Source |
-|--------|------|-------|--------|
-| Laura | Owner | +595 975 346258 | WhatsApp |
-| Laura (biz) | Owner | 0982 911 935 | Chat |
-| Jorge | Co-owner | — | Chat |
+| Persona | Rol | Teléfono | Fuente |
+|---------|-----|----------|--------|
+| Laura | Dueña | +595 975 346258 | WhatsApp |
+| Laura (negocios) | Dueña | 0982 911 935 | Chat |
+| Jorge | Co-dueño | — | Chat |
 | Kevin | Delivery | — | WhatsApp |
-| Alejandro | Support | +595 972 130 867 | OpenClaw |
+| Alejandro | Soporte | +595 972 130 867 | OpenClaw |
 
-### Top Customers (from 2024 sales data)
+### Top Clientes (de datos de ventas 2024)
 
-| Customer | Type | Est. Monthly Revenue | Payment Status | Priority |
-|----------|------|---------------------|----------------|----------|
-| **Fada** | Bulk/Wholesale | G. 16-18M | Some debt | ⭐ Critical |
-| **Dalila** | Bulk/Regular | G. 10-12M | Has debt | ⭐ Critical |
-| **Coti** | Bulk/Regular | G. 8-10M | Pays | ⭐ Critical |
-| **Fredi/Fredy** | Regular | G. 2-2.5M | Transfer | High |
-| **Noelia** | Regular | G. 1.6-2M | Pays | High |
-| **Ramón disco** | Regular | G. 3-3.5M | Has debt | High |
-| **Joel sabor urbano** | Business | G. 1.6-2M | Pays | Medium |
-| **Derlis Paredes** | Regular | G. 1.3-1.5M | Pays | Medium |
-| **Benito** | Regular | G. 1-1.2M | Pays | Medium |
+| Cliente | Tipo | Ingreso Mensual Est. | Estado de Pago | Prioridad |
+|---------|------|----------------------|----------------|-----------|
+| **Fada** | Mayorista | G. 16-18M | Algo de deuda | ⭐ Crítico |
+| **Dalila** | Mayorista/Regular | G. 10-12M | Tiene deuda | ⭐ Crítico |
+| **Coti** | Mayorista/Regular | G. 8-10M | Paga | ⭐ Crítico |
+| **Fredi/Fredy** | Regular | G. 2-2.5M | Transferencia | Alto |
+| **Noelia** | Regular | G. 1.6-2M | Paga | Alto |
+| **Ramón disco** | Regular | G. 3-3.5M | Tiene deuda | Alto |
+| **Joel sabor urbano** | Negocio | G. 1.6-2M | Paga | Medio |
+| **Derlis Paredes** | Regular | G. 1.3-1.5M | Paga | Medio |
+| **Benito** | Regular | G. 1-1.2M | Paga | Medio |
 
-### Prospects (from market research)
+### Prospectos (de investigación de mercado)
 
-| Business | Type | Contact | Potential |
-|----------|------|---------|-----------|
-| DECO | Restaurant/Hotel | +595 975 929216 | HIGH |
-| La Parrilla de Charlot | Restaurant | +595 971 428273 | MEDIUM |
-| Supermercado Stock | Supermarket | 0214-171981 | MEDIUM |
-| Supermercado Galemar | Supermarket | — | MEDIUM |
-
----
-
-## 📊 DATA QUALITY NOTES
-
-### Data Sources Analyzed
-| File | Lines | Period | Key Insights |
-|------|-------|--------|--------------|
-| `ventas laura 2024 06 al 12.txt` | 3,053 | Jun-Dec 2024 | Current pricing, customers |
-| `Chat de WhatsApp con VENTAS 🥚🥚🥚.txt` | 6,416 | Jan-Jun 2021 | Historical baseline |
-| `data/key-numbers.md` | Updated | Summary | This file |
-
-### Data Gaps Identified
-1. **Excel file** "ventas huevos laura y jorge 01 jun - 26 dic 2024.xlsx" - Not yet analyzed
-2. **Cost data** - Feed, labor, utilities not tracked
-3. **Customer contact details** - Phone numbers for most customers missing
-4. **Profit margins** - Cannot calculate without cost data
+| Negocio | Tipo | Contacto | Potencial |
+|---------|------|----------|-----------|
+| DECO | Restaurante/Hotel | +595 975 929216 | ALTO |
+| La Parrilla de Charlot | Restaurante | +595 971 428273 | MEDIO |
+| Supermercado Stock | Supermercado | 0214-171981 | MEDIO |
+| Supermercado Galemar | Supermercado | — | MEDIO |
 
 ---
 
-*Updated: March 19, 2026*
-*Based on analysis of 9,469+ lines of real sales data*
+## 📊 NOTAS DE CALIDAD DE DATOS
+
+### Fuentes de Datos Analizadas
+| Archivo | Líneas | Período | Hallazgos Clave |
+|---------|--------|---------|-----------------|
+| `ventas laura 2024 06 al 12.txt` | 3,053 | Jun-Dic 2024 | Precios actuales, clientes |
+| `Chat de WhatsApp con VENTAS 🥚🥚🥚.txt` | 6,416 | Ene-Jun 2021 | Línea base histórica |
+| `data/key-numbers.md` | Actualizado | Resumen | Este archivo |
+
+### Brechas de Datos Identificadas
+1. **Archivo Excel** "ventas huevos laura y jorge 01 jun - 26 dic 2024.xlsx" - Aún no analizado
+2. **Datos de costos** - Alimento, mano de obra, servicios no rastreados
+3. **Detalles de contacto de clientes** - Números de teléfono de la mayoría de clientes faltan
+4. **Márgenes de ganancia** - No se pueden calcular sin datos de costos
+
+---
+
+*Actualizado: 19 de Marzo, 2026*
+*Basado en análisis de 9,469+ líneas de datos de ventas reales*

@@ -1,157 +1,149 @@
-# 🐔 Tech Upgrades for Small Egg Farms — Global Research 2026
+# 🐔 Mejoras Tecnológicas para Granjas Pequeñas de Huevos — Investigación Global 2026
 
-## Why This Matters for Laura
+## Por Qué Esto Importa para Laura
 
-Laura's farm has ~80-100 hens. The same challenges exist everywhere: 
-labor, feed costs, mortality, and market access. Farmers in Kenya, 
-Guatemala, Mexico, and the Philippines have found simple, affordable 
-solutions. Here's what's worked for farms her size worldwide.
+La granja de Laura tiene ~80-100 gallinas. Los mismos desafíos existen en todas partes: mano de obra, costos de alimento, mortalidad y acceso al mercado. Agricultores en Kenia, Guatemala, México y Filipinas han encontrado soluciones simples y asequibles. Esto es lo que ha funcionado para granjas de su tamaño en todo el mundo.
 
 ---
 
-## The Best Tech Upgrades by Budget
+## Las Mejores Mejoras Tecnológicas por Presupuesto
 
-### Under $50 — Highest ROI
+### Menos de $50 — Mayor ROI
 
-| Tool | What It Does | Paraguay Availability |
+| Herramienta | Qué Hace | Disponibilidad en Paraguay |
 |------|-------------|---------------------|
-| **Automatic nipple waterer** | Clean water always available, less labor | Buy at agro-veterinaria or import from MercadoLibre |
-| **Digital thermometer + hygrometer** | Monitor coop temp/humidity | G. 25,000-60,000 at electronics stores |
-| **LED light timer** | Consistent 14-hour light cycle year-round | G. 15,000-40,000 at electronics stores |
-| **Smartphone camera (old phone)** | Remote monitoring, detect predators | Already have it |
+| **Bebedero de pezón automático** | Agua limpia siempre disponible, menos mano de obra | Comprar en agro-veterinaria o importar de MercadoLibre |
+| **Termómetro digital + higrómetro** | Monitorear temperatura/humedad del gallinero | G. 25,000-60,000 en tiendas de electrónica |
+| **Temporizador luz LED** | Ciclo de luz de 14 horas consistente todo el año | G. 15,000-40,000 en tiendas de electrónica |
+| **Cámara de celular (celular viejo)** | Monitoreo remoto, detectar depredadores | Ya lo tiene |
 
-### Under $200 — Real Impact
+### Menos de $200 — Impacto Real
 
-| Tool | What It Does | Paraguay Availability |
+| Herramienta | Qué Hace | Disponibilidad en Paraguay |
 |------|-------------|---------------------|
-| **Solar panel (100W) + battery** | Power for lights, water pump, phone charging | G. 350,000-600,000 from solar shops in CdE |
-| **Automatic chicken door** | Opens/closes at dawn/dusk, predator protection | Import from AliExpress (G. 120,000-200,000) |
-| **Feed hopper with anti-waste cone** | Reduces feed loss from scratching | Can build locally with sheet metal |
-| **Egg incubator (50-100 egg)** | Hatch own chicks, no need to buy layers | G. 600,000-1,200,000 from Asunción suppliers |
+| **Panel solar (100W) + batería** | Energía para luces, bomba de agua, carga de celular | G. 350,000-600,000 en tiendas solares CdE |
+| **Puerta automática para pollos** | Abre/cierra al amanecer/atardecer, protección depredadores | Importar de AliExpress (G. 120,000-200,000) |
+| **Comedero con cono anti-desperdicio** | Reduce pérdida de alimento por rascado | Puede construir localmente con chapa metálica |
+| **Incubadora de huevos (50-100 huevos)** | Incubar propias pollitas, no necesitar comprar ponedoras | G. 600,000-1,200,000 de proveedores Asunción |
 
-### Under $500 — Game Changers
+### Menos de $500 — Cambiadores de Juego
 
-| Tool | What It Does | Paraguay Availability |
+| Herramienta | Qué Hace | Disponibilidad en Paraguay |
 |------|-------------|---------------------|
-| **Automated feeder system** | Precise feeding 2x/day, prevents waste | Import or build locally |
-| **IoT temperature sensor (Xiaomi Mi Home)** | Phone alerts if coop gets too hot/cold | G. 80,000-150,000 |
-| **Solar lighting kit for coop** | Maintain laying in winter/night | G. 200,000-400,000 |
-| **Water filtration system** | Cleaner water = healthier hens | G. 300,000-500,000 |
+| **Sistema de alimentación automatizado** | Alimentación precisa 2x/día, previene desperdicio | Importar o construir localmente |
+| **Sensor de temperatura IoT (Xiaomi Mi Home)** | Alertas en celular si el gallinero se pone muy caliente/frío | G. 80,000-150,000 |
+| **Kit de iluminación solar para gallinero** | Mantener postura en invierno/noche | G. 200,000-400,000 |
+| **Sistema de filtración de agua** | Agua más limpia = gallinas más saludables | G. 300,000-500,000 |
 
 ---
 
-## What Small Farms in Similar Markets Are Doing
+## Lo Que Las Granjas Pequeñas en Mercados Similares Están Haciendo
 
-### 🌎 Guatemala — 265 Hens, Mother-Daughter Team
-- **Model**: Rural family farm, local market sales
-- **Key insight**: Organize daily production into consistent income stream
-- **Sales**: Local markets + direct to neighbors
-- **Lesson**: A well-organized 265-hen operation can generate continuous 
-  rural income. Laura has 80-100 hens — similar scale, same opportunity.
+### 🌎 Guatemala — 265 Gallinas, Equipo Madre-Hija
+- **Modelo**: Granja familiar rural, ventas en mercado local
+- **Hallazgo clave**: Organizar producción diaria en flujo de ingresos consistente
+- **Ventas**: Mercados locales + directo a vecinos
+- **Lección**: Una operación bien organizada de 265 gallinas puede generar ingresos rurales continuos. Laura tiene 80-100 gallinas — escala similar, misma oportunidad.
 
 ### 🇧🇷 Brazil — Small Farm Premium Shift
 - **Model**: Free-range + organic eggs at 2-3x conventional price
 - **Market**: Urban health-conscious consumers, restaurants
-- **Lesson**: Even without certification, "raised outdoors" positioning 
-  commands higher prices in cities
+- **Lección**: Incluso sin certificación, el posicionamiento de "criados al aire libre" comanda precios más altos en las ciudades
 
-### 🇲🇽 Mexico — Heifer International Model
-- **Model**: Connected small farmers to formal markets
-- **Key insight**: Training + market access > just giving equipment
-- **Lesson**: Focus on who buys the eggs, not just producing more
+### 🇲🇽 México — Modelo Heifer International
+- **Modelo**: Conectó pequeños agricultores con mercados formales
+- **Hallazgo clave**: Capacitación + acceso al mercado > solo dar equipos
+- **Lección**: Enfocarse en quién compra los huevos, no solo en producir más
 
-### 🇰🇪 Kenya — WhatsApp Business for Eggs
-- **Model**: WhatsApp groups for bulk orders + delivery scheduling
-- **Results**: Farmers report 40% fewer unsold eggs
-- **Lesson**: WhatsApp Business catalog + delivery scheduling = 
-  modern farm management without expensive software
+### 🇰🇪 Kenia — WhatsApp Business para Huevos
+- **Modelo**: Grupos de WhatsApp para pedidos a granel + programación de delivery
+- **Resultados**: Agricultores reportan 40% menos huevos sin vender
+- **Lección**: Catálogo WhatsApp Business + programación de delivery = gestión moderna de granja sin software costoso
 
 ---
 
-## App Stack for Laura's Farm (All Free)
+## Paquete de Apps para la Granja de Laura (Todas Gratis)
 
-| App | Why Use It | How |
-|-----|-----------|-----|
-| **WhatsApp Business** | Customer orders, delivery schedule, catalog | Already installed |
-| **Google Sheets** | Track eggs produced, sold, revenue daily | Free, phone + computer |
-| **Google Calendar** | Vaccination schedule, coop cleaning reminders | Free, synced everywhere |
-| **Google Photos** | Take dated photos of coop, hens, eggs | Track visual progress |
-| **MercadoLibre app** | Buy supplies, compare prices | Already used |
+| App | Por Qué Usarla | Cómo |
+|-----|----------------|------|
+| **WhatsApp Business** | Pedidos de clientes, programa de delivery, catálogo | Ya instalada |
+| **Google Sheets** | Rastrear huevos producidos, vendidos, ingresos diarios | Gratis, celular + computadora |
+| **Google Calendar** | Programa de vacunación, recordatorios de limpieza de gallinero | Gratis, sincronizada en todas partes |
+| **Google Photos** | Tomar fotos fechadas del gallinero, gallinas, huevos | Seguimiento visual del progreso |
+| **App MercadoLibre** | Comprar insumos, comparar precios | Ya usada |
 
-**Advanced later (free trials):**
-- **SmartBird** — Poultry farm management, egg tracking, flock health
-- **KukuFarm** — Vaccination schedules, flock performance analytics
-- **Farmbrite** — Full farm ERP with financials
-
----
-
-## Quick Tech Win for This Week
-
-**Install WhatsApp Business on Laura's phone:**
-1. Download WhatsApp Business (separate from regular WhatsApp)
-2. Set up catalog with photos of egg sizes (T1, T2, T3, Jumbo)
-3. Set automated greeting: "Hola! Vendemos huevos frescos de campo"
-4. Set away message for after hours
-5. Create labels: "Cliente nuevo", "Pedido pendiente", "Frecuente"
-
-**Impact**: Studies show WhatsApp Business customers spend 30% more 
-and order 2x more frequently than phone-order customers.
+**Avanzado después (pruebas gratis):**
+- **SmartBird** — Gestión de granja avícola, seguimiento de huevos, salud del rebaño
+- **KukuFarm** — Programas de vacunación, análisis de rendimiento del rebaño
+- **Farmbrite** — ERP completo de granja con finanzas
 
 ---
 
-## Lighting: The Simplest Production Boost
+## Victoria Rápida de Tecnología para Esta Semana
 
-**The science**: Hens need 14+ hours of daylight to lay optimally.
-Paraguay daylight varies from ~10.5 hours (June) to ~13.5 hours (December).
+**Instalar WhatsApp Business en el celular de Laura:**
+1. Descargar WhatsApp Business (separado de WhatsApp regular)
+2. Configurar catálogo con fotos de tamaños de huevo (T1, T2, T3, Jumbo)
+3. Configurar saludo automatizado: "Hola! Vendemos huevos frescos de campo"
+4. Configurar mensaje de ausencia para fuera de horario
+5. Crear etiquetas: "Cliente nuevo", "Pedido pendiente", "Frecuente"
 
-**Fix**: Install a simple LED bulb on a timer in the coop.
-- Timer: G. 25,000-50,000
-- LED bulb: G. 15,000
+**Impacto**: Estudios muestran que clientes de WhatsApp Business gastan 30% más y piden 2x más frecuentemente que clientes por teléfono.
+
+---
+
+## Iluminación: El Impulso de Producción Más Simple
+
+**La ciencia**: Las gallinas necesitan 14+ horas de luz del día para poner óptimamente. La luz del día en Paraguay varía de ~10.5 horas (junio) a ~13.5 horas (diciembre).
+
+**Solución**: Instalar un simple bombillo LED con temporizador en el gallinero.
+- Temporizador: G. 25,000-50,000
+- Bombillo LED: G. 15,000
 - **Total: G. 40,000-65,000**
-- **Expected impact**: +10-15% more eggs, especially in winter months
-- **Setup**: Light on at 5:30 AM, off at 7:30 PM (14 hours total)
+- **Impacto esperado**: +10-15% más huevos, especialmente en meses de invierno
+- **Configuración**: Luz encendida a 5:30 AM, apagada a 7:30 PM (14 horas total)
 
 ---
 
-## Water System Upgrade
+## Mejora del Sistema de Agua
 
-**Problem**: Dirty water bowls = disease spreading.
-**Solution**: Nipple waterer system
+**Problema**: Bowls de agua sucias = propagación de enfermedades.
+**Solución**: Sistema de bebedero de pezón
 
-- **Cost**: G. 60,000-120,000 for 20-liter system
-- **DIY option**: 20L bottle + poultry nipple (G. 8,000-15,000)
-- **Benefit**: 
-  - Water stays clean (no poop contamination)
-  - Hens drink more = better egg production
-  - Less labor refilling
+- **Costo**: G. 60,000-120,000 para sistema de 20 litros
+- **Opción DIY**: Botella 20L + pezón para aves (G. 8,000-15,000)
+- **Beneficio**:
+  - El agua se mantiene limpia (sin contaminación de popó)
+  - Las gallinas beben más = mejor producción de huevos
+  - Menos mano de obra rellenando
 
 ---
 
-## Solar Power for the Coop
+## Energía Solar para el Gallinero
 
-**Problem**: Electricity cuts affect water pumps, lights.
-**Solution**: Small solar setup for coop essentials
+**Problema**: Cortes de electricidad afectan bombas de agua, luces.
+**Solución**: Pequeña instalación solar para esenciales del gallinero
 
-| Component | Cost (Gs) | Purpose |
-|-----------|-----------|---------|
-| 100W solar panel | 350,000-500,000 | Power generation |
-| 12V 40Ah battery | 250,000-350,000 | Storage |
-| Charge controller | 60,000-100,000 | Battery management |
-| LED lights (3x) | 45,000 | Coop lighting |
+| Componente | Costo (Gs) | Propósito |
+|-----------|------------|-----------|
+| Panel solar 100W | 350,000-500,000 | Generación de energía |
+| Batería 12V 40Ah | 250,000-350,000 | Almacenamiento |
+| Controlador de carga | 60,000-100,000 | Gestión de batería |
+| Luces LED (3x) | 45,000 | Iluminación del gallinero |
 | **Total** | **705,000-995,000** | |
 
-**Alternative — smaller start:**
-- 50W panel + small battery for phone charging + 1 LED
+**Alternativa — inicio más pequeño:**
+- Panel 50W + batería pequeña para carga de celular + 1 LED
 - G. 300,000-400,000
-- Charge phone and power small water pump
+- Cargar celular y bomba de agua pequeña
 
 ---
 
-## IoT Monitoring (Future)
+## Monitoreo IoT (Futuro)
 
-**For under G. 200,000:**
-- Xiaomi Mi Home temperature/humidity sensor (G. 80,000-120,000)
-- Sends alerts to phone if coop gets too hot (>32°C) or cold (<10°C)
+**Por menos de G. 200,000:**
+- Sensor de temperatura/humedad Xiaomi Mi Home (G. 80,000-120,000)
+- Envía alertas al celular si el gallinero se puye muy caliente (>32°C) o frío (<10°C)
 - Useful during Paraguay summer heat waves
 
 **This prevents heat stress deaths** — one of the biggest causes of 
@@ -159,20 +151,18 @@ egg production loss in hot climates.
 
 ---
 
-## Key Takeaway
+## Conclusión Clave
 
-> **The best technology is the simplest one you'll actually use.**
+> **La mejor tecnología es la más simple que realmente usarás.**
 
-- WhatsApp Business = free, already have it, highest ROI
-- LED lighting on timer = G. 40,000, +10-15% eggs
-- Nipple waterer = G. 60,000, healthier flock
-- Google Sheets tracking = free, better decisions
+- WhatsApp Business = gratis, ya la tiene, mayor ROI
+- Iluminación LED con temporizador = G. 40,000, +10-15% huevos
+- Bebedero de pezón = G. 60,000, rebaño más saludable
+- Seguimiento en Google Sheets = gratis, mejores decisiones
 
-**Total investment to start: Under G. 200,000 (~$25 USD)**
-**Expected return: +10-15% more eggs + better customer management**
+**Inversión total para empezar: Menos de G. 200,000 (~$25 USD)**
+**Retorno esperado: +10-15% más huevos + mejor gestión de clientes**
 
 ---
 
-*Sources: Farmonaut 2026 AgTech Report, WATTPoultry 2026, 
-MEDA LEGEND Project Kenya, Guatemala Poultry Study 2026, 
-IEEE IoT in Poultry Papers*
+*Fuentes: Informe AgTech Farmonaut 2026, WATTPoultry 2026, Proyecto MEDA LEGEND Kenia, Estudio Avícola Guatemala 2026, Artículos IoT en Avicultura IEEE*

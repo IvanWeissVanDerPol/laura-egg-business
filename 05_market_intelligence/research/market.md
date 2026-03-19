@@ -1,77 +1,77 @@
-# 🗺️ RAW SOURCE DATA — Market Research Coronel Oviedo
+# 🗺️ DATOS CRUDOS FUENTE — Investigación de Mercado Coronel Oviedo
 
-## Source Documentation
+## Documentación de Fuente
 
-All market data traced to primary sources. See individual entries.
+Todos los datos de mercado rastreados a fuentes primarias. Ver entradas individuales.
 
 ---
 
 ## 🏢 SUPERMARKETS
 
 ### Supermercado Favesa
-- **Type:** Local chain
-- **Address:** Centro, Coronel Oviedo
-- **Source:** WhatsApp chat with Laura (mentioned as existing client)
-- **Reliability:** Confirmed by Laura directly
-- **Potential:** Sell surplus eggs, brand placement
+- **Tipo:** Cadena local
+- **Dirección:** Centro, Coronel Oviedo
+- **Fuente:** Chat WhatsApp con Laura (mencionado como cliente existente)
+- **Confiabilidad:** Confirmado por Laura directamente
+- **Potencial:** Vender huevos excedentes, posicionamiento de marca
 
 ### Supermercado Stock
-- **Type:** Regional chain
-- **Address:** Av. Defensores del Chaco y Elisa Lynch, Cnel. Oviedo
-- **Phone:** 0214-171981 (central)
-- **Source:** Google Business listing
+- **Tipo:** Regional chain
+- **Dirección:** Av. Defensores del Chaco y Elisa Lynch, Cnel. Oviedo
+- **Teléfono:** 0214-171981 (central)
+- **Fuente:** Google Business listing
 - **Delivery:** Available
-- **Strategy:** Approach for local supplier partnership
+- **Estrategia:** Approach for local supplier partnership
 
 ### Supermercado Galemar
-- **Type:** Regional chain
-- **Location:** Coronel Oviedo
-- **Source:** Google search
+- **Tipo:** Regional chain
+- **Ubicación:** Coronel Oviedo
+- **Fuente:** Google search
 - **Delivery:** Available
-- **Strategy:** "Productos locales" focus matches Laura's brand
+- **Estrategia:** "Productos locales" focus matches Laura's brand
 
 ### Comercial Elena
-- **Type:** Local supermarket
-- **Location:** Coronel Oviedo
-- **Source:** Google search
-- **Strategy:** Fresh products section
+- **Tipo:** Local supermarket
+- **Ubicación:** Coronel Oviedo
+- **Fuente:** Google search
+- **Estrategia:** Fresh products section
 
 ### Supermercado Luisito
-- **Type:** Neighborhood store
-- **Location:** Barrio, Coronel Oviedo
-- **Source:** Google search
-- **Strategy:** Lower priority — price sensitive
+- **Tipo:** Neighborhood store
+- **Ubicación:** Barrio, Coronel Oviedo
+- **Fuente:** Google search
+- **Estrategia:** Lower priority — price sensitive
 
 ---
 
 ## 🍖 RESTAURANTS & CHURRASQUERÍAS
 
 ### DECO Churrasquería
-- **Type:** Churrasquería + Hotel
-- **Phone:** +595 975 929216
-- **Location:** Ruta 2, Coronel Oviedo
-- **Source:** Google search
-- **Contact name:** (owner name not confirmed)
-- **Potential:** HIGH — tourist route on Ruta 2
-- **Approach:** Visit personally, bring free sample
+- **Tipo:** Churrasquería + Hotel
+- **Teléfono:** +595 975 929216
+- **Ubicación:** Ruta 2, Coronel Oviedo
+- **Fuente:** Google search
+- **Nombre de contacto:** (owner name not confirmed)
+- **Potencial:** HIGH — tourist route on Ruta 2
+- **Enfoque:** Visit personally, bring free sample
 
 ### La Parrilla de Charlot
-- **Type:** Parrilla
-- **Phone:** +595 971 428273
-- **Location:** D Shopping, Coronel Oviedo
-- **Source:** Google search
-- **Potential:** MEDIUM — shopping center foot traffic
-- **Approach:** Call first, offer sample
+- **Tipo:** Parrilla
+- **Teléfono:** +595 971 428273
+- **Ubicación:** D Shopping, Coronel Oviedo
+- **Fuente:** Google search
+- **Potencial:** MEDIUM — shopping center foot traffic
+- **Enfoque:** Call first, offer sample
 
 ### Hotel y Churrasquería DECO
-- **Phone:** +595 975 929216
+- **Teléfono:** +595 975 929216
 - **Same as DECO above** — they have rooms too
 
 ---
 
 ## 🍞 PANADERÍAS
 
-| Name | Est. Consumption | Source | Priority |
+| Nombre | Consumo Est. | Fuente | Prioridad |
 |------|----------------|--------|----------|
 | Panadería La Favorita | 20+ doc/semana | Market estimate | Medium |
 | Panadería El Buen Gusto | 15+ doc/semana | Market estimate | Medium |
@@ -84,114 +84,118 @@ Verify with local knowledge.*
 
 ## 🏥 INSTITUTIONS
 
-| Type | Example | Est. Consumption | Notes |
+| Tipo | Ejemplo | Consumo Est. | Notas |
 |------|---------|-----------------|-------|
 | Colegios | San José, Santa Clara | 50+/mes | Cocina escolar |
 | Hospitales | Hospital Regional | 30+/mes | Dietas especiales |
 | Iglesias | Varias | Eventos | No regular |
 | Comedores | Municipal | 100+/mes | Proceso largo (licitación) |
 
-*Source: Market estimation based on Paraguay institutional food standards*
+*Fuente: Estimación de mercado basada en estándares de comida institucional de Paraguay*
 
 ---
 
 ## 🐔 COMPETITORS — Local Farms
 
 ### Granja Avícola Victor Rafael
-- **Phone:** +595 971 825663
-- **Facebook:** Active, 712 followers
-- **Source:** Facebook search
-- **Strength:** Established social media presence
-- **Weakness:** Unknown quality positioning
+- **Teléfono:** +595 971 825663
+- **Facebook:** Activo, 712 seguidores
+- **Fuente:** Facebook search
+- **Fortaleza:** Presencia establecida en redes sociales
+- **Debilidad:** Posicionamiento de calidad desconocido
 
 ### Granja Avícola EMMANUEL
-- **Phone:** (0521) 202 083
-- **Address:** Calle Pyahu, Colonia Yukyty
-- **Source:** Business directory
-- **Type:** Commercial layer farm
+- **Teléfono:** (0521) 202 083
+- **Dirección:** Calle Pyahu, Colonia Yukyty
+- **Fuente:** Business directory
+- **Tipo:** Commercial layer farm
 
 ### Granja Ña Lula
-- **Source:** Crédito Agrícola case study
-- **Note:** Example of growth through organization
+- **Fuente:** Estudio de caso Crédito Agrícola
+- **Nota:** Ejemplo de crecimiento a través de organización
 
 ### Granja La Celestina
-- **Source:** Commercial guide listing
-- **Note:** Name only, no contact confirmed
+- **Fuente:** Listado de guía comercial
+- **Nota:** Solo nombre, contacto no confirmado
 
 ### Granja Don Rodolfo
-- **Source:** Commercial guide listing
+- **Fuente:** Listado de guía comercial
+- **Nota:** Solo nombre, contacto no confirmado
+
+### Granja Don Rodolfo
+- **Fuente:** Commercial guide listing
 - **Note:** Name only, no contact confirmed
 
 ---
 
-## 📊 MARKET SIZE ESTIMATES
+## 📊 ESTIMACIONES DE TAMAÑO DE MERCADO
 
-### Consumption Data
-| Metric | Value | Source |
+### Datos de Consumo
+| Métrica | Valor | Fuente |
 |--------|-------|--------|
-| Paraguay consumption/capita | ~140 eggs/year | FAOstat / MAG |
-| Oviedo population | ~130,000 | INE Paraguay |
-| Estimated Oviedo consumption | ~18,200 eggs/day | Calculation |
-| Monthly Oviedo market | ~546,000 eggs | Calculation |
+| Consumo de huevos/cápita Paraguay | ~140 huevos/año | FAOstat / MAG |
+| Población Oviedo | ~130,000 | INE Paraguay |
+| Consumo estimado Oviedo | ~18,200 huevos/día | Cálculo |
+| Mercado mensual Oviedo | ~546,000 huevos | Cálculo |
 
-### Market Value
-| Sector | Est. Monthly (doc) | Current Price | Market Value |
+### Valor del Mercado
+| Sector | Est. Mensual (doc) | Precio Actual | Valor Mercado |
 |--------|-------------------|--------------|--------------|
 | Familias | 10,000 | G. 12,000 | G. 120M |
 | Restaurantes | 2,000 | G. 11,000 | G. 22M |
 | Supermercados | 5,000 | G. 9,000 | G. 45M |
 | **TOTAL** | **17,000** | | **G. 187M** |
 
-*Source: Market estimation — verify with local research*
+*Fuente: Estimación de mercado — verificar con investigación local*
 
 ---
 
-## 🗺️ DELIVERY ROUTES
+## 🗺️ RUTAS DE ENTREGA
 
-### Route 1: Centro Oviedo
+### Ruta 1: Centro Oviedo
 ```
 Granja → Favesa → Panadería Central → DECO (Ruta 2)
-Distance: ~8 km | Time: ~30 min
+Distancia: ~8 km | Tiempo: ~30 min
 ```
 
-### Route 2: D Shopping + Barrios
+### Ruta 2: D Shopping + Barrios
 ```
 Granja → D Shopping → Stock → Barrio San Martín → Luisito
-Distance: ~12 km | Time: ~45 min
+Distancia: ~12 km | Tiempo: ~45 min
 ```
 
-### Route 3: Ruta 2 → Asunción
+### Ruta 3: Ruta 2 → Asunción
 ```
 Granja → Villarrica → Caacupé → Asunción (Mercado 4)
-Distance: ~150 km | Time: ~2.5 hours
-⚠️ Only viable with multiple clients on route
+Distancia: ~150 km | Tiempo: ~2.5 horas
+⚠️ Solo viable con múltiples clientes en la ruta
 ```
 
 ---
 
-## 📋 CONTACT VERIFICATION STATUS
+## 📋 ESTADO DE VERIFICACIÓN DE CONTACTOS
 
-| Contact | Status | Last Verified |
+| Contacto | Estado | Última Verificación |
 |---------|--------|---------------|
-| DECO | ✓ Confirmed | Mar 2026 |
-| La Parrilla de Charlot | ✓ Confirmed | Mar 2026 |
-| Supermercado Stock | ✓ Confirmed | Mar 2026 |
-| Granja Victor Rafael | ✓ Confirmed | Mar 2026 |
-| EMMANUEL | ✓ Confirmed | Mar 2026 |
-| Favesa | ✓ From chat | 2024 |
-| Panaderías | ⚠️ Estimated | Needs local verification |
+| DECO | ✓ Confirmado | Mar 2026 |
+| La Parrilla de Charlot | ✓ Confirmado | Mar 2026 |
+| Supermercado Stock | ✓ Confirmado | Mar 2026 |
+| Granja Victor Rafael | ✓ Confirmado | Mar 2026 |
+| EMMANUEL | ✓ Confirmado | Mar 2026 |
+| Favesa | ✓ Del chat | 2024 |
+| Panaderías | ⚠️ Estimado | Necesita verificación local |
 
 ---
 
-## 🔄 UPDATE LOG
+## 🔄 REGISTRO DE ACTUALIZACIONES
 
-| Date | Change | Source |
-|------|--------|--------|
-| Mar 2026 | Initial research | Google search, WhatsApp chat, web |
-| Mar 2026 | DECO/Charlot contacts | Google Business |
-| Mar 2026 | Competitor research | Facebook, business directories |
+| Fecha | Cambio | Fuente |
+|-------|--------|--------|
+| Mar 2026 | Investigación inicial | Búsqueda Google, chat WhatsApp, web |
+| Mar 2026 | Contactos DECO/Charlot | Google Business |
+| Mar 2026 | Investigación competidores | Facebook, directorios comerciales |
 
 ---
 
-*Generated: March 19, 2026*
-*Verify at: Google Maps, Google Search, Facebook*
+*Generado: 19 de Marzo, 2026*
+*Verificar en: Google Maps, Google Search, Facebook*

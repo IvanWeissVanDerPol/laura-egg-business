@@ -1,43 +1,42 @@
-# 📊 RAW SOURCE DATA — Historical Egg Prices Paraguay
+# 📊 DATOS CRUDOS FUENTE — Precios Históricos de Huevos Paraguay
 
-## Source Documentation
+## Documentación de Fuente
 
-All prices in this file come from documented Paraguayan news sources and market 
-observation. Every claim is traceable to a primary source listed below.
+Todos los precios en este archivo provienen de fuentes de noticias paraguayas documentadas y observación de mercado. Cada afirmación es rastreable a una fuente primaria listada abajo.
 
 ---
 
-## 📰 PRIMARY SOURCE: News Archives
+## 📰 FUENTE PRIMARIA: Archivos de Noticias
 
 ### ABC Color
-- **Coverage:** 2016 (sobreoferta/oversupply), 2022 (crisis), 2024-2025
+- **Cobertura:** 2016 (sobreoferta), 2022 (crisis), 2024-2025
 - **URL:** https://www.abc.com.py
-- **Access:** Requires subscription for full articles
-- **Key articles:**
+- **Acceso:** Requiere suscripción para artículos completos
+- **Artículos clave:**
   - "Huevos lideraron inflación de alimentos" (2016)
   - "Crisis avícola: la peor de la historia" (2022)
-  - Seasonal price coverage (Lent/Easter)
+  - Cobertura de precios estacionales (Cuaresma/Semana Santa)
 
 ### Última Hora
-- **Coverage:** 2022 (crisis), 2025 (Semana Santa)
+- **Cobertura:** 2022 (crisis), 2025 (Semana Santa)
 - **URL:** https://ultimahora.com
-- **Key articles:**
-  - Egg price monitoring
-  - Crisis coverage 2022
+- **Artículos clave:**
+  - Monitoreo de precios de huevos
+  - Cobertura de crisis 2022
 
 ### La Tribuna
-- **Coverage:** 2024-2025 price monitoring
+- **Cobertura:** 2024-2025 monitoreo de precios
 - **URL:** https://latribuna.com.py
 
 ### Diario Vanguardia
-- **Coverage:** 2025 Semana Santa price spike
+- **Cobertura:** Pico de precios Semana Santa 2025
 - **URL:** https://diariovanguardia.com
 
 ### Pedro Severiche (Facebook)
-- **Type:** Individual farmer data sharing
-- **Coverage:** 2000-2025 personal price records
-- **Reference:** Facebook post with historical price table
-- **Reliability:** Personal records — useful for trends, exact figures may vary
+- **Tipo:** Compartir datos de agricultor individual
+- **Cobertura:** Registros de precios personales 2000-2025
+- **Referencia:** Publicación de Facebook con tabla de precios históricos
+- **Confiabilidad:** Registros personales — útil para tendencias, cifras exactas pueden variar
 
 ---
 
@@ -64,20 +63,20 @@ observation. Every claim is traceable to a primary source listed below.
 
 ---
 
-## 🧀 PLANCHA (30 units) PRICES
+## 🧀 PRECIOS PLANCHA (30 unidades)
 
 | Período | Precio Gs | Fuente | Cambio |
 |---------|----------|--------|--------|
-| 2021 | 18,000-22,000 | Chat Laura | Base reference |
+| 2021 | 18,000-22,000 | Chat Laura | Referencia base |
 | Feb 2022 | 18,000 | ABC Color | Crisis peor de la historia |
 | 2024 | 25,000-30,000 | La Tribuna | Recuperación |
 | Feb 2025 | 30,000-40,000 | ABC Color | ↑ 60% en 15 días |
-| Mar 2025 | 43,000-50,000 | Diario Vanguardia | Semana Santa peak |
-| Mar 2026 | 45,000+ | Direct observation | Nuevo normal |
+| Mar 2025 | 43,000-50,000 | Diario Vanguardia | Pico Semana Santa |
+| Mar 2026 | 45,000+ | Observación directa | Nuevo normal
 
 ---
 
-## 🔬 UNIT PRICE CALCULATIONS
+## 🔬 CÁLCULOS DE PRECIO UNITARIO
 
 | Año | Precio Docena | ÷ 12 = Precio Unitario |
 |-----|--------------|----------------------|
@@ -102,58 +101,57 @@ observation. Every claim is traceable to a primary source listed below.
 | Salario mínimo | G. 1,300,000/mes | G. 2,742,865/mes | 2.1x |
 | Huevos comprables con 1 salario | 722 docenas | 298 docenas | ↓ 59% |
 
-**Interpretation:** Egg is relatively MORE expensive vs. wages than 26 years ago.
-This supports premium positioning — consumers who want eggs pay more.
+**Interpretación:** El huevo es relativamente MÁS caro en relación a los salarios que hace 26 años. Esto apoya el posicionamiento premium — los consumidores que quieren huevos pagan más.
 
 ---
 
-## 🌡️ SEASONAL PATTERNS
+## 🌡️ PATRONES ESTACIONALES
 
-### High Price Periods (documented)
-- **Diciembre-Febrero:** Heat kills hens, lower production
-- **Semana Santa:** Demand spikes 30-50% (documented +60% in 2025)
-- **Crisis years:** Supply shocks (2022, 2016 oversupply correction)
+### Períodos de Altos Precios (documentados)
+- **Diciembre-Febrero:** El calor mata gallinas, menor producción
+- **Semana Santa:** Demanda sube 30-50% (documentado +60% en 2025)
+- **Años de crisis:** Choques de oferta (corrección de sobreoferta 2022, 2016)
 
-### Low Price Periods (documented)
-- **Post-Semana Santa:** Demand normalizes
-- **Good maize harvest:** Feed costs drop
-- **2016:** Oversupply from expansion
-
----
-
-## 🌍 INTERNATIONAL CONTEXT
-
-| Country | Price USD/dozen | Year | Source |
-|---------|----------------|------|--------|
-| USA conventional | $2-3 | 2025 | USDA |
-| USA cage-free | $4-5 | 2025 | USDA |
-| USA pasture-raised | $6-12 | 2025 | Market research |
-| Paraguay conventional | ~$1.18 | Feb 2026 | Abasto Asunción |
-| Paraguay premium | ~$1.54-2.82 | 2026 | Market research |
-
-**Paraguay is cheaper than US for conventional eggs but comparable for premium.**
+### Períodos de Bajos Precios (documentados)
+- **Post-Semana Santa:** Demanda se normaliza
+- **Buena cosecha de maíz:** Costos de alimento bajan
+- **2016:** Sobreoferta por expansión
 
 ---
 
-## 📂 Source File References
+## 🌍 CONTEXTO INTERNACIONAL
 
-| File | Contains |
-|------|----------|
-| `research/historical_prices.md` | Summary version for main project |
-| `sources/raw/prices.md` | This file — detailed source documentation |
-| `sources/INDEX.md` | Master citation index |
+| País | Precio USD/docena | Año | Fuente |
+|------|-------------------|-----|--------|
+| EE.UU. convencional | $2-3 | 2025 | USDA |
+| EE.UU. sin jaula | $4-5 | 2025 | USDA |
+| EE.UU. pastoreo | $6-12 | 2025 | Investigación mercado |
+| Paraguay convencional | ~$1.18 | Feb 2026 | Abasto Asunción |
+| Paraguay premium | ~$1.54-2.82 | 2026 | Investigación mercado
 
----
-
-## 🔄 UPDATE LOG
-
-| Date | Change | Source |
-|------|--------|--------|
-| Mar 2026 | Created | ABC Color, Última Hora, La Tribuna, Pedro Severiche FB, direct observation |
-| Mar 2026 | Semana Santa 2025 spike added | Diario Vanguardia |
-| Mar 2026 | Feb 2026 wholesale price added | Direct observation Abasto Asunción |
+**Paraguay es más barato que EE.UU. para huevos convencionales pero comparable para premium.**
 
 ---
 
-*Generated: March 19, 2026*
-*Verify at: abc.com.py | ultimahora.com | latribuna.com.py*
+## 📂 Referencias de Archivos Fuente
+
+| Archivo | Contiene |
+|---------|----------|
+| `research/historical_prices.md` | Versión resumen para proyecto principal |
+| `sources/raw/prices.md` | Este archivo — documentación detallada de fuente |
+| `sources/INDEX.md` | Índice maestro de citaciones |
+
+---
+
+## 🔄 REGISTRO DE ACTUALIZACIONES
+
+| Fecha | Cambio | Fuente |
+|-------|--------|--------|
+| Mar 2026 | Creado | ABC Color, Última Hora, La Tribuna, Pedro Severiche FB, observación directa |
+| Mar 2026 | Pico Semana Santa 2025 agregado | Diario Vanguardia |
+| Mar 2026 | Precio mayorista Feb 2026 agregado | Observación directa Abasto Asunción |
+
+---
+
+*Generado: 19 de Marzo, 2026*
+*Verificar en: abc.com.py | ultimahora.com | latribuna.com.py*
