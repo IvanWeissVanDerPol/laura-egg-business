@@ -77,8 +77,8 @@ laura-egg-business/
 ## 🎯 EMPEZAR AQUÍ
 
 ### Para Laura — Primeros pasos:
-1. 📖 Lee `09_references/quick_guides/quick_start_guide.md`
-2. 💰 Revisa `01_core_operations/financial_tracking/key-numbers.md`
+1. 📖 Lee `09_references/quick_guides/guia_inicio_rapido.md`
+2. 💰 Revisa `01_core_operations/financial_tracking/numeros_clave.md`
 3. 📇 Contactos clave en `03_sales/contacts/`
 
 ### Para expandir — Siguiente nivel:
