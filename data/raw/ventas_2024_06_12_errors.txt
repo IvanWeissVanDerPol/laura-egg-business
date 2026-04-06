@@ -1,0 +1,63 @@
+L48: Failed to parse sale: 10 S x 25 = 250.000 <Se editó este mensaje.>
+L83: MISMATCH(expected=125000,got=250000)
+L92: MISMATCH(expected=264000,got=240000)
+L138: Failed to parse sale: 21 S x 24 = 504.000 <Se editó este mensaje.>
+L205: MISMATCH(expected=154000,got=161000)
+L208: Failed to parse sale: 5J x 27= 135.000 <Se editó este mensaje.>
+L361: Failed to parse sale: 64 x 23 = 1.472.000
+L423: Failed to parse sale: 3 A x 25 = 75.000 <Se editó este mensaje.>
+L434: MISMATCH(expected=100000000,got=100000)
+L489: MISMATCH(expected=576000,got=552000)
+L535: Failed to parse sale: 3 S(pollas) x 25 = 75.000
+L573: Failed to parse sale: 71 x 23= 1.633.000
+L594: MISMATCH(expected=100000,got=10000)
+L617: MISMATCH(expected=100000000,got=100000)
+L626: Failed to parse sale: 10 J x 25 = 250.000 <Se editó este mensaje.>
+L658: Failed to parse sale: 11 gallinas G1 x 20= 200.000
+L659: Failed to parse sale: 10 gallinas G1 x 20= 180.000
+L661: Failed to parse sale: 3 gallinas G1 x 18= 54.000
+L669: Failed to parse sale: 30 gallinas G1 x 18= 540.000
+L680: Failed to parse sale: 15 gallinas G1 x 18= 270.000
+L682: Failed to parse sale: 11 gallinas G1 x 20= 220.000
+L685: Failed to parse sale: 125 x 16= 2.000.000
+L702: Failed to parse sale: 20 gallinas G1 x 18= 360.000
+L713: MISMATCH(expected=20000000,got=20000)
+L715: MISMATCH(expected=50000000,got=50000)
+L737: Failed to parse sale: 20 Bolsas gallinaza x 20 = 400.000
+L755: Failed to parse sale: 70 x 23= 1.610.000
+L767: MISMATCH(expected=50000000,got=50000)
+L843: MISMATCH(expected=25000,got=250000)
+L869: Failed to parse sale: 15 bolsas abono x 20= 300.000
+L902: Failed to parse sale: 2 bolsas abono x 20 = 40.000
+L947: Failed to parse sale: 3 J x 25 = 75.000 <Se editó este mensaje.>
+L1006: Failed to parse sale: 6 gallinas carneadas x 25 = 150.000
+L1045: Failed to parse sale: 1 picado x 15 = 15.000 <Se editó este mensaje.>
+L1047: Failed to parse sale: Primi2 S x 25 = 50.000
+L1088: Failed to parse sale: 40 bolsas x 500 = 20.000 <Se editó este mensaje.>
+L1102: Failed to parse sale: 4 A x 23 = 92.000 <Se editó este mensaje.>
+L1176: Failed to parse sale: 61 x 22= 1.342.000
+L1266: Failed to parse sale: 10 S x 23 = 230.000 <Se editó este mensaje.>
+L1510: Failed to parse sale: 6 Sp x 22= 132.000 <Se editó este mensaje.>
+L1536: Failed to parse sale: 5 x 20 = 100.000
+L1540: MISMATCH(expected=520000,got=460000)
+L1576: Failed to parse sale: 86 x 20= 1.720.000
+L1598: MISMATCH(expected=50000,got=250000)
+L1612: Failed to parse sale: 4 J x 25 = 100.000 <Se editó este mensaje.>
+L1622: Failed to parse sale: 1 B x 22 = 22.000 <Se editó este mensaje.>
+L1652: Failed to parse sale: 45 bolsas de gallinaza x 18= 810.000
+L1708: Failed to parse sale: 25 gallinas x 20 = 500.000 <Se editó este mensaje.>
+L1767: Failed to parse sale: 10 A pollas x 20 = 200.000
+L1783: MISMATCH(expected=100000000,got=100000)
+L1921: Failed to parse sale: 4B X 18= 72.000
+L2135: Failed to parse sale: 5 B x 20 = 100.000 <Se editó este mensaje.>
+L2236: Failed to parse sale: Retira 6 A x 19 = 114.000
+L2257: Failed to parse sale: Retira 20 A x 19 = 380.000
+L2565: Failed to parse sale: 17 gallinas x 18= 306.000 <Se editó este mensaje.>
+L2581: Failed to parse sale: 15A x 19=
+L2582: Failed to parse sale: 15B x 17=
+L2608: Failed to parse sale: 2 A x 20 = 40.000 <Se editó este mensaje.>
+L2611: Failed to parse sale: 15 bolsas abono x 10 = 150.000
+L2799: Failed to parse sale: 60 bolsas gallinaza x 10 = 600.000
+L2802: Failed to parse sale: 75 bolsas gallinaza x 10 = 750.000
+L2821: Failed to parse sale: 50 bolsas gallinaza x 10 = 500.000
+L2934: MISMATCH(expected=248000,got=264000)

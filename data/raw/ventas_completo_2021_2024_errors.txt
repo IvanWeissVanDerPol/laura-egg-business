@@ -1,0 +1,154 @@
+L237: Failed to parse sale: Angel: 30.000 x 3 dias = 90.000
+L238: Failed to parse sale: Edelio: 60.000 x 3 dias = 180.000
+L266: MISMATCH(expected=390000,got=405000)
+L361: Failed to parse sale: 180.000 x 3 = 540.000
+L364: Failed to parse sale: 60.000 x 5 = 300.000
+L474: MISMATCH(expected=540000,got=520000)
+L502: MISMATCH(expected=602000,got=588000)
+L505: Failed to parse sale: 80 tipo b x 13.500= 1.080.000
+L506: Failed to parse sale: 20 tipo A x 14.500= 290.000
+L570: Failed to parse sale: Frutilla 6kg x 18.000= 108.000
+L572: Failed to parse sale: Frutilla 3kg x 18.000= 54.000
+L673: Failed to parse sale: 30x14.000= 420.000
+L675: Failed to parse sale: 16x14.000= 224.000
+L680: Failed to parse sale: 12x14.000= 168.000
+L681: MISMATCH(expected=10000000,got=10000)
+L707: MISMATCH(expected=25000000,got=25000)
+L743: Failed to parse sale: 6x5000= 30.000
+L794: Failed to parse sale: 2A+7B x 23.000= 207.000
+L800: Failed to parse sale: 14A + 34B x23.000= 920.000
+L803: Failed to parse sale: 20A + 25B x 23.000= 1.035.000
+L950: Failed to parse sale: Locote 60kg x 6.500= 390.000
+L958: Failed to parse sale: 80 A B x 26.000= 2.080.000
+L1007: MISMATCH(expected=420000000,got=420000)
+L1083: Failed to parse sale: 30 x 22= 660.000
+L1145: Failed to parse sale: 12 x 20 = 240.000
+L1213: Failed to parse sale: 30 AS x 22 y 23 = 671.000
+L1258: MISMATCH(expected=125000,got=100000)
+L1272: Failed to parse sale: 2 x 25= 50.000
+L1280: Failed to parse sale: 101 x 23= 2.323.000
+L1332: MISMATCH(expected=240000,got=24000)
+L1354: MISMATCH(expected=460000,got=430000)
+L1360: Failed to parse sale: 44 x 23= 1.012.000
+L1362: Failed to parse sale: 2 x 25= 50.000
+L1378: Failed to parse sale: 44 x 23= 1.012.000
+L1392: MISMATCH(expected=2438000,got=1438000)
+L1495: Failed to parse sale: 5 x 20 = 100.000
+L1516: Failed to parse sale: 5 x 20 = 100.000
+L1519: Failed to parse sale: 25 x 22 = 550.000
+L1525: Failed to parse sale: 5 x 20 = 100.000
+L1558: Failed to parse sale: 7 x 20 = 140.000
+L1589: Failed to parse sale: 20 x 22 = 440.000
+L1614: Failed to parse sale: 73 A S x 22,5 = 1.642.500
+L1710: Failed to parse sale: 35 x 22= 770.000
+L1717: Failed to parse sale: 20x 23= 460.000
+L1778: MISMATCH(expected=1056000,got=1026000)
+L1779: MISMATCH(expected=1012000,got=1004000)
+L1781: Failed to parse sale: 6 AS x 22 y 23 = 135.000
+L1812: Failed to parse sale: 15 S x 24 = 360.000 <Se editó este mensaje.>
+L1868: Failed to parse sale: 20 S x 22 = 440.000 <Se editó este mensaje.>
+L1892: Failed to parse sale: 80 x 20.500= 1.640.000
+L1948: MISMATCH(expected=96000,got=92000)
+L1957: Failed to parse sale: 10 A x 20 = 200.000 <Se editó este mensaje.>
+L1963: Failed to parse sale: 60x20= 1.200.000
+L1972: Failed to parse sale: 80x 20.000= 1.600.000
+L2027: Failed to parse sale: 15 S x 20 = 300.000 <Se editó este mensaje.>
+L2036: Failed to parse sale: 5 S x 22 = 110.000 <Se editó este mensaje.>
+L2098: Failed to parse sale: 10 A x q9 = 190.000
+L2107: MISMATCH(expected=40000,got=80000)
+L2152: Failed to parse sale: 60 x 19= 1.140.000
+L2180: Failed to parse sale: 15 S x 21 = 315.000 <Se editó este mensaje.>
+L2182: Failed to parse sale: 12 S x 21 = 252.000 <Se editó este mensaje.>
+L2212: Failed to parse sale: 3 S x 25 = 75.000 <Se editó este mensaje.>
+L2266: MISMATCH(expected=105000,got=110000)
+L2277: Failed to parse sale: 4 B x 19 = 76.000 <Se editó este mensaje.>
+L2332: Failed to parse sale: 6 x 20 = 120.000
+L2413: Failed to parse sale: 10 B x 20 = 200.000 <Se editó este mensaje.>
+L2422: MISMATCH(expected=252000,got=212000)
+L2441: Failed to parse sale: 54 x 20= 1.080.000
+L2512: MISMATCH(expected=400000,got=200000)
+L2514: Failed to parse sale: 37 A x 20 = 740.000 <Se editó este mensaje.>
+L2586: Failed to parse sale: 15 B x 20 = 300.000 <Se editó este mensaje.>
+L2590: MISMATCH(expected=144000,got=138000)
+L2724: Failed to parse sale: 18 x 21= 378.000
+L2726: MISMATCH(expected=50000000,got=50000)
+L2788: Failed to parse sale: 3 S x 24 = 72.000 <Se editó este mensaje.>
+L2919: Failed to parse sale: 240 x 500 = 120.000
+L2925: Failed to parse sale: 20 x 500 = 10.000
+L2933: Failed to parse sale: 15 A x 23 = 345.000 <Se editó este mensaje.>
+L2987: Failed to parse sale: 2 B x 25 = 50.000 <Se editó este mensaje.>
+L2994: Failed to parse sale: 200 x 500 = 100.000
+L3023: Failed to parse sale: 17 C x 15 = 255.000 <Se editó este mensaje.>
+L3027: Failed to parse sale: 3 x 25 = 75.000
+L3035: Failed to parse sale: 1 B x 24 = 24.000 <Se editó este mensaje.>
+L3166: Failed to parse sale: 5 A x 26 = 130.000 <Se editó este mensaje.>
+L3204: Failed to parse sale: 5 S x 27 = 135.000 <Se editó este mensaje.>
+L3237: Failed to parse sale: 10 A y B x 26= 260.000
+L3241: MISMATCH(expected=936000,got=858000)
+L3461: MISMATCH(expected=56000,got=54000)
+L3517: MISMATCH(expected=56000,got=54000)
+L3580: Failed to parse sale: 20 A x 25 = 500.000 <Se editó este mensaje.>
+L3596: MISMATCH(expected=1000000,got=750000)
+L3742: Failed to parse sale: 10 S x 25 = 250.000 <Se editó este mensaje.>
+L3795: Failed to parse sale: 22 B x 23= 506.000 <Se editó este mensaje.>
+L3811: Failed to parse sale: 1 x 28 = 28.000
+L3812: Failed to parse sale: 6 x 27 = 162.000 <Se editó este mensaje.>
+L3853: Failed to parse sale: 37 x 23 = 851.000
+L3985: Failed to parse sale: 5s x 25= 125000 <Se editó este mensaje.>
+L3989: MISMATCH(expected=250000,got=450000)
+L4083: MISMATCH(expected=50000,got=45000)
+L4099: Failed to parse sale: 5 x 20 = 100.000
+L4326: Failed to parse sale: 10 S x 25 = 250.000 <Se editó este mensaje.>
+L4351: MISMATCH(expected=125000,got=250000)
+L4357: MISMATCH(expected=264000,got=240000)
+L4389: Failed to parse sale: 21 S x 24 = 504.000 <Se editó este mensaje.>
+L4437: MISMATCH(expected=154000,got=161000)
+L4440: Failed to parse sale: 5J x 27= 135.000 <Se editó este mensaje.>
+L4550: Failed to parse sale: 64 x 23 = 1.472.000
+L4594: Failed to parse sale: 3 A x 25 = 75.000 <Se editó este mensaje.>
+L4601: MISMATCH(expected=100000000,got=100000)
+L4640: MISMATCH(expected=576000,got=552000)
+L4672: Failed to parse sale: 3 S(pollas) x 25 = 75.000
+L4698: Failed to parse sale: 71 x 23= 1.633.000
+L4713: MISMATCH(expected=100000,got=10000)
+L4729: MISMATCH(expected=100000000,got=100000)
+L4735: Failed to parse sale: 10 J x 25 = 250.000 <Se editó este mensaje.>
+L4758: Failed to parse sale: 10 gallinas G1 x 20= 180.000
+L4774: Failed to parse sale: 125 x 16= 2.000.000
+L4793: MISMATCH(expected=20000000,got=20000)
+L4794: MISMATCH(expected=50000000,got=50000)
+L4821: Failed to parse sale: 70 x 23= 1.610.000
+L4829: MISMATCH(expected=50000000,got=50000)
+L4881: MISMATCH(expected=25000,got=250000)
+L4899: Failed to parse sale: 15 bolsas abono x 20= 300.000
+L4950: Failed to parse sale: 3 J x 25 = 75.000 <Se editó este mensaje.>
+L4992: Failed to parse sale: 6 gallinas carneadas x 25 = 150.000
+L5020: Failed to parse sale: 1 picado x 15 = 15.000 <Se editó este mensaje.>
+L5050: Failed to parse sale: 40 bolsas x 500 = 20.000 <Se editó este mensaje.>
+L5060: Failed to parse sale: 4 A x 23 = 92.000 <Se editó este mensaje.>
+L5111: Failed to parse sale: 61 x 22= 1.342.000
+L5176: Failed to parse sale: 10 S x 23 = 230.000 <Se editó este mensaje.>
+L5344: Failed to parse sale: 6 Sp x 22= 132.000 <Se editó este mensaje.>
+L5362: Failed to parse sale: 5 x 20 = 100.000
+L5365: MISMATCH(expected=520000,got=460000)
+L5389: Failed to parse sale: 86 x 20= 1.720.000
+L5403: MISMATCH(expected=50000,got=250000)
+L5412: Failed to parse sale: 4 J x 25 = 100.000 <Se editó este mensaje.>
+L5419: Failed to parse sale: 1 B x 22 = 22.000 <Se editó este mensaje.>
+L5438: Failed to parse sale: 45 bolsas de gallinaza x 18= 810.000
+L5477: Failed to parse sale: 25 gallinas x 20 = 500.000 <Se editó este mensaje.>
+L5518: Failed to parse sale: 10 A pollas x 20 = 200.000
+L5528: MISMATCH(expected=100000000,got=100000)
+L5621: Failed to parse sale: 4B X 18= 72.000
+L5771: Failed to parse sale: 5 B x 20 = 100.000 <Se editó este mensaje.>
+L5842: Failed to parse sale: Retira 6 A x 19 = 114.000
+L5857: Failed to parse sale: Retira 20 A x 19 = 380.000
+L6076: Failed to parse sale: 17 gallinas x 18= 306.000 <Se editó este mensaje.>
+L6087: Failed to parse sale: 15A x 19=
+L6088: Failed to parse sale: 15B x 17=
+L6106: Failed to parse sale: 2 A x 20 = 40.000 <Se editó este mensaje.>
+L6108: Failed to parse sale: 15 bolsas abono x 10 = 150.000
+L6238: Failed to parse sale: 60 bolsas gallinaza x 10 = 600.000
+L6240: Failed to parse sale: 75 bolsas gallinaza x 10 = 750.000
+L6253: Failed to parse sale: 50 bolsas gallinaza x 10 = 500.000
+L6332: MISMATCH(expected=248000,got=264000)
