@@ -1,0 +1,14 @@
+Fecha,Tipo,Concepto,Maples,Precio_Unitario,Total,Cliente,Pagado,Notas
+2026-04-06,PRODUCCION,A,84,,,,,Produccion del dia
+2026-04-06,PRODUCCION,B,104,,,,,Produccion del dia
+2026-04-06,PRODUCCION,C,30,,,,,Produccion del dia
+2026-04-06,PRODUCCION,S,19,,,,,Produccion del dia
+2026-04-06,PRODUCCION,J,3,,,,,Produccion del dia
+2026-04-06,PRODUCCION,picado,2,,,,,Produccion del dia
+2026-04-06,GASTO,balanceado,,,2436000,,,42 bolsas x 25kg
+2026-04-06,GASTO,personal,,,298000,,,
+2026-04-06,GASTO,cubetas_cartones,,,168000,,,
+2026-04-06,GASTO,flete,,,112000,,,
+2026-04-06,GASTO,medicamentos,,,75000,,,
+2026-04-06,GASTO,electricidad,,,30000,,,
+2026-04-06,GASTO,agua,,,1000,,,

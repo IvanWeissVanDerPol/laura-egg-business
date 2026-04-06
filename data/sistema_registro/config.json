@@ -1,0 +1,43 @@
+{
+  "granja": "Granja Cabral",
+  "ubicacion": "Coronel Oviedo, Paraguay",
+  "galpones": 4,
+  "aves": 8762,
+  "formato_venta": "maples de 30 huevos",
+  "actualizado": "2026-04-06",
+  "precios_actuales": {
+    "C": 18000,
+    "B": 19500,
+    "A": 21000,
+    "S": 22000,
+    "J": 25000,
+    "picado": 10000
+  },
+  "gastos_diarios": {
+    "balanceado": 2436000,
+    "personal": 298000,
+    "cubetas_cartones": 168000,
+    "flete": 112000,
+    "medicamentos_vacunas_vitaminas": 75000,
+    "electricidad": 30000,
+    "agua": 1000,
+    "total": 3120000
+  },
+  "produccion_diaria_ejemplo": {
+    "fecha": "2026-04-06",
+    "A": 84,
+    "B": 104,
+    "C": 30,
+    "S": 19,
+    "J": 3,
+    "picado": 2,
+    "total_maples": 242,
+    "total_huevos": 7260
+  },
+  "notas": {
+    "tasa_postura": "82.9% (7260/8762)",
+    "balanceado_detalle": "42 bolsas de 25kg por dia",
+    "precios": "Mas bajos que 2024, pero mayor volumen",
+    "deudas": "Nadie debe actualmente (2026-04-06)"
+  }
+}

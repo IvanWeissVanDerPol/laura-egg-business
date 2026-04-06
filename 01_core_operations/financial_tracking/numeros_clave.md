@@ -1,14 +1,15 @@
 # 🔢 NÚMEROS CLAVE — Todos los Datos en un Solo Lugar
 
-## Producción
+## Producción (Actualizado Abril 2026)
 
 | Métrica | Valor | Unidad | Fuente |
 |---------|-------|--------|--------|
-| Gallinas actuales | ~100 | gallinas | Chat WhatsApp |
-| Pico de producción | ~126 | huevos/día | Chat WhatsApp |
-| Producción sostenible | ~80-100 | huevos/día | Chat WhatsApp |
-| Tasa de postura | 75-90% | % | Estándar de la industria |
-| Huevos por docena | 28 | huevos | Estándar de la industria |
+| Gallinas actuales | 8.762 | gallinas | Laura WhatsApp 06/04/2026 |
+| Galpones | 4 | galpones | Laura WhatsApp 06/04/2026 |
+| Producción diaria | 242 | maples (30 huevos) | Laura WhatsApp 06/04/2026 |
+| Producción diaria | 7.260 | huevos/día | Calculado |
+| Tasa de postura | 82,9% | % | Calculado (7260/8762) |
+| Balanceado diario | 42 bolsas x 25kg | 1.050 kg/día | Laura WhatsApp 06/04/2026 |
 
 ---
 
