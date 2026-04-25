@@ -1,91 +1,54 @@
-# 📈 06_BUSINESS_PLAN — Plan de Negocios
+# 📈 Plan de Negocios y Estrategia B2B/B2C
 ## Granja Cabral — Coronel Oviedo, Paraguay
 
 ---
 
-## 🎯 PLAN ESTRATÉGICO
+## 🎯 ESTRATEGIA PRINCIPAL (GRANJA CABRAL 3.0)
 
-**"Empezar pequeño, reinvertir ganancias, escalar sistemáticamente"**
+**"Automatizar las operaciones, asegurar ingresos recurrentes (B2C) y expandir agresivamente la cartera B2B."**
 
----
-
-## 📁 ESTRUCTURA
-
-| Carpeta | Descripción |
-|---------|-------------|
-| `strategy/` | Estrategia maestra y planes |
-| `financial_projections/` | Proyecciones financieras |
-| `risk_analysis/` | Análisis de riesgos |
-| `financing/` | Opciones de financiamiento |
+El plan maestro ya no se basa en "empezar con 500 gallinas", ya que la operación actual sostiene **2.500 aves** produciendo **~71 maples diarios** con un ingreso bruto de ~48 Millones de Guaraníes mensuales. El objetivo ahora es la **optimización tecnológica** y la **diversificación de clientes**.
 
 ---
 
-## 📋 DOCUMENTOS PRINCIPALES
+## 📋 PLANES ESTRATÉGICOS ACTIVOS
 
-- `strategy/MASTER_PLAN.md` — Plan maestro completo
-- `strategy/business_plan.md` — Plan de negocio general
-- `financing/INDEX.md` — Opciones de financiamiento
-
----
-
-## 📊 RESUMEN DEL PLAN MAESTRO
-
-### Fases de Desarrollo
-
-| Fase | Período | Inversión Total | Ingreso Mensual | Utilidad |
-|------|---------|----------------|-----------------|----------|
-| 1 | Meses 1-6 | $3.5-7K | $650-1,950 | $200-800 |
-| 2 | Meses 7-18 | $13K | $3,500-7,100 | $1,200-2,800 |
-| 3 | Meses 19-36 | $31K | $6,800-12,200 | $2,500-5,000 |
-| 4 | Años 3-5 | $45K+ | $20,000-40,000+ | $8,000-18,000+ |
-
-### Break-Even: 12-18 meses
+1. **Expansión B2B (Panaderías y Restaurantes):** 
+   - Reducir la dependencia del 75% sobre Fada, Dalila y Coti.
+   - Ejecución: Scraping de Google Maps para obtener panaderías en Caaguazú y Coronel Oviedo, y automatizar el contacto.
+2. **Modelo de Suscripción B2C (El Maple Semanal):**
+   - Asegurar flujo de caja fijo mediante familias locales suscritas a entregas semanales de huevos tamaño A/B.
+3. **Optimización con Inteligencia Artificial (Hermes Agent):**
+   - Implementar un bot que responda consultas de precios 24/7.
+   - Desplegar una arquitectura basada en Google Workspace (Forms/Sheets) para eliminar cuadernos de papel.
+4. **Comercialización de Subproductos:**
+   - Venta cruzada de "Gallinaza" (estiércol seco) como abono orgánico a agricultores locales.
 
 ---
 
-## 💰 PROYECCIÓN FINANCIERA SIMPLIFICADA
+## 📁 ESTRUCTURA DE DOCUMENTOS B2B/B2C
 
-```
-         INVERSIÓN                    OPERACIÓN                    CRECIMIENTO
-              │                          │                            │
-    ┌─────────┴─────────┐      ┌─────────┴─────────┐      ┌─────────┴─────────┐
-    │  Galpones         │      │  Venta huevos    │      │  Marcas propias   │
-    │  Gallinas          │────▶│  Clientes fijos   │────▶│  Productos        │
-    │  Equipamiento      │      │  Expansión local  │      │  transformados    │
-    └───────────────────┘      └───────────────────┘      └───────────────────┘
-    
-    Meses 1-6                  Meses 7-18                  Meses 19-36+
-    
-    BREAK-EVEN                 ESCALAMIENTO                INDUSTRIALIZACIÓN
-```
+- `plan_marca_tienda_2026.md` — Estrategia de branding y posicionamiento de marca.
+- `strategy/` — Archivos de estrategia históricos.
+- `risk_analysis/` — Análisis de riesgos logísticos y operativos.
+- `financing/` — Evaluación de costos de insumos y proyecciones.
 
 ---
 
-## 🎯 KPIs OBJETIVO
+## 📊 MÉTRICAS FINANCIERAS CLAVE (KPIs ACTUALES)
 
-| Fase | Gallinas | Clientes | Productos | Utilidad/mes |
-|------|----------|----------|-----------|--------------|
-| 1 | 500 | 5 | 1 | $300 |
-| 2 | 2,000 | 20 | 3 | $1,500 |
-| 3 | 5,000 | 50 | 6 | $4,000 |
-| 4 | 10,000+ | 100+ | 10+ | $15,000+ |
-
----
-
-## ⚠️ ANÁLISIS DE RIESGOS
-
-| Riesgo | Probabilidad | Impacto | Mitigación |
-|--------|--------------|---------|------------|
-| Mortalidad alta | Media | Alto | Veterinario, buenas prácticas |
-| Caída precio huevos | Media | Medio | Diversificación |
-| Competencia grandes | Baja | Alto | Diferenciación local |
-| Regulaciones | Baja | Medio | Certificación temprana |
-| Falta capital | Media | Alto | Empezar pequeño |
+| Indicador | Volumen / Meta |
+|-----------|----------------|
+| **Escala Actual** | ~2.500 gallinas ponedoras |
+| **Producción** | ~71 maples por día (~2.130 huevos) |
+| **Ingreso Bruto** | ~48.000.000 Gs/mes |
+| **FCR (Feed Conversion Ratio)** | Optimizar usando registros de Google Sheets |
+| **Unidad Contable** | El Maple (30 unidades). *Se elimina el uso de "docenas".* |
 
 ---
 
-## 🔗 IR A
+## 🔗 ENLACES RÁPIDOS
 
-- ⬆️ [`README.md`](../README.md) — Inicio
-- ⬅️ [`05_market_intelligence/`](../05_market_intelligence/) — Mercado
-- ➡️ [`07_innovation/`](../07_innovation/) — Innovación
+- ⬆️ [`README.md`](../../README.md) — Volver al inicio
+- 🧠 [`100_tech_ideas_for_laura.md`](../../05_referencias/100_tech_ideas_for_laura.md) — Backlog de ingeniería
+- 🤖 [`hermes_agent_research.md`](../../05_referencias/hermes_agent_research.md) — Plan de integración de IA

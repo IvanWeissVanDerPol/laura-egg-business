@@ -40,4 +40,14 @@ Es crucial implementar límites de crédito (max. 30 días o límite de valor mo
 - **Gallinaza (Abono):** Se vende a 500 Gs la bolsa chica/kg, y hasta en lotes enteros para agricultores locales. Genera ingreso suplementario.
 
 ---
+
+## 6. DISCREPANCIA OPERATIVA (RECONCILIACIÓN DE INVENTARIO)
+**Hallazgo Crítico (Análisis Abril 2026):**
+Existe un desajuste constante entre la cantidad de huevos recolectados por día y los maples empaquetados ese mismo día.
+- **El Problema:** Hay días donde se empaquetan más maples de los que matemáticamente producen los huevos puestos ese día (Ej: Se producen huevos para 64.8 maples, pero se empaquetan 69 maples).
+- **La Causa:** Se acumulan "huevos sueltos" (backlog) de días anteriores que se empacan en masa días después.
+- **La Solución:** Para evitar pérdidas por robos o conteo doble, es MANDATORIO llevar un registro de conciliación diaria (`huevos_ayer + huevos_hoy - (maples_empaquetados * 30) = sobrante_para_mañana`).
+
+---
 *Este documento es la referencia definitiva de la Granja Cabral. Al planificar o ejecutar ideas para el negocio, la respuesta debe estar siempre al nivel de esta escala operativa y no inventar métricas irreales.*
+https://github.com/IvanWeissVanDerPol/laura-egg-business.git

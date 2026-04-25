@@ -1,94 +1,85 @@
 # 🐔 GRANJA CABRAL — Coronel Oviedo, Paraguay
 
-> **Sistema de gestión documental para granja avícola de huevos frescos**
-> **Versión:** 2.0 — Reorganizado Marzo 2026
-> **Propósito:** Centralizar información, planificar y ejecutar operaciones
+> **Sistema operativo integral y documentación para granja avícola comercial**
+> **Versión:** 3.0 — AI & Cloud Architecture (Abril 2026)
+> **Propósito:** Operación autónoma, trazabilidad y automatización B2B/B2C.
 
 ---
 
-## 📁 ESTRUCTURA DEL REPOSITORIO
+## 📁 ESTRUCTURA DEL REPOSITORIO (ESPAÑOL)
 
 ```
 laura-egg-business/
 │
-├── 00_source_of_truth/         ✅ DATOS REALES (¡Empezar Aquí!)
-│   ├── raw_data/              📊 Datos fuente desde WhatsApp/Excel
-│   └── REALIDAD_DEL_NEGOCIO.md 📖 Métricas oficiales de la granja
+├── 00_fuente_de_verdad/        ✅ DATOS REALES (¡Empezar Aquí!)
+│   ├── datos_crudos/          📊 Datos exportados de WhatsApp y Scripts ETL
+│   └── 01_realidad_del_negocio.md 📖 Métricas oficiales (Producción y Escala Real)
 │
-├── 01_operaciones_granja/      🚜 PRODUCCIÓN
-│   ├── core_operations/       📋 Gestión del galpón, registros
-│   ├── quality_control/       🥚 Control de huevos
-│   └── logistics/             🚚 Envíos y transporte
+├── 01_operaciones_granja/      🚜 PRODUCCIÓN Y RECONCILIACIÓN
+│   ├── diario/                📋 Registros de reconciliación de maples e inventario
+│   ├── control_de_calidad/    🥚 Estándares de clasificación (A, B, Jumbo, S)
+│   └── logistica/             🚚 Rutas de reparto (Fada, Dalila, Coti)
 │
-├── 02_ventas_y_clientes/       💵 COMERCIALIZACIÓN
-│   ├── contacts/              📇 Base de clientes B2B y familiares
-│   ├── products/              📦 Inventario de productos y precios
-│   └── website_data/          🖥️ Contenidos para la web
+├── 02_ventas_y_clientes/       💵 COMERCIALIZACIÓN Y CRM
+│   ├── contactos/             📇 Directorio B2B y estrategias de precios
+│   ├── productos/             📦 Catálogo de maples y subproductos (Gallinaza)
+│   └── datos_web/             🖥️ Código fuente del sitio granjacabral.com.py
 │
-├── 03_finanzas_y_planes/       📈 CONTROL FINANCIERO
-│   ├── business_plan/         🎯 Plan maestro de ventas 
-│   └── expansion/             🚀 Ideas a futuro
+├── 03_finanzas_y_planes/       📈 CONTROL FINANCIERO Y ESTRATEGIA
+│   ├── plan_de_negocios/      🎯 Suscripciones B2C y marketing local
+│   └── expansion/             🚀 Pitch B2B para panaderías y confiterías
 │
-├── 04_administracion_legal/    ⚖️ LEGAL Y ADMINISTRATIVO
-│   ├── supply_chain/          🔗 Proveedores y agrovets
-│   ├── legal_compliance/      📜 SENACSA, patentes
-│   └── hr_management/         👷 Empleados, contratos
+├── 04_administracion_legal/    ⚖️ LEGAL, RRHH Y PROVEEDORES
+│   ├── documentos_legales/    📜 SENACSA y permisos municipales
+│   ├── proveedores/           🔗 Agroveterinarias y molinos
+│   └── recursos_humanos/      👷 Empleados, sueldos y automatización
 │
-├── 05_referencias/             📚 MATERIALES Y PLANTILLAS
+├── 05_referencias/             🧠 INVESTIGACIÓN E INTELIGENCIA ARTIFICIAL
+│   ├── 100_tech_ideas_for_laura.md 💡 Backlog de ingeniería (100 Hacks)
+│   ├── hermes_agent_research.md    🤖 Análisis de Hermes Agent
+│   └── digital_tooling_research.md 📡 IoT y herramientas de Primer Mundo
 │
-└── archive/                    🗑️ ARCHIVOS DESCARTADOS
+└── archive/                    🗑️ ARCHIVOS DESCARTADOS (Métricas Alucinadas)
 ```
 
 ---
 
-## 🎯 EMPEZAR AQUÍ
+## 🎯 ARQUITECTURA TECNOLÓGICA (GRANJA CABRAL 3.0)
 
-### Para Laura — Primeros pasos:
-1. 📖 Lee `09_references/quick_guides/guia_inicio_rapido.md`
-2. 💰 Revisa `01_core_operations/financial_tracking/numeros_clave.md`
-3. 📇 Contactos clave en `03_sales/contacts/`
+La operación de la granja se sostiene sobre un modelo mixto (Cloud Native + Autonomous AI):
 
-### Para expandir — Siguiente nivel:
-1. 📊 Plan maestro: `06_business_plan/strategy/MASTER_PLAN.md`
-2. 💡 Ideas: `07_innovation/`
-3. 📦 Productos derivados: `02_products/derived/`
+1. **Google Workspace Native:** Formularios y Google Sheets conectados a Looker Studio para eliminar cuadernos físicos y tener cero costo de mantenimiento de servidores.
+2. **Hermes Agent (Integración Pendiente):** Despliegue de IA persistente con acceso a WhatsApp, capaz de usar *Visión OCR* para leer cuadernos, *Cronjobs* para predecir fin de alimento, y responder consultas de clientes 24/7.
+3. **Hardware IoT (Bajo Costo):** Uso de Smart Plugs para garantizar exactamente 16 horas de fotoperiodo y maximizar el porcentaje de postura de las aves.
 
 ---
 
-## 📊 ESTADÍSTICAS DEL REPOSITORIO
+## 📊 MÉTRICAS OPERATIVAS REALES
 
-| Categoría | Archivos | Contenido |
-|-----------|----------|-----------|
-| Contactos comerciales | 50+ | 300+ negocios |
-| Productos | 15+ | Planes detallados |
-| Proveedores | 40+ |Agrovets, molinos |
-| Planes de negocio | 8+ | Fases 1-4 |
-| Plantillas | 4+ | Seguimiento |
+*Ningún plan o script debe desviarse de esta realidad productiva:*
+*   **Aves en Producción:** ~2.500 aves activas.
+*   **Producción Promedio:** ~71 maples por día (~2.130 huevos diarios).
+*   **Ingresos Brutos:** ~48.000.000 Gs/mensuales.
+*   **Unidad de Medida Estándar:** El MAPLE (30 unidades). *Jamás docenas ni huevos sueltos para proyecciones.*
 
 ---
 
-## 🔥 PRIORIDADES INMEDIATAS
+## 🔥 PRIORIDADES INMEDIATAS PARA ALEJANDRO
 
 ### Esta semana:
-1. ⭐ **Churrasquería DECO** — Contacto existente, formalizar
-2. ⭐ **500 gallinas** — Meta inicial
-3. ⭐ **5 clientes regulares** — Base comercial
-
-### Este mes:
-1. ⭐ Break-even operativo
-2. ⭐ Segunda semana clientes
-3. ⭐ Evaluar crecimiento
+1. ⭐ **Desplegar Google Forms** — Reemplazar el `REGISTRO_DIARIO.md` de papel para evitar el "inventario fantasma" y hacer la conciliación exacta.
+2. ⭐ **WhatsApp API & Hermes** — Conectar Hermes al número de ventas para automatizar atención.
+3. ⭐ **Scraping de Panaderías** — Lanzar campaña de correos fríos para diversificar la dependencia del 75% sobre los 3 grandes clientes (Fada, Dalila, Coti).
 
 ---
 
-## 📱 CONTACTO
+## 📱 CONTACTO Y UBICACIÓN
 
 **Granja Cabral**
-- Ubicación: Coronel Oviedo, Paraguay
-- Coordenadas GPS: ~-25.4, -56.4
-- Zona: Ruta 2, Km 125-140
+- Ubicación: Ruta 2, Km 125-140, Coronel Oviedo, Paraguay
+- WhatsApp de Ventas (Confirmando API)
+- Web: `granjacabral.com.py`
 
 ---
 
-*Documentación mantenida por Sisyphus AI Agent*
-*Para Laura Cabral — Marzo 2026*
+*Documentación refactorizada por Antigravity AI Agent — Abril 2026*
