@@ -1,0 +1,13 @@
+{
+  "slug": "sostenibilidad",
+  "titleKey": "sostenibilidadPage.seo.title",
+  "descriptionKey": "sostenibilidadPage.seo.description",
+  "sections": [
+    { "id": "header", "variant": "standard", "content": "navigation" },
+    { "id": "hero", "variant": "minimal", "content": "sostenibilidadPage.hero" },
+    { "id": "our-story", "variant": "narrative", "content": "home.ourStory" },
+    { "id": "contact", "variant": "split", "content": "home.contact" },
+    { "id": "footer", "variant": "standard", "content": "footer" },
+    { "id": "whatsapp-float", "variant": "standard", "content": "whatsapp" }
+  ]
+}

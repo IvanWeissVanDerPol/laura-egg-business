@@ -1,0 +1,42 @@
+{
+  "slug": "sobre-nosotros",
+  "titleKey": "sobrePage.seo.title",
+  "descriptionKey": "sobrePage.seo.description",
+  "sections": [
+    {
+      "id": "header",
+      "variant": "standard",
+      "content": "navigation"
+    },
+    {
+      "id": "hero",
+      "variant": "minimal",
+      "content": "sobrePage.hero"
+    },
+    {
+      "id": "our-story",
+      "variant": "narrative",
+      "content": "home.ourStory"
+    },
+    {
+      "id": "testimonials",
+      "variant": "carousel",
+      "content": "home.testimonials"
+    },
+    {
+      "id": "contact",
+      "variant": "split",
+      "content": "home.contact"
+    },
+    {
+      "id": "footer",
+      "variant": "standard",
+      "content": "footer"
+    },
+    {
+      "id": "whatsapp-float",
+      "variant": "standard",
+      "content": "whatsapp"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "",
+  "titleKey": "home.seo.title",
+  "descriptionKey": "home.seo.description",
+  "sections": [
+    {
+      "id": "promo-banner",
+      "variant": "carousel",
+      "content": "home.promoBanner"
+    },
+    {
+      "id": "header",
+      "variant": "standard",
+      "content": "navigation"
+    },
+    {
+      "id": "hero",
+      "variant": "image",
+      "content": "home.hero"
+    },
+    {
+      "id": "trust-badges",
+      "variant": "strip",
+      "content": "home.trustBadgesStrip"
+    },
+    {
+      "id": "open-hours-status",
+      "variant": "standard",
+      "content": "home.openHours"
+    },
+    {
+      "id": "services",
+      "variant": "cards",
+      "content": "home.services"
+    },
+    {
+      "id": "cta-banner",
+      "variant": "gradient",
+      "content": "home.ctaToMayorista"
+    },
+    {
+      "id": "testimonials",
+      "variant": "carousel",
+      "content": "home.testimonials"
+    },
+    {
+      "id": "cta-banner",
+      "variant": "solid",
+      "content": "home.ctaToRecetas"
+    },
+    {
+      "id": "newsletter-signup",
+      "variant": "standard",
+      "content": "home.newsletter"
+    },
+    {
+      "id": "contact",
+      "variant": "split",
+      "content": "home.contact"
+    },
+    {
+      "id": "footer",
+      "variant": "standard",
+      "content": "footer"
+    },
+    {
+      "id": "whatsapp-float",
+      "variant": "standard",
+      "content": "whatsapp"
+    }
+  ]
+}

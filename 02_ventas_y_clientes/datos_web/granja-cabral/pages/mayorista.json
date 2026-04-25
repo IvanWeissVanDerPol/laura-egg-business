@@ -1,0 +1,37 @@
+{
+  "slug": "mayorista",
+  "titleKey": "mayoristaPage.seo.title",
+  "descriptionKey": "mayoristaPage.seo.description",
+  "sections": [
+    {
+      "id": "header",
+      "variant": "standard",
+      "content": "navigation"
+    },
+    {
+      "id": "hero",
+      "variant": "minimal",
+      "content": "mayoristaPage.hero"
+    },
+    {
+      "id": "b2b-wholesale",
+      "variant": "tiered",
+      "content": "home.wholesale"
+    },
+    {
+      "id": "contact",
+      "variant": "split",
+      "content": "home.contact"
+    },
+    {
+      "id": "footer",
+      "variant": "standard",
+      "content": "footer"
+    },
+    {
+      "id": "whatsapp-float",
+      "variant": "standard",
+      "content": "whatsapp"
+    }
+  ]
+}

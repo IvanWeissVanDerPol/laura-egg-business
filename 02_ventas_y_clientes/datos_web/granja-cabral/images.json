@@ -1,0 +1,184 @@
+{
+  "tenant": "granja-cabral",
+  "totalImages": 39,
+  "basePath": "/sites/granja-cabral/images",
+  "fallback": "/sites/granja-cabral/images/brand/og-default.png",
+  "images": {
+    "brand": {
+      "ogDefault": {
+        "src": "/sites/granja-cabral/images/brand/og-default.png",
+        "alt": "Granja Cabral — huevos frescos de granja en Coronel Oviedo"
+      }
+    },
+    "hero": {
+      "home": {
+        "src": "/sites/granja-cabral/images/hero/hero-bg.png",
+        "alt": "Granja Cabral al amanecer en el campo paraguayo — gallinas y canastas de huevos frescos"
+      },
+      "homeMobile": {
+        "src": "/sites/granja-cabral/images/hero/hero-bg-mobile.png",
+        "alt": "Granja Cabral al amanecer (vertical, móvil)"
+      }
+    },
+    "trust": {
+      "farmExterior": {
+        "src": "/sites/granja-cabral/images/trust/farm-exterior.png",
+        "alt": "Exterior de Granja Cabral — galpón de gallinas y entorno rural en Coronel Oviedo"
+      },
+      "qualityCloseup": {
+        "src": "/sites/granja-cabral/images/trust/quality-closeup.png",
+        "alt": "Huevos frescos seleccionados uno a uno — primer plano de calidad"
+      },
+      "delivery": {
+        "src": "/sites/granja-cabral/images/trust/delivery.png",
+        "alt": "Delivery puntual de huevos frescos en Coronel Oviedo y Ruta 2"
+      }
+    },
+    "products": {
+      "huevoUnidad": {
+        "src": "/sites/granja-cabral/images/products/huevo-unidad.png",
+        "alt": "Huevo fresco por unidad — Granja Cabral"
+      },
+      "bandeja12": {
+        "src": "/sites/granja-cabral/images/products/bandeja-12.png",
+        "alt": "Bandeja de 12 huevos frescos — Granja Cabral"
+      },
+      "maple30": {
+        "src": "/sites/granja-cabral/images/products/maple-30.png",
+        "alt": "Maple de 30 huevos — ideal para familias"
+      },
+      "polloEntero": {
+        "src": "/sites/granja-cabral/images/products/pollo-entero.png",
+        "alt": "Pollo entero de granja limpio y listo para cocinar"
+      },
+      "pollitoTierno": {
+        "src": "/sites/granja-cabral/images/products/pollito-tierno.png",
+        "alt": "Pollito tierno joven de carne suave"
+      },
+      "fertilizante": {
+        "src": "/sites/granja-cabral/images/products/fertilizante.png",
+        "alt": "Fertilizante orgánico 10kg — gallinaza compostada"
+      },
+      "delivery": {
+        "src": "/sites/granja-cabral/images/products/delivery.png",
+        "alt": "Delivery a domicilio en Coronel Oviedo y Ruta 2"
+      },
+      "mayorista": {
+        "src": "/sites/granja-cabral/images/products/mayorista.png",
+        "alt": "Venta por mayor para restaurantes, panaderías y supermercados"
+      },
+      "pedidosProgramados": {
+        "src": "/sites/granja-cabral/images/products/pedidos-programados.png",
+        "alt": "Pedidos programados — entrega semanal o quincenal"
+      }
+    },
+    "story": {
+      "owner": {
+        "src": "/sites/granja-cabral/images/story/owner.png",
+        "alt": "Laura Cabral, propietaria de Granja Cabral, en la granja familiar"
+      },
+      "hens": {
+        "src": "/sites/granja-cabral/images/story/hens.png",
+        "alt": "Gallinas ponedoras criadas con cuidado en ambiente natural"
+      },
+      "sustainability": {
+        "src": "/sites/granja-cabral/images/story/sustainability.png",
+        "alt": "Prácticas sostenibles — compostaje, reutilización de agua y fertilizante orgánico"
+      }
+    },
+    "process": {
+      "recoleccion": {
+        "src": "/sites/granja-cabral/images/process/recoleccion.png",
+        "alt": "Recolección diaria de huevos frescos"
+      },
+      "seleccion": {
+        "src": "/sites/granja-cabral/images/process/seleccion.png",
+        "alt": "Selección y control de calidad de cada huevo"
+      },
+      "empaque": {
+        "src": "/sites/granja-cabral/images/process/empaque.png",
+        "alt": "Empaque cuidadoso en bandejas y maples"
+      },
+      "entrega": {
+        "src": "/sites/granja-cabral/images/process/entrega.png",
+        "alt": "Entrega final al cliente — frescura garantizada"
+      }
+    },
+    "b2b": {
+      "hero": {
+        "src": "/sites/granja-cabral/images/b2b/hero.png",
+        "alt": "Granja Cabral para negocios — venta mayorista en Caaguazú"
+      },
+      "panaderia": {
+        "src": "/sites/granja-cabral/images/b2b/panaderia.png",
+        "alt": "Proveedor de huevos frescos para panaderías"
+      },
+      "restaurante": {
+        "src": "/sites/granja-cabral/images/b2b/restaurante.png",
+        "alt": "Proveedor de huevos frescos para restaurantes"
+      },
+      "supermercado": {
+        "src": "/sites/granja-cabral/images/b2b/supermercado.png",
+        "alt": "Proveedor de huevos frescos para supermercados"
+      }
+    },
+    "recipes": {
+      "chipaGuasu": {
+        "src": "/sites/granja-cabral/images/recipes/chipa-guasu.png",
+        "alt": "Chipa guasu tradicional paraguaya con huevos de granja"
+      },
+      "sopaParaguaya": {
+        "src": "/sites/granja-cabral/images/recipes/sopa-paraguaya.png",
+        "alt": "Sopa paraguaya casera con huevos frescos"
+      },
+      "tortilla": {
+        "src": "/sites/granja-cabral/images/recipes/tortilla.png",
+        "alt": "Tortilla paraguaya casera con huevos de Granja Cabral"
+      },
+      "flanCasero": {
+        "src": "/sites/granja-cabral/images/recipes/flan-casero.png",
+        "alt": "Flan casero con huevos frescos"
+      },
+      "milanesa": {
+        "src": "/sites/granja-cabral/images/recipes/milanesa.png",
+        "alt": "Milanesa rebozada con huevos de granja"
+      },
+      "pastelMandioca": {
+        "src": "/sites/granja-cabral/images/recipes/pastel-mandioca.png",
+        "alt": "Pastel de mandioca paraguayo con huevos frescos"
+      }
+    },
+    "gallery": {
+      "coop": {
+        "src": "/sites/granja-cabral/images/gallery/coop.png",
+        "alt": "Interior del gallinero de Granja Cabral"
+      },
+      "eggsSorted": {
+        "src": "/sites/granja-cabral/images/gallery/eggs-sorted.png",
+        "alt": "Huevos seleccionados y clasificados"
+      },
+      "farmMorning": {
+        "src": "/sites/granja-cabral/images/gallery/farm-morning.png",
+        "alt": "La granja al amanecer — Coronel Oviedo"
+      },
+      "baskets": {
+        "src": "/sites/granja-cabral/images/gallery/baskets.png",
+        "alt": "Canastas de huevos recién recolectados"
+      }
+    },
+    "testimonials": {
+      "maria": {
+        "src": "/sites/granja-cabral/images/testimonials/maria.png",
+        "alt": "María G. — cliente de Coronel Oviedo (retrato ilustrativo)"
+      },
+      "jose": {
+        "src": "/sites/granja-cabral/images/testimonials/jose.png",
+        "alt": "Don José — Panadería San José (retrato ilustrativo)"
+      },
+      "restaurant": {
+        "src": "/sites/granja-cabral/images/testimonials/restaurant.png",
+        "alt": "Restaurante La Tradición — Ruta 2 (retrato ilustrativo)"
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "recetas",
+  "titleKey": "recetasPage.seo.title",
+  "descriptionKey": "recetasPage.seo.description",
+  "sections": [
+    {
+      "id": "header",
+      "variant": "standard",
+      "content": "navigation"
+    },
+    {
+      "id": "hero",
+      "variant": "minimal",
+      "content": "recetasPage.hero"
+    },
+    {
+      "id": "recipes",
+      "variant": "grid",
+      "content": "home.recipes"
+    },
+    {
+      "id": "contact",
+      "variant": "split",
+      "content": "home.contact"
+    },
+    {
+      "id": "footer",
+      "variant": "standard",
+      "content": "footer"
+    },
+    {
+      "id": "whatsapp-float",
+      "variant": "standard",
+      "content": "whatsapp"
+    }
+  ]
+}

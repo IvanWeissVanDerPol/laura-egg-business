@@ -1,0 +1,37 @@
+{
+  "slug": "contacto",
+  "titleKey": "contactoPage.seo.title",
+  "descriptionKey": "contactoPage.seo.description",
+  "sections": [
+    {
+      "id": "header",
+      "variant": "standard",
+      "content": "navigation"
+    },
+    {
+      "id": "hero",
+      "variant": "minimal",
+      "content": "contactoPage.hero"
+    },
+    {
+      "id": "contact",
+      "variant": "split",
+      "content": "home.contact"
+    },
+    {
+      "id": "enhanced-faq",
+      "variant": "searchable",
+      "content": "home.enhancedFaq"
+    },
+    {
+      "id": "footer",
+      "variant": "standard",
+      "content": "footer"
+    },
+    {
+      "id": "whatsapp-float",
+      "variant": "standard",
+      "content": "whatsapp"
+    }
+  ]
+}

@@ -11,65 +11,32 @@
 ```
 laura-egg-business/
 │
-├── 01_core_operations/          🚜 OPERACIONES DIARIAS
-│   ├── farm_management/        📋 Gestión del galpón
-│   ├── financial_tracking/     💰 Control financiero
-│   └── production_logs/        📊 Registros de producción
+├── 00_source_of_truth/         ✅ DATOS REALES (¡Empezar Aquí!)
+│   ├── raw_data/              📊 Datos fuente desde WhatsApp/Excel
+│   └── REALIDAD_DEL_NEGOCIO.md 📖 Métricas oficiales de la granja
 │
-├── 02_products/                 📦 PRODUCTOS
-│   ├── primary/                🥚 Productos principales
-│   │   ├── eggs/              Huevos frescos
-│   │   ├── poultry/           Pollos de carne
-│   │   └── fertilizer/        Fertilizante base
-│   ├── derived/                🏭 Valor agregado
-│   │   ├── liquid_egg/        Huevo líquido
-│   │   ├── egg_powder/        Huevo en polvo
-│   │   ├── pasta_products/    Fideos con huevo
-│   │   ├── sauces/            Mayonesa/Salsas
-│   │   ├── feathers/          Productos plumas
-│   │   └── processed_poultry/ Pollo procesado
-│   └── organic_certification/ 🌱 Certificación orgánica
+├── 01_operaciones_granja/      🚜 PRODUCCIÓN
+│   ├── core_operations/       📋 Gestión del galpón, registros
+│   ├── quality_control/       🥚 Control de huevos
+│   └── logistics/             🚚 Envíos y transporte
 │
-├── 03_sales/                   💵 VENTAS Y DISTRIBUCIÓN
-│   ├── contacts/               📇 Base de datos contactos
-│   │   ├── hotels_restaurants/
-│   │   ├── supermarkets/
-│   │   ├── bakeries/
-│   │   ├── institutions/
-│   │   └── ruta2_paradores/
-│   ├── channels/               🛒 Canales de venta
-│   └── pricing/                💲 Estrategia de precios
+├── 02_ventas_y_clientes/       💵 COMERCIALIZACIÓN
+│   ├── contacts/              📇 Base de clientes B2B y familiares
+│   ├── products/              📦 Inventario de productos y precios
+│   └── website_data/          🖥️ Contenidos para la web
 │
-├── 04_supply_chain/            🔗 PROVEEDORES
-│   ├── veterinary/             🐔 Veterinarias/Granjas
-│   ├── feed_mills/             🌾 Molinos balanceados
-│   ├── equipment/              ⚙️ Equipamiento
-│   └── labor/                  👷 Mano de obra
+├── 03_finanzas_y_planes/       📈 CONTROL FINANCIERO
+│   ├── business_plan/         🎯 Plan maestro de ventas 
+│   └── expansion/             🚀 Ideas a futuro
 │
-├── 05_market_intelligence/      📊 INTELIGENCIA DE MERCADO
-│   ├── research/               🔬 Investigación
-│   ├── competitors/           🏢 Competidores
-│   └── benchmarks/             📈 Benchmarks globales
+├── 04_administracion_legal/    ⚖️ LEGAL Y ADMINISTRATIVO
+│   ├── supply_chain/          🔗 Proveedores y agrovets
+│   ├── legal_compliance/      📜 SENACSA, patentes
+│   └── hr_management/         👷 Empleados, contratos
 │
-├── 06_business_plan/           📈 PLAN DE NEGOCIOS
-│   ├── strategy/               🎯 Estrategia maestra
-│   ├── financial_projections/  💹 Proyecciones
-│   └── risk_analysis/          ⚠️ Análisis de riesgos
+├── 05_referencias/             📚 MATERIALES Y PLANTILLAS
 │
-├── 07_innovation/              💡 INNOVACIÓN
-│   ├── future_products/        🆕 Productos futuros
-│   ├── tech_upgrades/          🔧 Mejoras tecnológicas
-│   └── best_practices/         ✅ Mejores prácticas
-│
-├── 08_sustainability/          🌿 SOSTENIBILIDAD
-│   ├── composting/             ♻️ Compostaje
-│   ├── bio_energy/             ⚡ Biogás
-│   └── water_management/       💧 Gestión de agua
-│
-└── 09_references/              📚 REFERENCIAS
-    ├── templates/               📝 Plantillas
-    ├── source_data/             📂 Datos fuente (Laura)
-    └── quick_guides/           🚀 Guías rápidas
+└── archive/                    🗑️ ARCHIVOS DESCARTADOS
 ```
 
 ---
