@@ -1,8 +1,8 @@
-# 📱 Chat WhatsApp — Datos Extraídos
+# 📱 Chat Messaging — Datos Extraídos
 
 ## Fuente
 
-**Archivo:** `C:\Users\Alejandro\.openclaw\media\inbound\laura_chat\WhatsApp Chat with Laura Cabral.txt`
+**Archivo:** `C:\Users\Alejandro\.openclaw\media\inbound\laura_chat\Messaging Chat with Laura Cabral.txt`
 **Líneas:** ~29,665 líneas
 **Rango de Fechas:** Noviembre 2019 a Marzo 2026
 **Participantes:** Alejandro, Laura, Jorge
@@ -17,7 +17,7 @@
 | Edad (2024) | 28 años | Contexto del chat |
 | Estado civil | Casada con Jorge | Mensajes del chat |
 | Ubicación | Granja / zona rural de Oviedo | Contexto del chat |
-| Teléfono | +595 975 346258 | WhatsApp |
+| Teléfono | +595 975 346258 | Messaging |
 | CI | 4.198.462 | Chat |
 | Ocupación | Estudiante de Ingeniería Química | Contexto del chat |
 | Mascotas | Michi (gato), perros, loro | Múltiples mensajes |
@@ -93,7 +93,7 @@
 - Sistema de clasificación de huevos (T1-T3-Jumbo)
 
 ### Digitales/Negocio
-- WhatsApp Business (contacto de negocios: 0982 911 935)
+- Messaging Business (contacto de negocios: 0982 911 935)
 - Seguimiento en Excel desde Jun 2024
 - Tarjetas de presentación (mencionadas)
 - Base de clientes (familia, Ida, Santiago, Favesa, Abasto)
@@ -141,8 +141,8 @@ Kevin como repartidor regular
 ### Fuentes de Datos Analizadas
 | Archivo | Líneas | Período | Formato |
 |---------|--------|---------|---------|
-| `ventas laura 2024 06 al 12.txt` | 3,053 | Jun 1 - Dic 26, 2024 | Registro de ventas estilo WhatsApp |
-| `Chat de WhatsApp con VENTAS 🥚🥚🥚.txt` | 6,416 | Ene - Jun 2021 | Chat de ventas temprano |
+| `ventas laura 2024 06 al 12.txt` | 3,053 | Jun 1 - Dic 26, 2024 | Registro de ventas estilo Messaging |
+| `Chat de Messaging con VENTAS 🥚🥚🥚.txt` | 6,416 | Ene - Jun 2021 | Chat de ventas temprano |
 
 ### Ingresos Reales 2024 (de datos reales)
 
@@ -246,10 +246,10 @@ Kevin como repartidor regular
 
 3. **El chat termina en:** La fecha actual parece ser una conversación activa.
 
-4. **Calidad de datos:** El formato de WhatsApp es informal pero completo. Algunas entradas incompletas o editadas. El estado de pago a veces no claro.
+4. **Calidad de datos:** El formato de Messaging es informal pero completo. Algunas entradas incompletas o editadas. El estado de pago a veces no claro.
 
 ---
 
 *Actualizado: 19 de Marzo, 2026*
 *Basado en análisis de 9,469+ líneas de datos de ventas reales*
-*Fuentes: WhatsApp Chat with Laura Cabral.txt, ventas laura 2024 06 al 12.txt*
+*Fuentes: Messaging Chat with Laura Cabral.txt, ventas laura 2024 06 al 12.txt*

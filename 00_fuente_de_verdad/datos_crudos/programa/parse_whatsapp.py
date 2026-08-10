@@ -6,9 +6,9 @@ from datetime import datetime
 import tkinter as tk
 from tkinter import filedialog
 
-def parse_whatsapp_txt(input_txt_path, output_xlsx_path):
+def parse_messaging_txt(input_txt_path, output_xlsx_path):
     """
-    Reads a WhatsApp .txt export of egg sales messages and writes the parsed
+    Reads a Messaging .txt export of egg sales messages and writes the parsed
     rows to an Excel file with columns:
         Fecha, Cliente, Cantidad, Concepto, Precio Unitario, Ingreso, Check, Raw, TripNumber
 
@@ -20,7 +20,7 @@ def parse_whatsapp_txt(input_txt_path, output_xlsx_path):
       (i.e. the nth unique date in the month).
     """
 
-    # Regex to detect the start of a WhatsApp message (DD/MM/YYYY, HH:MM - Sender:)
+    # Regex to detect the start of a Messaging message (DD/MM/YYYY, HH:MM - Sender:)
     message_start_regex = re.compile(
         r'^(\d{1,2}/\d{1,2}/\d{4}),\s*\d{1,2}:\d{2}\s*-\s*(.+?):'
     )
@@ -56,7 +56,7 @@ def parse_whatsapp_txt(input_txt_path, output_xlsx_path):
             if not stripped_line:
                 continue  # skip empty lines
 
-            # Check if this line starts a new WhatsApp message
+            # Check if this line starts a new Messaging message
             msg_match = message_start_regex.match(stripped_line)
             if msg_match:
                 date_str = msg_match.group(1)  # e.g. "27/8/2024"
@@ -198,7 +198,7 @@ if __name__ == "__main__":
 
     # Ask the user to pick the input .txt file
     input_txt = filedialog.askopenfilename(
-        title="Select the WhatsApp text export",
+        title="Select the Messaging text export",
         filetypes=[("Text files", "*.txt"), ("All files", "*.*")]
     )
     if not input_txt:
@@ -215,4 +215,4 @@ if __name__ == "__main__":
         print("No output file specified. Exiting.")
         exit()
 
-    parse_whatsapp_txt(input_txt, output_xlsx)
+    parse_messaging_txt(input_txt, output_xlsx)

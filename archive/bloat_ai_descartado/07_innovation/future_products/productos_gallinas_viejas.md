@@ -16,7 +16,7 @@ DÍA 500+ (18+ meses):      GALLINA VIEJA ("spent hen") → ¿Qué hacer?
 
 ### 🔄 ¿Qué pasa AHORA en la granja de Laura?
 
-Según el chat de WhatsApp:
+Según el chat de Messaging:
 - Tienen gallinas produciendo huevos ✅
 - Las gallinas viejas probablemente se venden barato o se descartan ❌
 - **OPORTUNIDAD PERDIDA** 💰

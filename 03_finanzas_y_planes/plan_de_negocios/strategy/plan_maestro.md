@@ -22,7 +22,7 @@ Este plan ha sido **actualizado** basado en el análisis de 9,469+ líneas de da
 - ✅ Venta en MAPLES de 30 unidades (Clasificación A, B, S, Jumbo)
 - ✅ **10+ clientes activos verificados** (datos 2024)
 - ✅ **Clientes bulk:** Fada, Dalila, Coti (~60% de ingresos)
-- ✅ Seguimiento en Excel y WhatsApp (desde Jun 2024)
+- ✅ Seguimiento en Excel y Messaging (desde Jun 2024)
 
 ### Ingresos REALES (2024):
 | Métrica | Valor | Fuente |
@@ -65,7 +65,7 @@ Este plan ha sido **actualizado** basado en el análisis de 9,469+ líneas de da
 │ • Historia real de campo                              │
 ├─────────────────────────────────────────────────────────┤
 │ CANALES:                                             │
-│ • WhatsApp (pedidos)                                  │
+│ • Messaging (pedidos)                                  │
 │ • Delivery propio (Kevin)                             │
 │ • Visitas directas (restaurantes)                     │
 ├─────────────────────────────────────────────────────────┤
@@ -217,12 +217,12 @@ Se necesita **análisis de costos real** para verificar.
 ### Día 1-2: Fundamentos
 - [ ] Elegir nombre de marca definitiva
 - [ ] Anotar 3 productos a ofrecer
-- [ ] Escribir mensaje de WhatsApp de ventas
+- [ ] Escribir mensaje de Messaging de ventas
 
 ### Día 3-4: Contactos
 - [ ] Enviar mensaje a 5 familias conocidas
 - [ ] Visitar o llamar a DECO restaurante
-- [ ] Crear grupo de WhatsApp "Clientes Premium"
+- [ ] Crear grupo de Messaging "Clientes Premium"
 
 ### Día 5-7: Primeros Pedidos
 - [ ] Confirmar primer pedido
@@ -257,7 +257,7 @@ Se necesita **análisis de costos real** para verificar.
 
 | Métrica | Target | Monitoreo |
 |---------|--------|-----------|
-| **Nuevos clientes** | 2-3 | WhatsApp |
+| **Nuevos clientes** | 2-3 | Messaging |
 | **Docenas vendidas** | 500-700 | Excel |
 | **Cobranza** | 90%+ | Registro pagos |
 | **Deuda total** | <G. 2M | Control mensual |
@@ -328,7 +328,7 @@ MITIGACIÓN:
 - [ ] Contabilidad simple (Excel)
 
 ### Herramientas:
-- [x] WhatsApp ✓
+- [x] Messaging ✓
 - [ ] Canva (gratis) - para diseño
 - [ ] Excel/Google Sheets - para seguimiento
 
@@ -345,7 +345,7 @@ MITIGACIÓN:
 ```
 Nombre: [ELEGIR MARCA]
 Propietaria: Laura Elena Cabral Valdovinos
-WhatsApp: 0982 911 935
+Messaging: 0982 911 935
 Ubicación: Coronel Oviedo, Caaguazú
 ```
 

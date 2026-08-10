@@ -626,7 +626,7 @@ Aprovechá el pan duro con este budín húmedo y esponjoso.
 - [ ] Crear página /recetas
 - [ ] Agregar 5 recetas principales primero
 - [ ] Incluir fotos de cada receta
-- [ ] Botón "Compartir por WhatsApp"
+- [ ] Botón "Compartir por Messaging"
 
 ### En Redes Sociales:
 - [ ] Postear una receta por semana
@@ -634,9 +634,9 @@ Aprovechá el pan duro con este budín húmedo y esponjoso.
 - [ ] Etiquetar ingredientes: @granjacabral
 - [ ] Usar hashtag: #RecetasGranjaCabral
 
-### En WhatsApp:
+### En Messaging:
 - [ ] Enviar receta del mes a clientes
-- [ ] Crear álbum de recetas en WhatsApp Business
+- [ ] Crear álbum de recetas en Messaging Business
 - [ ] Responder "¿Qué cocino hoy?" con recetas
 
 ---
@@ -666,7 +666,7 @@ Compartí tus fotos usando #RecetasGranjaCabral y etiquetanos @granjacabral
 
 **¿Querés más recetas?**
 
-Tenemos 20+ recetas más disponibles. Escribinos por WhatsApp y te las enviamos.
+Tenemos 20+ recetas más disponibles. Escribinos por Messaging y te las enviamos.
 
 ---
 

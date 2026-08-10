@@ -42,7 +42,7 @@
 - [ ] Aún no tengo, hay que crearlas.
 
 **7. ¿Qué acción principal quieres que haga la gente al entrar a la página web?**
-- [ ] Hacer clic en un botón directo a WhatsApp para comprar.
+- [ ] Hacer clic en un botón directo a Messaging para comprar.
 - [ ] Llenar un formulario para pedir cotización mayorista.
 - [ ] Ver los precios y suscribirse a entregas semanales.
 
@@ -51,12 +51,12 @@
 ## 📱 SECCIÓN 2: Contactos y Redes de Venta (Preguntas 8-11)
 *Para configurar el Gateway omnicanal de la IA.*
 
-**8. ¿Cuál es el número de WhatsApp EXACTO para ventas?**
+**8. ¿Cuál es el número de Messaging EXACTO para ventas?**
 - [ ] `+595 981 324 569`
 - [ ] `+595 982 911 935`
 - [ ] Otro: _______________________________
 
-**9. ¿Transformaremos ese número a "WhatsApp Business" para que el Bot conteste 24/7?**
+**9. ¿Transformaremos ese número a "Messaging Business" para que el Bot conteste 24/7?**
 - [ ] Sí, hazlo.
 - [ ] No, compremos un chip nuevo exclusivo para el bot de ventas.
 
@@ -83,7 +83,7 @@
 **13. ¿Cómo prefieres registrar los maples armados?**
 - [ ] Un formulario en el celular del peón (solo aprieta botones).
 - [ ] Le saco una foto al cuaderno y la IA lo lee solo.
-- [ ] Lo escribo yo en un Excel o WhatsApp.
+- [ ] Lo escribo yo en un Excel o Messaging.
 
 **14. ¿Cómo mides la "Mortalidad" de aves?**
 - [ ] Las cuento y las anoto todos los días sin falta.
@@ -221,7 +221,7 @@
 - [ ] Contado.
 - [ ] Crédito / Fiado a ___ días.
 
-**42. ¿Quieres que el Bot de WhatsApp les envíe recordatorios automáticos de cobro a los que deben?**
+**42. ¿Quieres que el Bot de Messaging les envíe recordatorios automáticos de cobro a los que deben?**
 - [ ] Sí, que sea un recordatorio cortés a los 15 días.
 - [ ] No, prefiero cobrarles yo personalmente.
 
@@ -262,11 +262,11 @@
 
 **49. Nivel de comodidad: ¿Qué preferirías usar todos los días para manejar tu negocio?**
 - [ ] Solo ver un Panel con gráficos de colores (Dashboard) en mi iPad/PC.
-- [ ] Recibir solo mensajes de WhatsApp del Bot Hermes contándome cómo va todo.
+- [ ] Recibir solo mensajes de Messaging del Bot Hermes contándome cómo va todo.
 - [ ] Entrar al Google Sheet (Excel) a ver los números crudos.
 
 **50. ¡La decisión final! ¿Por dónde quieres que Alejandro empiece mañana mismo?**
 - [ ] Por la Página Web y buscar Panaderías nuevas.
 - [ ] Por los Google Forms y el Dashboard financiero para ver mi ganancia real.
-- [ ] Por el Bot de WhatsApp para que me conteste los mensajes.
+- [ ] Por el Bot de Messaging para que me conteste los mensajes.
 - [ ] Por los enchufes inteligentes (IoT) para automatizar la luz del galpón.

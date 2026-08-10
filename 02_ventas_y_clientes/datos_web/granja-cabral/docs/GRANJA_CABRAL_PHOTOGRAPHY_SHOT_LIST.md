@@ -93,7 +93,7 @@
 ---
 
 ## 📸 SECTION 2: PRODUCT PHOTOGRAPHY (25 shots)
-### Priority: CRITICAL | Usage: Product catalog, WhatsApp catalog, social media
+### Priority: CRITICAL | Usage: Product catalog, Messaging catalog, social media
 
 ### 2.1 Egg Products - Individual Shots (12 shots)
 **Setup:** Clean white or light wood background, natural light or softbox

@@ -12,7 +12,7 @@
 laura-egg-business/
 │
 ├── 00_fuente_de_verdad/        ✅ DATOS REALES (¡Empezar Aquí!)
-│   ├── datos_crudos/          📊 Datos exportados de WhatsApp y Scripts ETL
+│   ├── datos_crudos/          📊 Datos exportados de Messaging y Scripts ETL
 │   └── 01_realidad_del_negocio.md 📖 Métricas oficiales (Producción y Escala Real)
 │
 ├── 01_operaciones_granja/      🚜 PRODUCCIÓN Y RECONCILIACIÓN
@@ -49,7 +49,7 @@ laura-egg-business/
 La operación de la granja se sostiene sobre un modelo mixto (Cloud Native + Autonomous AI):
 
 1. **Google Workspace Native:** Formularios y Google Sheets conectados a Looker Studio para eliminar cuadernos físicos y tener cero costo de mantenimiento de servidores.
-2. **Hermes Agent (Integración Pendiente):** Despliegue de IA persistente con acceso a WhatsApp, capaz de usar *Visión OCR* para leer cuadernos, *Cronjobs* para predecir fin de alimento, y responder consultas de clientes 24/7.
+2. **Hermes Agent (Integración Pendiente):** Despliegue de IA persistente con acceso a Messaging, capaz de usar *Visión OCR* para leer cuadernos, *Cronjobs* para predecir fin de alimento, y responder consultas de clientes 24/7.
 3. **Hardware IoT (Bajo Costo):** Uso de Smart Plugs para garantizar exactamente 16 horas de fotoperiodo y maximizar el porcentaje de postura de las aves.
 
 ---
@@ -68,7 +68,7 @@ La operación de la granja se sostiene sobre un modelo mixto (Cloud Native + Aut
 
 ### Esta semana:
 1. ⭐ **Desplegar Google Forms** — Reemplazar el `REGISTRO_DIARIO.md` de papel para evitar el "inventario fantasma" y hacer la conciliación exacta.
-2. ⭐ **WhatsApp API & Hermes** — Conectar Hermes al número de ventas para automatizar atención.
+2. ⭐ **Messaging API & Hermes** — Conectar Hermes al número de ventas para automatizar atención.
 3. ⭐ **Scraping de Panaderías** — Lanzar campaña de correos fríos para diversificar la dependencia del 75% sobre los 3 grandes clientes (Fada, Dalila, Coti).
 
 ---
@@ -77,7 +77,7 @@ La operación de la granja se sostiene sobre un modelo mixto (Cloud Native + Aut
 
 **Granja Cabral**
 - Ubicación: Ruta 2, Km 125-140, Coronel Oviedo, Paraguay
-- WhatsApp de Ventas (Confirmando API)
+- Messaging de Ventas (Confirmando API)
 - Web: `granjacabral.com.py`
 
 ---

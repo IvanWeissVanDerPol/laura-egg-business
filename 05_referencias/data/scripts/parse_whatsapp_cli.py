@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Parse WhatsApp egg sales chat export into structured data.
+Parse Messaging egg sales chat export into structured data.
 Outputs both CSV and XLSX. CLI version (no tkinter GUI).
 
 Usage:
-    python parse_whatsapp_cli.py <input.txt> [output_base_name]
+    python parse_messaging_cli.py <input.txt> [output_base_name]
     
 If output_base_name is not given, defaults to 'ventas_parsed'.
 Generates: ventas_parsed.xlsx and ventas_parsed.csv
@@ -78,7 +78,7 @@ def _parse_price_str(precio_str):
 
 def _clean_sale_line(line):
     """Strip known noise from a sale line before parsing."""
-    # Remove WhatsApp edit markers
+    # Remove Messaging edit markers
     line = re.sub(r'\s*<Se editó este mensaje\.?>\s*$', '', line)
     # Remove leading "Retira" / "retira"
     line = re.sub(r'^(?:Retira|retira)\s+', '', line)
@@ -89,9 +89,9 @@ def _clean_sale_line(line):
     return line.strip()
 
 
-def parse_whatsapp_txt(input_txt_path):
+def parse_messaging_txt(input_txt_path):
     """
-    Parse WhatsApp sales chat and return list of dicts.
+    Parse Messaging sales chat and return list of dicts.
     
     Handles many format variations:
         10 A x 25 = 250.000          (standard)
@@ -103,12 +103,12 @@ def parse_whatsapp_txt(input_txt_path):
         264 B X 18 = 4.752.000       (uppercase X)
         15 bolsas abono x 20= 300.000 (multi-word concept)
         15A x 19=                     (missing ingreso)
-        <Se editó este mensaje.>      (WhatsApp edit marker stripped)
+        <Se editó este mensaje.>      (Messaging edit marker stripped)
     """
 
     # ── Regex patterns ──
     
-    # Start of a WhatsApp message line
+    # Start of a Messaging message line
     message_start_regex = re.compile(
         r'^(\d{1,2}/\d{1,2}/\d{4}),\s*\d{1,2}:\d{2}(?:\s*[ap]\.?\s*m\.?)?\s*-\s*(.+?):\s*(.*)'
     )
@@ -392,7 +392,7 @@ def parse_whatsapp_txt(input_txt_path):
             if not stripped_line:
                 continue
 
-            # ── WhatsApp message header ──
+            # ── Messaging message header ──
             msg_match = message_start_regex.match(stripped_line)
             if msg_match:
                 date_str = msg_match.group(1)
@@ -772,7 +772,7 @@ def main():
         sys.exit(1)
     
     print(f"Parsing: {input_path}")
-    rows, errors, skipped = parse_whatsapp_txt(input_path)
+    rows, errors, skipped = parse_messaging_txt(input_path)
     
     print(f"Parsed {len(rows)} sale records, {len(errors)} errors, {len(skipped)} skipped")
     

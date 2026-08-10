@@ -78,7 +78,7 @@
 
 ### Dónde encontrarlos:
 - **Barrios:** Centro, San Martín, Bernardino Caballero
-- **Grupos:** WhatsApp de madres, grupos de iglesia
+- **Grupos:** Messaging de madres, grupos de iglesia
 - **Forma:** Recomendaciones entre clientes existentes
 
 ---
@@ -131,7 +131,7 @@ Distancia: ~150 km | Tiempo: ~2.5 horas
 
 ## 📱 CONTACTO INICIAL - GUION
 
-### Para restaurantes (WhatsApp o visita):
+### Para restaurantes (Messaging o visita):
 
 ```
 "Hola, soy Laura de la Granja Cabral en Oviedo. 
@@ -140,7 +140,7 @@ Producimos huevos frescos de gallinas criadas en el campo.
 Podemos ofrecer una muestra sin costo para que prueben."
 ```
 
-### Para familias (WhatsApp):
+### Para familias (Messaging):
 
 ```
 "Hola! Vendemos huevos frescos del campo directamente de nuestra granja.
@@ -227,4 +227,4 @@ Tenemos capacidad para 50-100 docenas semanales.
 ---
 
 **Actualizado:** Marzo 2026
-**Fuentes:** Búsqueda web, chat de WhatsApp, conocimiento local
+**Fuentes:** Búsqueda web, chat de Messaging, conocimiento local

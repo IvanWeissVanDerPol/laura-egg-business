@@ -15,7 +15,7 @@ This document serves as a comprehensive, professional engineering backlog for Al
 7. **Cloud Backups:** Configure automated nightly CRON jobs to back up all databases to AWS S3 or Google Drive.
 8. **Role-Based Access Control (RBAC):** Set strict permissions (Admin for Laura, Read-Only for operators).
 9. **Accounting Export:** Write a script that formats monthly sales data into standard CSV structures for the accountant.
-10. **Automated ETL (Extract, Transform, Load):** Write a Python script to parse messy WhatsApp text exports into structured JSON/CSV data.
+10. **Automated ETL (Extract, Transform, Load):** Write a Python script to parse messy Messaging text exports into structured JSON/CSV data.
 
 **Dashboards & Business Intelligence**
 11. **Real-Time BI Dashboard:** Deploy a Looker Studio or Metabase dashboard connected to the central warehouse.
@@ -36,7 +36,7 @@ This document serves as a comprehensive, professional engineering backlog for Al
 
 **Operational Alerts**
 21. **iPaaS Setup:** Establish a Make.com or Zapier account as the central automation hub.
-22. **Packaging Low-Stock Alert:** Trigger an SMS/WhatsApp alert when empty carton inventory drops below 10%.
+22. **Packaging Low-Stock Alert:** Trigger an SMS/Messaging alert when empty carton inventory drops below 10%.
 23. **Feed Depletion Warning:** Script an alert to notify Laura 3 days before feed inventory runs out based on average daily consumption.
 24. **Sanitation Reminders:** Automate weekly Slack/Telegram notifications to farmhands for cleaning water lines.
 25. **Production Anomaly Detection:** Script a cronjob to trigger a "Red Alert" if the laying percentage drops more than 5% in 48 hours.
@@ -53,7 +53,7 @@ This document serves as a comprehensive, professional engineering backlog for Al
 34. **Voice-to-Data Entry:** Configure Google Assistant/Siri shortcuts to append data to Google Sheets via voice commands.
 35. **KPI Weekly Digest:** Script an email that sends Laura a summary of the week's top metrics every Sunday at 8 PM.
 36. **Automated Supplier Ordering:** Trigger draft emails to the agro-vet when feed stock hits the reorder point.
-37. **Birthday Automations:** Auto-send WhatsApp birthday greetings to top B2B clients using a CRM integration.
+37. **Birthday Automations:** Auto-send Messaging birthday greetings to top B2B clients using a CRM integration.
 38. **Revenue Drop Detection:** Script an alert if weekly revenue falls 20% below the 4-week moving average.
 39. **Task Delegation Bot:** Deploy a simple Telegram bot where Laura can assign tasks to farmhands and they can click "Done."
 40. **Expense Categorization:** Use a simple LLM prompt within Make.com to auto-categorize expenses based on bank statement exports.
@@ -63,14 +63,14 @@ This document serves as a comprehensive, professional engineering backlog for Al
 ## 💬 3. Customer Relationship Management (CRM) & AI
 *Tools to scale sales, handle customer service, and retain B2B clients.*
 
-**Conversational AI & WhatsApp**
-41. **WhatsApp Business API:** Upgrade from the standard app to the official API via providers like Twilio or MessageBird.
-42. **Digital Product Catalog:** Native WhatsApp catalog configuration for Maples (A, B, Jumbo) and byproducts (Abono).
+**Conversational AI & Messaging**
+41. **Messaging Business API:** Upgrade from the standard app to the official API via providers like Twilio or MessageBird.
+42. **Digital Product Catalog:** Native Messaging catalog configuration for Maples (A, B, Jumbo) and byproducts (Abono).
 43. **Out-of-Hours Auto-Responder:** Configure logic to handle messages outside the 07:00-18:00 window.
 44. **Automated Onboarding:** Welcome messages outlining delivery zones and minimum order quantities for new numbers.
 45. **Quick-Reply Macros:** Setup `/precios`, `/ubicacion`, `/banco` shortcuts for rapid manual replies.
 46. **Pricing Chatbot (AI/NLP):** Deploy a Dialogflow or Chatwoot bot to parse natural language questions like "Do you have Jumbo eggs today?"
-47. **Automated Debt Collection:** Script a polite WhatsApp reminder for B2B clients with invoices unpaid after 15 days.
+47. **Automated Debt Collection:** Script a polite Messaging reminder for B2B clients with invoices unpaid after 15 days.
 48. **Broadcast Lists (Segmented):** Create automated broadcast campaigns targeting minor retailers for excess stock liquidation (e.g., "Picados" flash sale).
 49. **Automated Price Updates:** Script a Monday 8:00 AM broadcast pushing the week's price list to the VIP client segment.
 50. **Order Confirmation Flow:** Bot automatically replies with "Order received. Total: X Gs. Expected delivery: Tuesday."
@@ -85,7 +85,7 @@ This document serves as a comprehensive, professional engineering backlog for Al
 57. **Payment Gateway Integration:** Integrate local payment APIs (Bancard/Zimple) for instant B2B invoice clearing.
 58. **Cross-Selling Sequences:** Automate a follow-up message 2 days after a large egg delivery pitching organic fertilizer (Gallinaza).
 59. **Referral Tracking Code:** Generate unique promo codes for Dalila/Fada to track and reward referrals.
-60. **Social Media Link Routing:** Deploy a self-hosted Linktree alternative mapping to WhatsApp, Maps, and Pricing.
+60. **Social Media Link Routing:** Deploy a self-hosted Linktree alternative mapping to Messaging, Maps, and Pricing.
 
 ---
 
@@ -128,7 +128,7 @@ This document serves as a comprehensive, professional engineering backlog for Al
 84. **DNS Management:** Map `granjacabral.com.py` A-Records to the production hosting environment.
 85. **Static Site Deployment:** Deploy the React/Next.js frontend to Vercel, Netlify, or Cloudflare Pages for ultra-fast load times.
 86. **Web Analytics:** Integrate Google Analytics 4 (GA4) or Plausible Analytics to track user conversion rates.
-87. **WhatsApp Floating Widget:** Inject a sticky UI component on the website routing directly to the WhatsApp API.
+87. **Messaging Floating Widget:** Inject a sticky UI component on the website routing directly to the Messaging API.
 88. **Dynamic Product Showcase:** Implement a visual UI grid detailing the differences between sizes (A, B, S, Jumbo, Picados).
 89. **B2B Landing Page:** Create a dedicated `/mayoristas` route tailored purely to restaurants and bakeries.
 
@@ -139,7 +139,7 @@ This document serves as a comprehensive, professional engineering backlog for Al
 93. **Social Posting Automation:** Script a tool (or use Buffer) to auto-post weekly price updates across platforms.
 94. **Content SEO Strategy:** Publish markdown blog posts (e.g., "Why Fresh Farm Eggs Bake Better Bread") to capture long-tail local searches.
 95. **Micro-Targeted Ads:** Launch a highly constrained Google Ads campaign ($1/day) geo-fenced to Coronel Oviedo for keywords like "Huevos para panadería".
-96. **UTM Tracking Architecture:** Append UTM parameters to all social links to definitively track which channel drives the most WhatsApp leads.
+96. **UTM Tracking Architecture:** Append UTM parameters to all social links to definitively track which channel drives the most Messaging leads.
 97. **Direct-to-Consumer (D2C) Lead Gen:** Add a "Request a Quote" web form that sends structured JSON data to the CRM.
 98. **Digital B2B Pitch Deck:** Design and host a responsive web presentation highlighting farm biosecurity and quality standards for premium clients.
 99. **Subscription E-Commerce Flow:** Develop a web interface allowing local families to sign up for a "Weekly 2-Maple Delivery" subscription.

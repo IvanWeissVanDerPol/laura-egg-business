@@ -22,7 +22,7 @@ Este documento contiene la ÚNICA VERSIÓN REAL de las métricas de la Granja Ca
   - Picado/Rotos: 15,000 Gs
 
 ## 3. CLIENTES REALES Y MAYORISTAS
-Basado en datos de WhatsApp (Jun-Dic 2024), estos son los principales clientes mayoristas reales que sostienen la granja:
+Basado en datos de Messaging (Jun-Dic 2024), estos son los principales clientes mayoristas reales que sostienen la granja:
 1. **Dalila:** ~25% de los ingresos (~570 maples/mes).
 2. **Fada:** ~18% de los ingresos (~420 maples/mes).
 3. **Coti:** ~10% de los ingresos (~260 maples/mes).

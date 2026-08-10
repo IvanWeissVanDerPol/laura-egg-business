@@ -97,7 +97,7 @@ Orgánico certificado:    G. 18,000-22,000+/docena
 ```
 100% de la producción preventa
 0% huevos sin vender
-WhatsApp directo + entregas programadas
+Messaging directo + entregas programadas
 "Entregamos los martes y viernes"
 ```
 

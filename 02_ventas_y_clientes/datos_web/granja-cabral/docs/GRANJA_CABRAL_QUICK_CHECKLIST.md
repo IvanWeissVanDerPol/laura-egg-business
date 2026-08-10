@@ -6,7 +6,7 @@
 ## 🔴 WEEK 1-2: CRITICAL FIXES (Do This First!)
 
 ### Day 1-2: Get Real Information
-- [ ] **Get Laura's real WhatsApp number** (currently showing +595981000000)
+- [ ] **Get Laura's real Messaging number** (currently showing +595981000000)
 - [ ] **Confirm exact farm address** with GPS coordinates
 - [ ] **Verify current pricing** for all 6 products
 - [ ] **Confirm business hours** (currently: Lunes-Sábado 7-18, Domingo cerrado)
@@ -27,10 +27,10 @@
 - Take 3-5 shots of each subject
 
 ### Day 6-7: Update Website
-- [ ] Replace WhatsApp number EVERYWHERE
+- [ ] Replace Messaging number EVERYWHERE
 - [ ] Upload new photos
 - [ ] Update pricing
-- [ ] Test all WhatsApp links
+- [ ] Test all Messaging links
 - [ ] Set up Google Business Profile
 
 ---
@@ -59,7 +59,7 @@ producir alimentos frescos para Coronel Oviedo.
 
 ## Visítanos
 Ruta 2, Km 125-140, Coronel Oviedo
-WhatsApp: [REAL NUMBER]
+Messaging: [REAL NUMBER]
 ```
 
 ### Create 5 Essential Recipes
@@ -114,8 +114,8 @@ WhatsApp: [REAL NUMBER]
    - Services (delivery, wholesale)
 5. Verify via postcard or phone
 
-### Set Up WhatsApp Business (Free)
-1. Download WhatsApp Business app
+### Set Up Messaging Business (Free)
+1. Download Messaging Business app
 2. Set up business profile:
    - Logo/photo
    - Description
@@ -146,7 +146,7 @@ WhatsApp: [REAL NUMBER]
 
 **Steps:**
 1. [ ] Write subscription terms
-2. [ ] Create WhatsApp template
+2. [ ] Create Messaging template
 3. [ ] Set up tracking spreadsheet
 4. [ ] Announce to existing customers
 
@@ -161,7 +161,7 @@ WhatsApp: [REAL NUMBER]
 **Implementation:**
 - [ ] Create simple code system (e.g., LAURA001, LAURA002)
 - [ ] Track in spreadsheet
-- [ ] Announce on website and WhatsApp
+- [ ] Announce on website and Messaging
 
 ### Create B2B Page
 **Add to website:**
@@ -181,7 +181,7 @@ Descuentos por volumen:
 - 300-600 huevos/semana: 15% OFF
 - 600+ huevos/semana: 20% OFF + atención prioritaria
 
-[Botón: Solicitar Precios Mayoristas → WhatsApp]
+[Botón: Solicitar Precios Mayoristas → Messaging]
 ```
 
 ---
@@ -213,7 +213,7 @@ Descuentos por volumen:
 ### Performance Check
 **Test these:**
 - [ ] Website loads in < 3 seconds
-- [ ] WhatsApp buttons work on mobile
+- [ ] Messaging buttons work on mobile
 - [ ] All forms submit correctly
 - [ ] Images load properly
 - [ ] No broken links
@@ -226,7 +226,7 @@ Descuentos por volumen:
 
 **Week 1-4:**
 - [ ] Website visitors: Goal 250+
-- [ ] WhatsApp clicks: Goal 50+
+- [ ] Messaging clicks: Goal 50+
 - [ ] Orders received: Goal 20+
 
 **Week 5-8:**
@@ -272,14 +272,14 @@ Descuentos por volumen:
 ## 🚀 IMMEDIATE NEXT STEPS
 
 ### Do These 3 Things Today:
-1. **Send WhatsApp to Laura:** Get her real phone number
+1. **Send Messaging to Laura:** Get her real phone number
 2. **Schedule Photo Session:** This week if possible
 3. **Review Pricing:** Confirm current prices
 
 ### Do These 5 Things This Week:
 1. **Update website** with real info
 2. **Set up Google Business**
-3. **Test all WhatsApp links**
+3. **Test all Messaging links**
 4. **Write "Our Story" content**
 5. **Ask 5 customers** for testimonials
 
@@ -303,8 +303,8 @@ Descuentos por volumen:
 - Paragu-AI Builder Team
 - support@paragu-ai.com
 
-**WhatsApp Business Help:**
-- WhatsApp FAQ: business.whatsapp.com
+**Messaging Business Help:**
+- Messaging FAQ: business.messaging.com
 
 **Google Business Help:**
 - Google Support: support.google.com/business
@@ -318,11 +318,11 @@ Descuentos por volumen:
 ## ✅ FINAL PRE-LAUNCH CHECKLIST
 
 **Before Going Live:**
-- [ ] Real WhatsApp number everywhere
+- [ ] Real Messaging number everywhere
 - [ ] 10+ professional photos uploaded
 - [ ] All pricing current and accurate
 - [ ] Google Business verified
-- [ ] WhatsApp Business app set up
+- [ ] Messaging Business app set up
 - [ ] Website loads fast (< 3 seconds)
 - [ ] Mobile-friendly test passed
 - [ ] All links working
@@ -330,7 +330,7 @@ Descuentos por volumen:
 
 **Launch Day Tasks:**
 - [ ] Post on personal Facebook/Instagram
-- [ ] Update WhatsApp status
+- [ ] Update Messaging status
 - [ ] Send message to existing customers
 - [ ] Ask friends to share
 - [ ] Monitor inquiries closely
@@ -340,7 +340,7 @@ Descuentos por volumen:
 ## 🎯 SUCCESS INDICATORS
 
 **You're on track if:**
-- WhatsApp inquiries increase 50%+
+- Messaging inquiries increase 50%+
 - New customers mention "vi tu web"
 - B2B clients find you through Google
 - People ask about subscriptions
@@ -348,7 +348,7 @@ Descuentos por volumen:
 
 **Red flags (call us if):**
 - Website not loading
-- WhatsApp links broken
+- Messaging links broken
 - No inquiries after 1 week
 - Customers confused by pricing
 - Technical issues

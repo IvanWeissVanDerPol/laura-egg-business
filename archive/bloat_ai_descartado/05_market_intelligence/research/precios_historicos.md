@@ -129,10 +129,10 @@ Patrón: PRECIOS BAJAN 20% en verano (dic-feb)
 
 | Tamaño | 2021 (Real) | 2024 (Real) | Aumento | Fuente |
 |--------|-------------|-------------|---------|--------|
-| **A (T1)** | G. 15.000 | G. 18-25 | **+20-67%** | WhatsApp 2021 vs Ventas 2024 |
-| **B (T2)** | G. 12-13.500 | G. 16-23 | **+19-70%** | WhatsApp 2021 vs Ventas 2024 |
-| **S (T3)** | G. 14-18.000 | G. 21-27 | **+17-50%** | WhatsApp 2021 vs Ventas 2024 |
-| **Jumbo** | G. 16.000 | G. 25-30 | **+56-88%** | WhatsApp 2021 vs Ventas 2024 |
+| **A (T1)** | G. 15.000 | G. 18-25 | **+20-67%** | Messaging 2021 vs Ventas 2024 |
+| **B (T2)** | G. 12-13.500 | G. 16-23 | **+19-70%** | Messaging 2021 vs Ventas 2024 |
+| **S (T3)** | G. 14-18.000 | G. 21-27 | **+17-50%** | Messaging 2021 vs Ventas 2024 |
+| **Jumbo** | G. 16.000 | G. 25-30 | **+56-88%** | Messaging 2021 vs Ventas 2024 |
 | **Promedio** | G. 14.000 | G. 21.000 | **+50%** | Calculado |
 
 ### Comparación: Precios Granja vs Mayorista

@@ -56,7 +56,7 @@ Based on competitive analysis of successful egg farm websites (Vital Farms USA, 
 - ✅ **B2B Portal:** Separate wholesale customer portal
 
 #### **Local Paraguayan Standards**
-- ✅ WhatsApp as primary communication
+- ✅ Messaging as primary communication
 - ✅ Cash payment options
 - ✅ Local delivery (not just pickup)
 - ✅ Personal relationship with farmer
@@ -70,7 +70,7 @@ Based on competitive analysis of successful egg farm websites (Vital Farms USA, 
 
 | Feature | Current | Best Practice | Priority |
 |---------|---------|---------------|----------|
-| **Contact Info** | Placeholder +595981000000 | Real WhatsApp | 🔴 CRITICAL |
+| **Contact Info** | Placeholder +595981000000 | Real Messaging | 🔴 CRITICAL |
 | **Photos** | Stock images | Professional (20+) | 🔴 CRITICAL |
 | **Product Catalog** | 6 basic products | 15+ products | 🔴 CRITICAL |
 | **Story/About** | None | Full "Our Story" | 🟡 HIGH |
@@ -80,7 +80,7 @@ Based on competitive analysis of successful egg farm websites (Vital Farms USA, 
 | **Reviews** | 3 placeholders | 15+ real testimonials | 🟡 HIGH |
 | **Sustainability** | None | Composting, biogas pages | 🟢 MEDIUM |
 | **Blog** | None | Monthly updates | 🟢 MEDIUM |
-| **Online Payment** | WhatsApp only | MercadoPago | 🟢 MEDIUM |
+| **Online Payment** | Messaging only | MercadoPago | 🟢 MEDIUM |
 | **SEO Optimization** | Basic | Full local SEO | 🟢 MEDIUM |
 
 ---
@@ -90,7 +90,7 @@ Based on competitive analysis of successful egg farm websites (Vital Farms USA, 
 ### 1.1 Replace All Placeholder Information
 
 **Tasks:**
-- [ ] Get Laura's real WhatsApp Business number
+- [ ] Get Laura's real Messaging Business number
 - [ ] Update all phone numbers across site
 - [ ] Confirm exact GPS coordinates (for maps)
 - [ ] Verify current pricing (all products)
@@ -306,7 +306,7 @@ trabajamos cada día.
 
 ### 3.1 E-Commerce Integration
 
-**Current:** WhatsApp-only ordering
+**Current:** Messaging-only ordering
 **Upgrade:** Full cart + checkout
 
 **Option A: MercadoPago Integration (Recommended)**
@@ -362,8 +362,8 @@ trabajamos cada día.
    - Click-through rates
    - Indexing status
 
-3. **WhatsApp Click Tracking**
-   - Track all WhatsApp CTA clicks
+3. **Messaging Click Tracking**
+   - Track all Messaging CTA clicks
    - Measure conversion from click to order
 
 4. **Heatmap Tool (Hotjar)**
@@ -404,7 +404,7 @@ Mayoristas: Venta Mayorista de Huevos para Negocios | Granja Cabral
 - Compress images for mobile
 
 **Mobile-Specific Features:**
-- Sticky WhatsApp button
+- Sticky Messaging button
 - Click-to-call functionality
 - GPS directions integration
 - Mobile-optimized forms
@@ -529,7 +529,7 @@ Mayoristas: Venta Mayorista de Huevos para Negocios | Granja Cabral
 **"Recomienda y Ganá"**
 
 **For Referrer:**
-- Share unique code via WhatsApp
+- Share unique code via Messaging
 - Friend gets 10% off first order
 - Referrer gets:
   - 1st referral: Maple de 30 huevos FREE
@@ -544,7 +544,7 @@ Mayoristas: Venta Mayorista de Huevos para Negocios | Granja Cabral
 
 **Daily Tracking:**
 - Website visitors
-- WhatsApp clicks
+- Messaging clicks
 - Orders received
 - Revenue
 - Average order value
@@ -561,17 +561,17 @@ Mayoristas: Venta Mayorista de Huevos para Negocios | Granja Cabral
 **Test 1: Hero Section**
 - Variant A: Current headline
 - Variant B: "Huevos de Granja 100% Paraguayos"
-- Metric: WhatsApp click-through rate
+- Metric: Messaging click-through rate
 
 **Test 2: CTA Buttons**
-- Variant A: "Hacer Pedido por WhatsApp"
+- Variant A: "Hacer Pedido por Messaging"
 - Variant B: "¡Pedí Ahora! Delivery en 45 min"
 - Metric: Click rate
 
 ### 7.3 Customer Feedback Loop
 
 **Automated Surveys:**
-- Post-delivery satisfaction (WhatsApp)
+- Post-delivery satisfaction (Messaging)
 - Monthly NPS survey
 - Product quality feedback
 - Delivery experience rating
@@ -586,7 +586,7 @@ Mayoristas: Venta Mayorista de Huevos para Negocios | Granja Cabral
 - [ ] Professional photo session (20+ photos)
 - [ ] Google Business Profile setup
 - [ ] Replace all placeholder data
-- [ ] Test all WhatsApp links
+- [ ] Test all Messaging links
 
 ### **WEEK 3-4: CONTENT EXPANSION**
 **Theme: Tell the Story**
@@ -646,7 +646,7 @@ Mayoristas: Venta Mayorista de Huevos para Negocios | Granja Cabral
 |------|-----------|------------|
 | Professional Photography Session | 1.500.000 | ~$200 |
 | Google Business Profile | FREE | FREE |
-| WhatsApp Business | FREE | FREE |
+| Messaging Business | FREE | FREE |
 | **Total Essential** | **1.500.000** | **~$200** |
 
 ### **Recommended Costs (Should Have)**
@@ -675,7 +675,7 @@ Mayoristas: Venta Mayorista de Huevos para Negocios | Granja Cabral
 
 ### **30-Day Goals**
 - [ ] 1000+ website visitors
-- [ ] 50+ WhatsApp orders
+- [ ] 50+ Messaging orders
 - [ ] 5+ new B2B clients
 - [ ] 10+ subscription signups
 - [ ] 20+ new email subscribers
@@ -703,7 +703,7 @@ Mayoristas: Venta Mayorista de Huevos para Negocios | Granja Cabral
 ## 🚀 NEXT IMMEDIATE ACTIONS
 
 ### **Today:**
-1. [ ] Contact Laura to collect real WhatsApp number
+1. [ ] Contact Laura to collect real Messaging number
 2. [ ] Schedule photography session
 3. [ ] Confirm current pricing for all products
 
@@ -731,7 +731,7 @@ Mayoristas: Venta Mayorista de Huevos para Negocios | Granja Cabral
 - **Photographer:** [To be scheduled]
 - **Google Business Support:** support.google.com/business
 - **MercadoPago Integration:** developers.mercadopago.com
-- **WhatsApp Business:** business.whatsapp.com
+- **Messaging Business:** business.messaging.com
 
 ---
 
@@ -741,7 +741,7 @@ Mayoristas: Venta Mayorista de Huevos para Negocios | Granja Cabral
 - [ ] All placeholder data replaced with real info
 - [ ] 20+ professional photos uploaded
 - [ ] Google Business Profile verified
-- [ ] WhatsApp links tested and working
+- [ ] Messaging links tested and working
 - [ ] Testimonial collection started
 
 ### **Launch Day:**
@@ -749,7 +749,7 @@ Mayoristas: Venta Mayorista de Huevos para Negocios | Granja Cabral
 - [ ] Laura approval
 - [ ] Go live announcement
 - [ ] Social media posts
-- [ ] WhatsApp status update
+- [ ] Messaging status update
 
 ### **Post-Launch:**
 - [ ] Monitor analytics daily

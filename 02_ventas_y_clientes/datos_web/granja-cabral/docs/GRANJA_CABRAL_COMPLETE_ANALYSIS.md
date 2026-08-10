@@ -13,7 +13,7 @@ Granja Cabral is a working egg farm in Coronel Oviedo, Paraguay, with a function
 **Current Status:**
 - ✅ Website live at paragu-ai.com/granja-cabral
 - ✅ Basic product catalog (6 products)
-- ✅ WhatsApp integration working
+- ✅ Messaging integration working
 - ✅ Demo data configured
 - ⚠️ Using placeholder contact info (+595981000000)
 - ❌ Missing real photos
@@ -30,12 +30,12 @@ Granja Cabral is a working egg farm in Coronel Oviedo, Paraguay, with a function
 **Sections Currently Active:**
 1. **Header/Navigation** - Clean, functional
 2. **Hero** - Basic headline and CTAs
-3. **Product Catalog** - 6 products with WhatsApp links
+3. **Product Catalog** - 6 products with Messaging links
 4. **Services Section** - Delivery, wholesale, scheduled orders
 5. **Testimonials** - 3 placeholder reviews
 6. **Contact Section** - Phone, email, hours, address
 7. **Footer** - Navigation, social links
-8. **WhatsApp Float Button** - Always visible
+8. **Messaging Float Button** - Always visible
 
 **Current Product Catalog:**
 | Product | Price | Stock Status |
@@ -126,7 +126,7 @@ These are MAJOR revenue opportunities not mentioned on the site:
 
 1. **Real Contact Information**
    - Current: +595981000000 (placeholder)
-   - Need: Laura's actual WhatsApp number
+   - Need: Laura's actual Messaging number
    - Impact: Customers can't actually order
 
 2. **Real Location Details**
@@ -190,7 +190,7 @@ These are MAJOR revenue opportunities not mentioned on the site:
     - Growth potential: Viral customer acquisition
 
 12. **Online Ordering System**
-    - Current: WhatsApp only
+    - Current: Messaging only
     - Upgrade: Web cart with MercadoPago
     - Impact: 24/7 ordering, payment upfront
 
@@ -327,7 +327,7 @@ These are MAJOR revenue opportunities not mentioned on the site:
 
 ### 3. Mobile Experience
 - Test on various devices
-- WhatsApp button prominence
+- Messaging button prominence
 - Click-to-call functionality
 - Mobile-optimized forms
 
@@ -335,7 +335,7 @@ These are MAJOR revenue opportunities not mentioned on the site:
 **Missing:**
 - Google Analytics 4
 - Google Search Console
-- WhatsApp click tracking
+- Messaging click tracking
 - Conversion tracking
 - Heatmap analysis (Hotjar)
 
@@ -376,7 +376,7 @@ These are MAJOR revenue opportunities not mentioned on the site:
 
 ### Immediate (0-30 days)
 1. **Activate all 300+ contacts** from CRM
-   - Personalized WhatsApp campaign
+   - Personalized Messaging campaign
    - Introduce website ordering
    - Special launch promotion
 
@@ -443,7 +443,7 @@ These are MAJOR revenue opportunities not mentioned on the site:
 ## 📋 ACTION PLAN FOR LAURA
 
 ### Week 1: Foundation
-- [ ] Provide real WhatsApp number
+- [ ] Provide real Messaging number
 - [ ] Confirm exact farm location (GPS coordinates)
 - [ ] Verify current pricing
 - [ ] Approve color scheme and branding
@@ -462,7 +462,7 @@ These are MAJOR revenue opportunities not mentioned on the site:
 - [ ] Create sustainability page
 
 ### Week 4: Launch & Promotion
-- [ ] Test all WhatsApp links
+- [ ] Test all Messaging links
 - [ ] Verify mobile experience
 - [ ] Share with existing customers
 - [ ] Post on social media
@@ -527,7 +527,7 @@ Based on the GitHub repo analysis, Granja Cabral has significant advantages:
 ## 🚀 PRIORITY RECOMMENDATIONS
 
 ### Must Do Now (This Week)
-1. Get Laura's real WhatsApp number and update site
+1. Get Laura's real Messaging number and update site
 2. Take 10 essential photos (farm, Laura, products)
 3. Confirm accurate pricing
 4. Write "Our Story" content
@@ -558,7 +558,7 @@ Based on the GitHub repo analysis, Granja Cabral has significant advantages:
 5. Set up analytics tracking
 
 **Success Metrics to Track:**
-- WhatsApp click-through rate
+- Messaging click-through rate
 - Orders per week
 - New vs. repeat customers
 - Average order value

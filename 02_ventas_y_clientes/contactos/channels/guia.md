@@ -312,7 +312,7 @@
 - [ ] Invoices (fiscal)
 
 ### Customer Relationship
-- WhatsApp business account
+- Messaging business account
 - Follow-up calls
 - New product announcements
 - Loyalty program

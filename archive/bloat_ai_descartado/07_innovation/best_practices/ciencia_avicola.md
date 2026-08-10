@@ -111,7 +111,7 @@ Día 500+ (18+ meses):  Gallina vieja → Sacrificar o procesar
 Estrategia 1: Cooperativas de compra a granel
 - Asociarse con 3-5 otras granjas
 - Ahorros típicos: 10-20% en pedidos a granel
-- Coordinación por grupo de WhatsApp
+- Coordinación por grupo de Messaging
 - Volumen necesario: Generalmente 20+ bolsas para descuento
 
 Estrategia 2: Alternativas cultivadas localmente (Paraguay)

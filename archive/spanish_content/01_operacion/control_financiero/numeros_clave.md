@@ -4,9 +4,9 @@
 
 | Métrica | Valor | Unidad | Fuente |
 |---------|-------|--------|--------|
-| Gallinas actuales | ~100 | gallinas | Chat WhatsApp |
-| Pico de producción | ~126 | huevos/día | Chat WhatsApp |
-| Producción sostenible | ~80-100 | huevos/día | Chat WhatsApp |
+| Gallinas actuales | ~100 | gallinas | Chat Messaging |
+| Pico de producción | ~126 | huevos/día | Chat Messaging |
+| Producción sostenible | ~80-100 | huevos/día | Chat Messaging |
 | Tasa de postura | 75-90% | % | Estándar de la industria |
 | Huevos por docena | 28 | huevos | Estándar de la industria |
 
@@ -14,11 +14,11 @@
 
 ## Ingresos (2021-2026) — DATOS REALES
 
-### Línea base 2021 (del chat de WhatsApp)
+### Línea base 2021 (del chat de Messaging)
 
 | Métrica | Valor | Moneda | Fecha | Fuente |
 |---------|-------|--------|-------|--------|
-| Ejemplo ingreso 4 días | 1,197,500 | Gs | 2021 | Chat WhatsApp |
+| Ejemplo ingreso 4 días | 1,197,500 | Gs | 2021 | Chat Messaging |
 | Promedio diario (de 4 días) | ~299,375 | Gs | 2021 | Calculado |
 | Estimación mensual (2021) | ~8,981,250 | Gs | 2021 | Calculado |
 
@@ -60,10 +60,10 @@
 
 | Tamaño | Precio 2021 | Precio Prom. 2024 | Aumento | Fuente |
 |--------|-------------|-------------------|---------|--------|
-| **A (T1)** | G. 15,000 | G. 21,000 | +40% | WhatsApp vs Registro de ventas |
-| **B (T2)** | G. 12,000-13,500 | G. 19,000 | +40-58% | WhatsApp vs Registro de ventas |
-| **S (T3)** | G. 14,000-18,000 | G. 23,000 | +28-64% | WhatsApp vs Registro de ventas |
-| **J (Jumbo)** | G. 16,000 | G. 27,000 | +69% | WhatsApp vs Registro de ventas |
+| **A (T1)** | G. 15,000 | G. 21,000 | +40% | Messaging vs Registro de ventas |
+| **B (T2)** | G. 12,000-13,500 | G. 19,000 | +40-58% | Messaging vs Registro de ventas |
+| **S (T3)** | G. 14,000-18,000 | G. 23,000 | +28-64% | Messaging vs Registro de ventas |
+| **J (Jumbo)** | G. 16,000 | G. 27,000 | +69% | Messaging vs Registro de ventas |
 
 ---
 
@@ -205,10 +205,10 @@
 
 | Persona | Rol | Teléfono | Fuente |
 |---------|-----|----------|--------|
-| Laura | Dueña | +595 975 346258 | WhatsApp |
+| Laura | Dueña | +595 975 346258 | Messaging |
 | Laura (negocios) | Dueña | 0982 911 935 | Chat |
 | Jorge | Co-dueño | — | Chat |
-| Kevin | Delivery | — | WhatsApp |
+| Kevin | Delivery | — | Messaging |
 | Alejandro | Soporte | +595 972 130 867 | OpenClaw |
 
 ### Top Clientes (de datos de ventas 2024)
@@ -242,7 +242,7 @@
 | Archivo | Líneas | Período | Hallazgos Clave |
 |---------|--------|---------|-----------------|
 | `ventas laura 2024 06 al 12.txt` | 3,053 | Jun-Dic 2024 | Precios actuales, clientes |
-| `Chat de WhatsApp con VENTAS 🥚🥚🥚.txt` | 6,416 | Ene-Jun 2021 | Línea base histórica |
+| `Chat de Messaging con VENTAS 🥚🥚🥚.txt` | 6,416 | Ene-Jun 2021 | Línea base histórica |
 | `data/key-numbers.md` | Actualizado | Resumen | Este archivo |
 
 ### Brechas de Datos Identificadas

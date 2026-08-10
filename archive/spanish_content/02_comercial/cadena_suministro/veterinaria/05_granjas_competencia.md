@@ -62,7 +62,7 @@
 | 36 | **AVIPAR** | Asociación de Avicultores del Paraguay, fundada 1964, +60 miembros | www.avipar.org.py |
 | 37 | **Gobernación de Caaguazú** | Programas avícolas, entrega de aves a familias | OviedoPress |
 ---
-## 📱 GRUPOS DE WhatsApp & Facebook
+## 📱 GRUPOS DE Messaging & Facebook
 | Grupo | Plataforma | Miembros |
 |-------|-----------|----------|
 | Agricultura en Paraguay | Facebook | 25K+ |

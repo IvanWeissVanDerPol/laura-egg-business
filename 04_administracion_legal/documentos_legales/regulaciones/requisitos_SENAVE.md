@@ -88,7 +88,7 @@
 |---------|----------|------|
 | Central Asunción | (021) 674-000 | Nacional |
 |Regional Caaguazú | — | Coronel Oviedo |
-|WhatsApp | — |Consultas |
+|Messaging | — |Consultas |
 
 ---
 

@@ -41,7 +41,7 @@
   - Certificación "B-Corp" para estándares sociales/ambientales
   - 85% de participación de mercado en la categoría de pastoreo en EE.UU.
   - Objetivo: $1B en ingresos para 2027
-- **Lección para Laura**: La confianza y transparencia valen dinero. Los clientes en Asunción pagarán más por huevos de una granja real que puedan visitar o ver en WhatsApp.
+- **Lección para Laura**: La confianza y transparencia valen dinero. Los clientes en Asunción pagarán más por huevos de una granja real que puedan visitar o ver en Messaging.
 
 ---
 
@@ -121,7 +121,7 @@ Orgánico certificado:               18,000-22,000+
 - Mismos días de entrega (ej., martes + viernes)
 - Mismos clientes, pedidos recurrentes
 - Misma calidad, misma clasificación de tamaño siempre
-- WhatsApp/teléfono para pedidos, programar con anticipación
+- Messaging/teléfono para pedidos, programar con anticipación
 
 **Lo que hicieron las granjas que luchan**:
 - Vendían lo que había disponible
@@ -140,7 +140,7 @@ Orgánico certificado:               18,000-22,000+
 - "Huevos de la granja familiar en Oviedo"
 - Gallinas reales, granja real, familia real
 - Frescos, no de un almacén
-- Puedes visitar / ver fotos en WhatsApp
+- Puedes visitar / ver fotos en Messaging
 
 **Esta historia vale 2,000-4,000 Gs/docena de premium** en los barrios de clase media de Asunción.
 
@@ -176,7 +176,7 @@ Orgánico certificado:               18,000-22,000+
 
 ## Victorias Rápidas de las Referencias Globales
 
-1. **Catálogo WhatsApp** → Posicionamiento premium instantáneo (gratis)
+1. **Catálogo Messaging** → Posicionamiento premium instantáneo (gratis)
 2. **Etiqueta libre pastoreo** → +3,000-5,000 Gs/docena
 3. **2 días de entrega fijos** → Construir clientes recurrentes
 4. **Consistencia en clasificación de huevos** → Confianza = precio premium

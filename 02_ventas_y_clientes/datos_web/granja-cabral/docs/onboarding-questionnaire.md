@@ -2,7 +2,7 @@
 
 **Para:** Laura Cabral · **De:** equipo ParaguAI · **Fecha:** 20 abr 2026
 
-Hola Laura 👋. Tu sitio ya está en vivo en **[paragu-ai.com/granja-cabral](https://paragu-ai.com/granja-cabral)** con los datos que armamos desde el plan original. Pero hay cosas que **precargamos con valores por defecto** (ej: el número de WhatsApp `+595 981 000 000` es un placeholder) y otras que necesitamos que **confirmes, corrijas o completes** para que el sitio refleje realmente tu granja y te empiece a traer pedidos.
+Hola Laura 👋. Tu sitio ya está en vivo en **[paragu-ai.com/granja-cabral](https://paragu-ai.com/granja-cabral)** con los datos que armamos desde el plan original. Pero hay cosas que **precargamos con valores por defecto** (ej: el número de Messaging `+595 981 000 000` es un placeholder) y otras que necesitamos que **confirmes, corrijas o completes** para que el sitio refleje realmente tu granja y te empiece a traer pedidos.
 
 Este cuestionario está dividido en 5 partes:
 
@@ -43,7 +43,7 @@ Podés responder en este mismo Markdown editando debajo de cada campo, en un Goo
 
 | Campo | Valor actual | ✓/✗ | Corrección |
 |---|---|---|---|
-| WhatsApp | **+595 981 000 000** _(⚠️ PLACEHOLDER — necesitamos el número real)_ | | |
+| Messaging | **+595 981 000 000** _(⚠️ PLACEHOLDER — necesitamos el número real)_ | | |
 | Teléfono fijo / alternativo | (no registrado) | | |
 | Email | **info@granjacabral.com** _(⚠️ no sabemos si existe — confirmá)_ | | |
 | Instagram | **@granjacabral** _(⚠️ confirmá si ya existe esta cuenta)_ | | |
@@ -67,7 +67,7 @@ Podés responder en este mismo Markdown editando debajo de cada campo, en un Goo
 | Domingo | **Cerrado** | | |
 | Feriados | (no definido — ¿abrís? ¿horario especial?) | | |
 
-¿Se pueden hacer pedidos por WhatsApp fuera de horario? ¿Con cuántas horas de anticipación?
+¿Se pueden hacer pedidos por Messaging fuera de horario? ¿Con cuántas horas de anticipación?
 
 **Respuesta:** _______________
 
@@ -217,7 +217,7 @@ Acá actúo como tu **socio/director comercial**, no sólo como quien te hace el
 
 **¿Para qué querés el sitio?** (marcá las 1-3 más importantes)
 
-- [ ] Recibir pedidos nuevos por WhatsApp
+- [ ] Recibir pedidos nuevos por Messaging
 - [ ] Tener una "tarjeta de presentación digital" para cuando alguien pregunte
 - [ ] Captar clientes B2B (restaurantes, panaderías)
 - [ ] Vender suscripciones (entrega semanal recurrente)
@@ -343,7 +343,7 @@ La venta de pollo faenado para consumo humano requiere habilitación sanitaria a
 
 ### E.5 Términos y condiciones / privacidad
 
-Actualmente el sitio **no tiene página de Términos ni de Privacidad**. Si vamos a recibir datos de clientes (WhatsApp, dirección de entrega), **legalmente necesitamos ambos**.
+Actualmente el sitio **no tiene página de Términos ni de Privacidad**. Si vamos a recibir datos de clientes (Messaging, dirección de entrega), **legalmente necesitamos ambos**.
 
 - [ ] OK, armemos versiones estándar y las revisamos juntas
 - [ ] Ya las tengo de otro lado — te las paso
@@ -355,7 +355,7 @@ Actualmente el sitio **no tiene página de Términos ni de Privacidad**. Si vamo
 
 Una vez completes esto, **desbloqueás el anuncio público del sitio**:
 
-- [ ] ⭐ WhatsApp real confirmado (no +595981000000)
+- [ ] ⭐ Messaging real confirmado (no +595981000000)
 - [ ] ⭐ Email real confirmado
 - [ ] ⭐ Dirección exacta (km específico de Ruta 2)
 - [ ] ⭐ Precios actuales confirmados
@@ -383,15 +383,15 @@ Cuando tengas, mandanos:
 
 ## Siguientes pasos después de este cuestionario
 
-1. Revisamos tus respuestas juntas (30-45 min, llamada o WhatsApp).
+1. Revisamos tus respuestas juntas (30-45 min, llamada o Messaging).
 2. Actualizamos el sitio con los datos reales en **48-72 horas**.
 3. Te mostramos la versión corregida para aprobación final.
-4. Anunciamos el lanzamiento público a tu red (WhatsApp, Instagram, clientes actuales).
+4. Anunciamos el lanzamiento público a tu red (Messaging, Instagram, clientes actuales).
 5. **Semana 2:** instalamos medición (Google Analytics) para ver quién visita y de dónde.
 6. **Mes 1:** revisamos qué funciona y ajustamos.
 
 ---
 
-**Escribime por WhatsApp cuando tengas esto listo — o agendamos una llamada para completarlo juntas.**
+**Escribime por Messaging cuando tengas esto listo — o agendamos una llamada para completarlo juntas.**
 
 — Equipo ParaguAI

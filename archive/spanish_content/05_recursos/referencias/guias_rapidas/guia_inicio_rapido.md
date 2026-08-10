@@ -74,7 +74,7 @@ Podemos ofrecer muestra gratis para que prueben.
 Contacto: 0982 911 935
 ```
 
-### 5. Crear grupo de WhatsApp
+### 5. Crear grupo de Messaging
 1. Nuevo grupo → "Clientes Premium [NOMBRE]"
 2. Agregar 3-5 familias que ya compran
 3. Subir foto del logo
@@ -115,7 +115,7 @@ Gracias por su compra! 🐔
 ## HORA 24-48: PRIMER PEDIDO
 
 ### 8. Confirmar primer pedido
-- Esperar mensajes de WhatsApp
+- Esperar mensajes de Messaging
 - Anotar en plantilla de ventas
 - Confirmar entrega
 
@@ -137,12 +137,12 @@ Gracias por su compra! 🐔
 □ Tengo logo (digital o escrito a mano)
 □ Definí 3 productos con precios
 □ Envíé mensajes a 5+ personas
-□ Creé grupo de WhatsApp
+□ Creé grupo de Messaging
 □ Tengo cajas para empaque
 □ Tengo etiquetas o papel para escribir
 □ Anoté productos en mi celular
 □ Tengo dinero para dar vuelto
-□ Mí número de WhatsApp es: 0982 911 935
+□ Mí número de Messaging es: 0982 911 935
 ```
 
 ---
@@ -174,7 +174,7 @@ Gracias por su compra! 🐔
 
 ```
 NOMBRE: Laura Elena Cabral Valdovinos
-WHATSAPP: 0982 911 935
+MESSAGING: 0982 911 935
 UBICACIÓN: Coronel Oviedo, Caaguazú
 MARCA: [NOMBRE]
 ```

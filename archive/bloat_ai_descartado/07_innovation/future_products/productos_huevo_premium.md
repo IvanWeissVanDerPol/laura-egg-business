@@ -222,7 +222,7 @@ UNIRSE CON:
 
 ## PARTE 4: DIGITALIZACIÓN BÁSICA
 
-### WhatsApp como plataforma de ventas
+### Messaging como plataforma de ventas
 
 **Estrategia:**
 
@@ -231,7 +231,7 @@ UNIRSE CON:
    - Pedidos semanales
    - Descuentos por volumen
 
-2. **WhatsApp Status diario**
+2. **Messaging Status diario**
    ```
    📸 Foto de huevos frescos
    📍 "Hoy tenemos 30 docenas disponibles"
@@ -239,7 +239,7 @@ UNIRSE CON:
    📱 "Pedí al 0982 911 935"
    ```
 
-3. **Catálogo en WhatsApp**
+3. **Catálogo en Messaging**
    ```
    HUEVOS FRESCOS DEL CAMPO
    
@@ -276,7 +276,7 @@ UNIRSE CON:
 ## PARTE 6: PLAN DE ACCIÓN 90 DÍAS
 
 ### Mes 1: Fundamentos
-- [ ] Crear grupo WhatsApp con 20 familias
+- [ ] Crear grupo Messaging con 20 familias
 - [ ] Implementar sistema de pedidos
 - [ ] Tomar 50+ fotos del proceso
 

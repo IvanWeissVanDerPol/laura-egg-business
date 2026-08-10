@@ -62,7 +62,7 @@ Date: 2025
 ### Key Insight for Laura
 - Trust + transparency = premium pricing
 - "Real farm, real family, you can visit" = emotional connection
-- Even without QR codes, WhatsApp photos serve same purpose
+- Even without QR codes, Messaging photos serve same purpose
 
 ---
 
@@ -116,7 +116,7 @@ URL: https://en.clickpetroleoegas.com.br/farm-265-chickens-Guatemala-rural-incom
 ### Key Insight for Laura
 - Laura's 80-100 hens = same scale as this Guatemalan farm
 - The difference was ORGANIZATION, not farm size
-- Pre-orders via phone = WhatsApp in Paraguay
+- Pre-orders via phone = Messaging in Paraguay
 - This proves Laura's current scale CAN work with proper organization
 
 ---
@@ -144,7 +144,7 @@ Publication: MEDA website
 - Feed costs = biggest expense everywhere
 - Training + better practices > just more equipment
 - Started small, scaled up as profits allowed
-- WhatsApp for market access and group coordination
+- Messaging for market access and group coordination
 
 ---
 

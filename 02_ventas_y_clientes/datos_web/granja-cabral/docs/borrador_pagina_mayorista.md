@@ -25,7 +25,7 @@ Más de 300 negocios confían en nosotros.
 
 ### CTA Principal:
 ```
-[Solicitar Precios Mayoristas → WhatsApp]
+[Solicitar Precios Mayoristas → Messaging]
 ```
 
 ---
@@ -198,7 +198,7 @@ Descuentos por Volumen
 
 | Plan | Volumen Mensual | Descuento | Beneficios |
 |------|----------------|-----------|------------|
-| **Bronce** | 20-50 maples | 5% OFF | • Delivery semanal<br>• Atención WhatsApp |
+| **Bronce** | 20-50 maples | 5% OFF | • Delivery semanal<br>• Atención Messaging |
 | **Plata** | 50-150 maples | 8% OFF | • Delivery 2x semana<br>• Prioridad en pedidos<br>• Facturación mensual |
 | **Oro** | 150-300 maples | 10% OFF | • Delivery flexible<br>• Prioridad absoluta de stock |
 | **Mayorista Elite** | 300+ maples | Personalizado | • Cliente ancla (Ej: Dalila/Fada)<br>• Precio especial |
@@ -229,7 +229,7 @@ Proceso Simple en 4 Pasos
 ```
 📞 PRIMER CONTACTO
 
-Nos escribís por WhatsApp o llamás.
+Nos escribís por Messaging o llamás.
 Nos contás sobre tu negocio:
 - Tipo de establecimiento
 - Consumo estimado
@@ -503,7 +503,7 @@ Completá el formulario y te contactamos en menos de 2 horas.
 **Información de Contacto:**
 - [ ] Nombre completo: ________________
 - [ ] Cargo: ________________
-- [ ] Teléfono / WhatsApp: ________________
+- [ ] Teléfono / Messaging: ________________
 - [ ] Email: ________________
 
 **Información del Pedido:**
@@ -524,7 +524,7 @@ Completá el formulario y te contactamos en menos de 2 horas.
 
 ### Nota debajo:
 ```
-📱 ¿Preferís WhatsApp? Escribinos directamente al [NÚMERO] 
+📱 ¿Preferís Messaging? Escribinos directamente al [NÚMERO] 
 con la palabra "MAYORISTA" y te damos atención prioritaria.
 
 ⏰ Tiempo de respuesta: Menos de 2 horas en horario comercial.
@@ -541,9 +541,9 @@ Contacto Directo para Negocios
 
 ### Métodos de Contacto:
 
-**WhatsApp Business (Más Rápido)**
+**Messaging Business (Más Rápido)**
 ```
-📱 WhatsApp: [NÚMERO REAL]
+📱 Messaging: [NÚMERO REAL]
 💬 Palabra clave: "MAYORISTA" (para atención prioritaria)
 
 Horario: Lunes a Sábado, 7:00 a 18:00
@@ -572,7 +572,7 @@ Visitas previa cita:
 - Lunes a Sábado
 - Horarios: 9:00 a 11:00 o 15:00 a 17:00
 
-Coordinar cita por WhatsApp
+Coordinar cita por Messaging
 ```
 
 ---
@@ -585,7 +585,7 @@ Coordinar cita por WhatsApp
 
 Si tenés una emergencia y necesitás huevos para hoy:
 
-1. Escribinos por WhatsApp con "URGENTE"
+1. Escribinos por Messaging con "URGENTE"
 2. Decinos tu ubicación y cantidad
 3. Si es posible, coordinamos entrega express
 
@@ -609,7 +609,7 @@ Unite a los más de 300 negocios que confían en Granja Cabral
 
 ### Botones:
 ```
-[💬 WhatsApp Directo →]  [📋 Formulario de Contacto →]  [📞 Llamar Ahora →]
+[💬 Messaging Directo →]  [📋 Formulario de Contacto →]  [📞 Llamar Ahora →]
 ```
 
 ### Texto debajo:
@@ -624,11 +624,11 @@ Unite a los más de 300 negocios que confían en Granja Cabral
 ### Technical Setup:
 - [ ] Crear página: `/mayoristas` o `/venta-mayorista`
 - [ ] Agregar link en menú principal: "Mayoristas" o "Para Negocios"
-- [ ] Configurar formulario con notificación por email/WhatsApp
+- [ ] Configurar formulario con notificación por email/Messaging
 - [ ] Agregar CTA en homepage apuntando a esta página
 - [ ] SEO: Meta title "Venta Mayorista de Huevos para Negocios | Granja Cabral"
 
-### WhatsApp Integration:
+### Messaging Integration:
 **Template para B2B:**
 ```
 Hola! Vi su página web de venta mayorista y me interesa 
@@ -641,13 +641,13 @@ Zona: [CORONEL OVIEDO/RUTA 2/etc]
 Gracias!
 ```
 
-**URL de WhatsApp:**
+**URL de Messaging:**
 ```
-https://wa.me/[NUMERO]?text=Hola!%20Vi%20su%20página%20web%20de%20venta%20mayorista...
+tel:+[NUMERO]?text=Hola!%20Vi%20su%20página%20web%20de%20venta%20mayorista...
 ```
 
 ### Tracking:
-- [ ] WhatsApp clicks to B2B page
+- [ ] Messaging clicks to B2B page
 - [ ] Form submissions
 - [ ] Conversion from B2B inquiry to client
 - [ ] Track B2B vs B2C revenue split

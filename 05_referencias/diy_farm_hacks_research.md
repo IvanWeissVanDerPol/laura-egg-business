@@ -26,7 +26,7 @@ Existen múltiples proyectos *Open Source* en Instructables y YouTube para armar
 Las granjas de primer mundo tienen las "patas" de sus silos apoyadas en balanzas gigantes para saber a cada segundo cuánto alimento queda.
 - **El Hack:** Alejandro puede comprar 4 "Celdas de Carga" (Load Cells) de 500Kg cada una y colocarlas debajo de las patas del depósito de alimento principal de la granja.
 - **El Cerebro:** Un **ESP32** (Un microcontrolador con WiFi integrado de $6 USD). 
-- **Cómo funciona:** El ESP32 lee el peso del silo constantemente. Alejandro programa el ESP32 para enviar los datos a un Google Sheet cada hora. Si el peso baja drásticamente o se acerca a 0, el ESP32 hace una petición HTTP (Webhook) a Make.com y le envía un mensaje automático al WhatsApp de Laura: *"Quedan menos de 100Kg de alimento"*.
+- **Cómo funciona:** El ESP32 lee el peso del silo constantemente. Alejandro programa el ESP32 para enviar los datos a un Google Sheet cada hora. Si el peso baja drásticamente o se acerca a 0, el ESP32 hace una petición HTTP (Webhook) a Make.com y le envía un mensaje automático al Messaging de Laura: *"Quedan menos de 100Kg de alimento"*.
 - **Costo total:** ~$60 USD por la electrónica.
 
 ## 💧 3. Medidor Digital de Flujo de Agua (Detección de Enfermedades)

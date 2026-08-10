@@ -11,7 +11,7 @@ Todos los datos de mercado rastreados a fuentes primarias. Ver entradas individu
 ### Supermercado Favesa
 - **Tipo:** Cadena local
 - **Dirección:** Centro, Coronel Oviedo
-- **Fuente:** Chat WhatsApp con Laura (mencionado como cliente existente)
+- **Fuente:** Chat Messaging con Laura (mencionado como cliente existente)
 - **Confiabilidad:** Confirmado por Laura directamente
 - **Potencial:** Vender huevos excedentes, posicionamiento de marca
 
@@ -191,7 +191,7 @@ Distancia: ~150 km | Tiempo: ~2.5 horas
 
 | Fecha | Cambio | Fuente |
 |-------|--------|--------|
-| Mar 2026 | Investigación inicial | Búsqueda Google, chat WhatsApp, web |
+| Mar 2026 | Investigación inicial | Búsqueda Google, chat Messaging, web |
 | Mar 2026 | Contactos DECO/Charlot | Google Business |
 | Mar 2026 | Investigación competidores | Facebook, directorios comerciales |
 
