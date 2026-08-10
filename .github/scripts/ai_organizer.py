@@ -74,7 +74,7 @@ CONTENT_TYPES = {
             "direccion",
             "dirección",
             "email",
-            "whatsapp",
+            "messaging",
             "cliente",
             "proveedor",
             "establecimiento",
@@ -744,7 +744,7 @@ class AIAnalyzer:
         analysis.has_tables = bool(re.search(r"^\|.*\|.*\|", content, re.MULTILINE))
         analysis.has_contacts = any(
             kw in content.lower()
-            for kw in ["telefono", "teléfono", "contacto", "whatsapp", "email"]
+            for kw in ["telefono", "teléfono", "contacto", "messaging", "email"]
         )
         analysis.has_financials = bool(re.search(r"Gs\.?\s*[\d.,]+", content))
 

@@ -24,7 +24,7 @@
 - **Valor:** contexto externo que el productor no tiene tiempo de buscar
 
 ### D. Procesamiento de Documentos
-- **Entrada:** ZIPs con Excel, chats de WhatsApp exportados, audios
+- **Entrada:** ZIPs con Excel, chats de Messaging exportados, audios
 - **Salida:** parseo estructurado, corrección de errores, generación de bases limpias
 - **Valor:** convertir caos de datos informales en información actionable
 
@@ -47,7 +47,7 @@ Personales = 298.000
 3. Calcula la ganancia por dia...
 ```
 
-### Registros de Venta (WhatsApp)
+### Registros de Venta (Messaging)
 ```
 Dalila
 35 C x 18 = 630.000
@@ -61,7 +61,7 @@ Dalila
 
 ### Archivos Adjuntos
 - ZIP con Excel de ventas
-- Chat de WhatsApp exportado (.txt)
+- Chat de Messaging exportado (.txt)
 - La IA parseó, limpió y generó CSVs/Excel de salida
 
 ---
@@ -70,8 +70,8 @@ Dalila
 
 | Entregable | Formato | Ubicación |
 |---|---|---|
-| Cálculo de ganancia diaria | Mensaje WhatsApp | Sesión en vivo |
-| Parser de ventas WhatsApp → CSV/Excel | Python script | `data/scripts/parse_whatsapp_cli.py` |
+| Cálculo de ganancia diaria | Mensaje Messaging | Sesión en vivo |
+| Parser de ventas Messaging → CSV/Excel | Python script | `data/scripts/parse_messaging_cli.py` |
 | Gráficos históricos de ingresos | PNG | `data/charts/` |
 | Template de producción diaria | Excel (.xlsx) | `data/templates/` |
 | Análisis de precios por temporada | PNG comparativo | `data/charts/granja_precios_temporada.png` |
@@ -116,7 +116,7 @@ Dalila
 1. **Siempre confirmar unidades** antes de calcular
 2. **Guardar datos en el repo** inmediatamente, no solo responder en chat
 3. **Generar entregables descargables** (Excel, PNG, PDF) además de mensajes de texto
-4. **Crear parsers reutilizables** para formatos recurrentes (ventas WhatsApp)
+4. **Crear parsers reutilizables** para formatos recurrentes (ventas Messaging)
 5. **Mantener historial de correcciones** para no repetir preguntas
 
 ---
@@ -126,20 +126,20 @@ Dalila
 | Patrón | Cliente A (Granja Cabral) | Cliente B (ej. Peluquería) | Cliente C (ej. Clínica) |
 |---|---|---|---|
 | Datos crudos → Cálculos | Aves, gastos, precios | Citas, servicios, productos | Pacientes, tratamientos, costos |
-| Chat → Estructurado | Ventas WhatsApp → CSV | Agendamiento → calendario | Historias clínicas → base de datos |
+| Chat → Estructurado | Ventas Messaging → CSV | Agendamiento → calendario | Historias clínicas → base de datos |
 | Investigación de mercado | Precio del huevo, CAH | Tendencias de belleza | Regulaciones sanitarias |
 | Reportes automáticos | Gráficos mensuales | Ranking de servicios | Estadísticas de pacientes |
 
 **Infraestructura reutilizable:**
-- WhatsApp → Parser → Supabase/CSV → Dashboard
-- Aplicable a cualquier PYME que opere vía WhatsApp
+- Messaging → Parser → Supabase/CSV → Dashboard
+- Aplicable a cualquier PYME que opere vía Messaging
 
 ---
 
 ## 7. Archivos Relacionados
 
 - `../interacciones-laura-2026-04-06.md` — mensajes originales de Laura
-- `../../data/scripts/parse_whatsapp_cli.py` — parser de ventas WhatsApp
+- `../../data/scripts/parse_messaging_cli.py` — parser de ventas Messaging
 - `../../data/templates/granja_produccion_template.xlsx` — template de producción
 - `../../data/charts/` — gráficos generados
 - `../../01_core_operations/financial_tracking/numeros_clave.md` — números actualizados
@@ -148,4 +148,4 @@ Dalila
 ---
 
 *Documento generado por Erebus el 18 de mayo de 2026.*
-*Última actualización: sesiones WhatsApp del 6 de abril de 2026.*
+*Última actualización: sesiones Messaging del 6 de abril de 2026.*

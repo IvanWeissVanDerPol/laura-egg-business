@@ -19,7 +19,7 @@ Incluye:
 | Carpeta | Descripción | Contenido |
 |---------|-------------|-----------|
 | `templates/` | Plantillas editables | Tracking, database |
-| `source_data/` | Datos originales | Excel Laura, WhatsApp |
+| `source_data/` | Datos originales | Excel Laura, Messaging |
 | `quick_guides/` | Guías rápidas | Start guide |
 
 ---
@@ -39,7 +39,7 @@ Incluye:
 Archivos originales de Laura (en `source_data/`):
 - `ventas huevos laura y jorge 01 jun - 26 dic 2024.xlsx`
 - `Ingresos y Egresos.xlsx`
-- Chat WhatsApp con VENTAS
+- Chat Messaging con VENTAS
 - Notas de ventas 2024
 
 ---

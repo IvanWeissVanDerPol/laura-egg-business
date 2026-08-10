@@ -121,7 +121,7 @@ Central   Tourism
 ### Pre-Delivery Checklist
 
 **Day Before:**
-- [ ] Confirm all orders via WhatsApp
+- [ ] Confirm all orders via Messaging
 - [ ] Calculate total volume needed
 - [ ] Check vehicle condition
 - [ ] Verify cooler temperature
@@ -233,7 +233,7 @@ After each delivery:
 ### Order Confirmation
 
 **Send by:** Previous day, 6 PM
-**Method:** WhatsApp message
+**Method:** Messaging message
 
 ```
 Hola [Customer]! 

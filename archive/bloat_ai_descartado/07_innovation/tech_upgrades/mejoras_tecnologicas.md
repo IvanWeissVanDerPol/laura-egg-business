@@ -55,10 +55,10 @@ La granja de Laura tiene ~80-100 gallinas. Los mismos desafíos existen en todas
 - **Hallazgo clave**: Capacitación + acceso al mercado > solo dar equipos
 - **Lección**: Enfocarse en quién compra los huevos, no solo en producir más
 
-### 🇰🇪 Kenia — WhatsApp Business para Huevos
-- **Modelo**: Grupos de WhatsApp para pedidos a granel + programación de delivery
+### 🇰🇪 Kenia — Messaging Business para Huevos
+- **Modelo**: Grupos de Messaging para pedidos a granel + programación de delivery
 - **Resultados**: Agricultores reportan 40% menos huevos sin vender
-- **Lección**: Catálogo WhatsApp Business + programación de delivery = gestión moderna de granja sin software costoso
+- **Lección**: Catálogo Messaging Business + programación de delivery = gestión moderna de granja sin software costoso
 
 ---
 
@@ -66,7 +66,7 @@ La granja de Laura tiene ~80-100 gallinas. Los mismos desafíos existen en todas
 
 | App | Por Qué Usarla | Cómo |
 |-----|----------------|------|
-| **WhatsApp Business** | Pedidos de clientes, programa de delivery, catálogo | Ya instalada |
+| **Messaging Business** | Pedidos de clientes, programa de delivery, catálogo | Ya instalada |
 | **Google Sheets** | Rastrear huevos producidos, vendidos, ingresos diarios | Gratis, celular + computadora |
 | **Google Calendar** | Programa de vacunación, recordatorios de limpieza de gallinero | Gratis, sincronizada en todas partes |
 | **Google Photos** | Tomar fotos fechadas del gallinero, gallinas, huevos | Seguimiento visual del progreso |
@@ -81,14 +81,14 @@ La granja de Laura tiene ~80-100 gallinas. Los mismos desafíos existen en todas
 
 ## Victoria Rápida de Tecnología para Esta Semana
 
-**Instalar WhatsApp Business en el celular de Laura:**
-1. Descargar WhatsApp Business (separado de WhatsApp regular)
+**Instalar Messaging Business en el celular de Laura:**
+1. Descargar Messaging Business (separado de Messaging regular)
 2. Configurar catálogo con fotos de tamaños de huevo (T1, T2, T3, Jumbo)
 3. Configurar saludo automatizado: "Hola! Vendemos huevos frescos de campo"
 4. Configurar mensaje de ausencia para fuera de horario
 5. Crear etiquetas: "Cliente nuevo", "Pedido pendiente", "Frecuente"
 
-**Impacto**: Estudios muestran que clientes de WhatsApp Business gastan 30% más y piden 2x más frecuentemente que clientes por teléfono.
+**Impacto**: Estudios muestran que clientes de Messaging Business gastan 30% más y piden 2x más frecuentemente que clientes por teléfono.
 
 ---
 
@@ -155,7 +155,7 @@ egg production loss in hot climates.
 
 > **La mejor tecnología es la más simple que realmente usarás.**
 
-- WhatsApp Business = gratis, ya la tiene, mayor ROI
+- Messaging Business = gratis, ya la tiene, mayor ROI
 - Iluminación LED con temporizador = G. 40,000, +10-15% huevos
 - Bebedero de pezón = G. 60,000, rebaño más saludable
 - Seguimiento en Google Sheets = gratis, mejores decisiones

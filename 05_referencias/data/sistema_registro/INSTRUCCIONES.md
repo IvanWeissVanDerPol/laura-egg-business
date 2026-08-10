@@ -1,6 +1,6 @@
 # Sistema de Registro - Granja Cabral
 
-## Cómo registrar por WhatsApp
+## Cómo registrar por Messaging
 
 Laura solo necesita enviar mensajes al grupo con este formato simple:
 

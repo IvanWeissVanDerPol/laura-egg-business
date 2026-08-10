@@ -6,7 +6,7 @@
 |---|---|
 | Mensajes de Laura | 19 |
 | Respuestas de IA + Tool calls | 59 |
-| Archivos procesados | 2 ZIPs (Excel + chat WhatsApp) |
+| Archivos procesados | 2 ZIPs (Excel + chat Messaging) |
 | Audios transcritos | 2 |
 | Líneas de chat parseadas | 9,153 |
 | Registros de venta extraídos | 4,284 |
@@ -34,7 +34,7 @@ data/
     granja_ventas_por_tipo.png
     granja_precios_temporada.png
   scripts/
-    parse_whatsapp_cli.py (mejorado)
+    parse_messaging_cli.py (mejorado)
   templates/
     granja_produccion_template.xlsx
   raw/

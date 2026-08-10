@@ -68,7 +68,7 @@ Crear una marca con identidad propia que cuente la historia de las gallinas.
 - **Beneficio Laura:** Ingreso predecible cada mes
 
 ### Implementación:
-1. Crear grupo de WhatsApp "Clientes Premium"
+1. Crear grupo de Messaging "Clientes Premium"
 2. Ofrecer a 5-10 familias iniciales
 3. Entrega semanal o cada 2 semanas
 
@@ -119,7 +119,7 @@ Crear una marca con identidad propia que cuente la historia de las gallinas.
 ## 💡 IDEA 6: SERVICIO "HUEVO EXPRESS"
 
 ### Modelo: Delivery premium
-- WhatsApp: Pedido → Entrega en 2-4 horas
+- Messaging: Pedido → Entrega en 2-4 horas
 - Costo: G. 5.000 adicional por delivery
 - Zona: Radio 15 km desde la granja
 
@@ -169,7 +169,7 @@ Crear una marca con identidad propia que cuente la historia de las gallinas.
 
 ### Semana 2:
 - [ ] Diseñar empaque básico (caja con ventana)
-- [ ] Crear mensaje para WhatsApp de ventas
+- [ ] Crear mensaje para Messaging de ventas
 - [ ] Contactar 3 familias conocidas
 
 ### Semana 3:
@@ -266,10 +266,10 @@ de pasto, insectos y semillas además del balanceado.
 ### Modelo Directo — Holy Eggs Argentina
 - **100% de huevos pre-vendidos**
 - **0% de huevos no vendidos**
-- WhatsApp + entregas programadas
+- Messaging + entregas programadas
 
 ### Plan de Implementación
-1. **Semana 1**: Crear grupo WhatsApp "Clientes Premium"
+1. **Semana 1**: Crear grupo Messaging "Clientes Premium"
 2. **Semana 2**: 5-10 familias como clientes iniciales
 3. **Semana 3**: 2 días fijos de entrega (ej: Martes + Viernes)
 4. **Mes 2**: Primer restaurant (DECO ya contactado)
@@ -301,7 +301,7 @@ Carne de gallina seca y salada, producto tradicional paraguayo.
 ### Canales de Venta
 - Tiendas de abarrotes en Oviedo
 - Restaurantes (para caldos/sopas)
-- WhatsApp directo
+- Messaging directo
 - Ferias locales
 
 ---
@@ -346,17 +346,17 @@ Carne de gallina seca y salada, producto tradicional paraguayo.
 ### Semana 1 — Fundamentos
 - [ ] Elegir nombre de marca (sugerencia: "Huevos del Campo Cabral")
 - [ ] Crear logo simple (Canva o pedir a amigo)
-- [ ] **WhatsApp Business**: Subir catálogo con fotos de huevos por tamaño
+- [ ] **Messaging Business**: Subir catálogo con fotos de huevos por tamaño
 
 ### Semana 2 — Productos
 - [ ] Definir 3 productos premium (huevos pastoriles, suscripción, cecinia)
 - [ ] Crear empaque básico (caja con ventana)
-- [ ] Preparar mensaje de WhatsApp de ventas
+- [ ] Preparar mensaje de Messaging de ventas
 
 ### Semana 3 — Clientes
 - [ ] Contactar 5-10 familias conocidas
 - [ ] **Visitar Restaurant DECO** (ya tenemos el número: +595 975 929216)
-- [ ] Crear grupo "Clientes Premium" en WhatsApp
+- [ ] Crear grupo "Clientes Premium" en Messaging
 
 ### Semana 4 — Escalar
 - [ ] Lanzar "Suscripción del Mes" (3-5 clientes iniciales)

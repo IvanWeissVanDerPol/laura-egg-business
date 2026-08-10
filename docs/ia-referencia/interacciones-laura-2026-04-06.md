@@ -1,7 +1,7 @@
 # Historial de Mensajes — Laura Cabral → IA (Erebus)
 
 > **Fecha:** 6 de abril de 2026
-> **Fuente:** WhatsApp directo a Erebus (Ai-Whisperers)
+> **Fuente:** Messaging directo a Erebus (Ai-Whisperers)
 > **Sesiones:**
 > - `20260406_133453_f00a7501` — Análisis financiero y operativo
 > - `20260406_123311_8174e741` — Documentos, audios y automatización
@@ -99,7 +99,7 @@ Quiero que busques mas información sobre el crédito CAH
 ### Mensaje 4 — 2026-04-06 13:40:36
 
 ```
-[The user sent a document: 'Chat_de_WhatsApp_con_VENTAS_______-1.zip'. The file is saved at: /root/.hermes/document_cache/doc_022a26b8cd1c_Chat_de_WhatsApp_con_VENTAS_______-1.zip. Ask the user what they'd like you to do with it.]
+[The user sent a document: 'Chat_de_Messaging_con_VENTAS_______-1.zip'. The file is saved at: /root/.hermes/document_cache/doc_022a26b8cd1c_Chat_de_Messaging_con_VENTAS_______-1.zip. Ask the user what they'd like you to do with it.]
 
 Acá tenes los datos más actualizados, verifica si podes usar mi programa para extrar los datos y verifica que no haya errores o outliers
 ```

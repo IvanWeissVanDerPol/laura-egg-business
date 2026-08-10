@@ -69,7 +69,7 @@ GRANJA CABRAL
 ### Canal Directo (Mayor margen)
 - Venta en granja
 - Delivery propio
-- WhatsApp pedidos
+- Messaging pedidos
 
 ### Canal HORECA (Hoteles/Restaurantes/Comercios)
 - Ventas personales

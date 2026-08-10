@@ -12,7 +12,7 @@ Para convertir la Granja Cabral en una operación inteligente (IoT) **no se nece
 
 ### 2. Sensor de Temperatura y Humedad WiFi
 - **Costo Aproximado:** $20 a $30 USD (Ej: *SwitchBot Meter*, *Tuya Smart Sensor*).
-- **¿Qué provee?** Un pequeño aparato a pila que se cuelga en el medio del galpón. Mide el clima interno y envía una alerta al WhatsApp o celular de Laura si hace demasiado calor.
+- **¿Qué provee?** Un pequeño aparato a pila que se cuelga en el medio del galpón. Mide el clima interno y envía una alerta al Messaging o celular de Laura si hace demasiado calor.
 - **¿Por qué vale la pena?** (Prevención de Pérdidas)
   El calor extremo (>30°C) causa "Estrés Térmico" en las aves. Dejan de comer, ponen huevos más pequeños, con cáscara frágil, o peor: se mueren masivamente. Si a Laura le llega una alerta a su celular de que el galpón está a 33°C, puede llamar inmediatamente al peón para que encienda los ventiladores, salvando miles de Guaraníes en un solo día.
 

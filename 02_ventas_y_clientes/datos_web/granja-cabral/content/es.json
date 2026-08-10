@@ -9,7 +9,7 @@
       "business.story.mission/vision/values — borrador pendiente de aprobación del propietario",
       "business.stats (500 gallinas, 300 negocios) — estimaciones pendientes de revisión",
       "business.sustainability.biogas (false) — aspiracional, no operativo aún",
-      "business.whatsapp, phone, email, instagram — marcar confirmados cuando Laura valide los contactos"
+      "business.messaging, phone, email, instagram — marcar confirmados cuando Laura valide los contactos"
     ]
   },
 
@@ -31,7 +31,7 @@
     "department": "Caaguazú",
     "country": "Paraguay",
     "phone": "+595981324569",
-    "whatsapp": "+595981324569",
+    "messaging": "+595981324569",
     "email": "info@granjacabral.com",
     "instagram": "@granjacabral",
     "hours": {
@@ -117,7 +117,7 @@
   "navigation": {
     "businessName": "Granja Cabral",
     "ctaText": "Hacer pedido",
-    "ctaHref": "https://wa.me/595981324569",
+    "ctaHref": "tel:+595981324569",
     "navItems": [
       { "label": "Productos", "href": "/s/es/granja-cabral/productos" },
       { "label": "Mayorista", "href": "/s/es/granja-cabral/mayorista" },
@@ -143,7 +143,7 @@
           "description": "En Coronel Oviedo centro y Ruta 2 cercana.",
           "bgColor": "#27ae60",
           "textColor": "#ffffff",
-          "link": "https://wa.me/595981324569"
+          "link": "tel:+595981324569"
         },
         {
           "id": "mayorista",
@@ -175,7 +175,7 @@
 
     "openHours": {
       "openLabel": "Abierto — atendiendo pedidos",
-      "closedLabel": "Cerrado — dejanos tu mensaje por WhatsApp",
+      "closedLabel": "Cerrado — dejanos tu mensaje por Messaging",
       "showHours": true,
       "hours": {
         "Lunes": "07:00 - 18:00",
@@ -200,8 +200,8 @@
     "hero": {
       "headline": "Granja Cabral",
       "subheadline": "Huevos frescos recolectados diariamente de nuestras gallinas criadas con cuidado. Delivery en Coronel Oviedo y Ruta 2.",
-      "ctaPrimaryText": "Pedir por WhatsApp",
-      "ctaPrimaryHref": "https://wa.me/595981324569",
+      "ctaPrimaryText": "Pedir por Messaging",
+      "ctaPrimaryHref": "tel:+595981324569",
       "backgroundImage": "/sites/granja-cabral/images/hero/hero-bg.png",
       "backgroundImageMobile": "/sites/granja-cabral/images/hero/hero-bg-mobile.png",
       "trustBadges": [
@@ -325,8 +325,8 @@
 
     "contact": {
       "title": "Contactanos",
-      "subtitle": "La forma más rápida de hacer pedidos es por WhatsApp.",
-      "whatsapp": "+595981324569",
+      "subtitle": "La forma más rápida de hacer pedidos es por Messaging.",
+      "messaging": "+595981324569",
       "email": "info@granjacabral.com",
       "address": "Ruta 2, Km 125-140, Coronel Oviedo"
     },
@@ -338,7 +338,7 @@
       "heroTitleAccent": "para tu restaurante, panadería u hotel",
       "heroSubtitle": "Proveedor confiable de huevos frescos en Coronel Oviedo y zona. Más de 300 negocios confían en nosotros.",
       "claimLine": "Unite a los más de 300 negocios que confían en Granja Cabral.",
-      "urgentMessage": "Si tenés una emergencia y necesitás huevos hoy, escribinos por WhatsApp con la palabra \"URGENTE\" y coordinamos entrega express."
+      "urgentMessage": "Si tenés una emergencia y necesitás huevos hoy, escribinos por Messaging con la palabra \"URGENTE\" y coordinamos entrega express."
     },
 
     "recipes": {},
@@ -353,26 +353,26 @@
         { "category": "Producto", "question": "¿Usan antibióticos u hormonas?", "answer": "No. Nuestras gallinas crecen de manera natural, sin antibióticos de crecimiento ni hormonas. Si una gallina requiere tratamiento médico, se retira de la producción durante el tiempo necesario. Priorizamos el bienestar animal y la calidad natural." },
         { "category": "Producto", "question": "¿Qué comen sus gallinas?", "answer": "Reciben una dieta balanceada de maíz, soja triturada, minerales esenciales y agua limpia. Esta alimentación les proporciona los nutrientes necesarios para producir huevos de alta calidad." },
         { "category": "Producto", "question": "¿Cómo puedo verificar la frescura de un huevo?", "answer": "Una prueba simple es sumergir el huevo en agua: los huevos frescos se hunden y quedan horizontales, mientras que los más viejos flotan o se ponen verticales. También podés revisar la yema al abrirlo: debe ser firme y mantener su forma, y la clara debe ser espesa, no aguada." },
-        { "category": "Pedidos", "question": "¿Hacen delivery? ¿A qué zonas?", "answer": "Sí, realizamos delivery en Coronel Oviedo centro y zonas cercanas de Ruta 2 (Km 120-150). Los costos varían según la distancia: centro 5.000 Gs, Ruta 2 cercana 8.000 Gs, Ruta 2 lejana 12.000 Gs. Consultanos por WhatsApp para confirmar tu zona específica." },
+        { "category": "Pedidos", "question": "¿Hacen delivery? ¿A qué zonas?", "answer": "Sí, realizamos delivery en Coronel Oviedo centro y zonas cercanas de Ruta 2 (Km 120-150). Los costos varían según la distancia: centro 5.000 Gs, Ruta 2 cercana 8.000 Gs, Ruta 2 lejana 12.000 Gs. Consultanos por Messaging para confirmar tu zona específica." },
         { "category": "Pedidos", "question": "¿Cuál es el mínimo de compra para delivery?", "answer": "Depende de la zona: centro 15.000 Gs, Ruta 2 cercana 20.000 Gs, Ruta 2 lejana 30.000 Gs. Envío gratis en compras mayores a 50.000 Gs (centro), 70.000 Gs (Ruta 2 cercana) o 100.000 Gs (Ruta 2 lejana)." },
         { "category": "Pedidos", "question": "¿A qué horas realizan las entregas?", "answer": "De lunes a sábado, en dos franjas: mañana (08:00 - 12:00) y tarde (14:00 - 18:00). El horario específico depende de tu zona y la demanda del día. Podés solicitar una franja horaria preferida y haremos lo posible por cumplirla." },
         { "category": "Pedidos", "question": "¿Puedo programar entregas recurrentes?", "answer": "¡Absolutamente! Ofrecemos suscripciones semanales con 5% de descuento. Elegís la cantidad de huevos y la frecuencia, y nosotros te los llevamos automáticamente. Podés pausar, modificar o cancelar en cualquier momento con 48 horas de anticipación." },
-        { "category": "Pedidos", "question": "¿Qué pasa si no estoy cuando llegue el delivery?", "answer": "Te contactamos por WhatsApp o llamada 15 minutos antes de llegar. Si no estás, podemos dejar el pedido con un vecino de confianza (si nos autorizás), reprogramar la entrega para el mismo día si es posible, o coordinar retiro en la granja." },
-        { "category": "Pedidos", "question": "¿Cómo puedo hacer un pedido?", "answer": "La forma más rápida es por WhatsApp. Escribinos con tu nombre, dirección, productos y cantidades deseadas. Respondemos en minutos y coordinamos la entrega. También podés llamarnos directamente o pasar a retirar por la granja." },
+        { "category": "Pedidos", "question": "¿Qué pasa si no estoy cuando llegue el delivery?", "answer": "Te contactamos por Messaging o llamada 15 minutos antes de llegar. Si no estás, podemos dejar el pedido con un vecino de confianza (si nos autorizás), reprogramar la entrega para el mismo día si es posible, o coordinar retiro en la granja." },
+        { "category": "Pedidos", "question": "¿Cómo puedo hacer un pedido?", "answer": "La forma más rápida es por Messaging. Escribinos con tu nombre, dirección, productos y cantidades deseadas. Respondemos en minutos y coordinamos la entrega. También podés llamarnos directamente o pasar a retirar por la granja." },
         { "category": "Conservación", "question": "¿Cuánto duran los huevos frescos?", "answer": "Nuestros huevos son recolectados diariamente. Refrigerados a 4 °C, duran hasta 4-5 semanas en perfectas condiciones. En temperatura ambiente (menos de 25 °C), se recomienda consumirlos dentro de 2-3 semanas." },
         { "category": "Conservación", "question": "¿Debo guardar los huevos en la heladera?", "answer": "Sí, para máxima frescura y duración. La temperatura ideal es entre 2 °C y 4 °C. Guardalos en su caja original con la punta más gruesa hacia arriba (esto mantiene la yema centrada)." },
         { "category": "Conservación", "question": "¿Es seguro consumir huevos crudos?", "answer": "Aunque nuestros huevos son frescos y de alta calidad, consumir huevos crudos siempre conlleva un riesgo mínimo de salmonella. Para recetas que requieren huevo crudo (mayonesa, tiramisú, etc.), usá huevos muy frescos y mantené todo bien refrigerado." },
         { "category": "Conservación", "question": "¿Cómo debo lavar los huevos antes de usar?", "answer": "Si el huevo está sucio, lavalo justo antes de usar con agua tibia y jabón suave, secándolo inmediatamente. No laves los huevos antes de guardarlos: esto remueve la capa protectora natural (cutícula) y reduce su vida útil." },
         { "category": "Conservación", "question": "¿Puedo congelar huevos?", "answer": "No es recomendable congelar huevos enteros con cáscara, ya que el líquido se expande y puede romperla. Podés batir los huevos y congelar el líquido en bolsas o moldes de hielo. Duran hasta 6 meses congelados." },
         { "category": "Mayoristas", "question": "¿Tienen precios especiales para negocios?", "answer": "Sí. Bronce (100-300 huevos/semana) 10% OFF, Plata (300-600 huevos/semana) 15% OFF, Oro (600+ huevos/semana) 20% OFF. Además incluimos delivery programado, facturación y atención prioritaria." },
-        { "category": "Mayoristas", "question": "¿Cuál es el proceso para convertirme en cliente mayorista?", "answer": "Escribinos por WhatsApp con la palabra \"MAYORISTA\". Te pedimos información básica de tu negocio (tipo, consumo estimado, ubicación). Te enviamos una cotización personalizada. Hacés un pedido de prueba sin compromiso. Si te gusta, establecemos un plan regular." },
+        { "category": "Mayoristas", "question": "¿Cuál es el proceso para convertirme en cliente mayorista?", "answer": "Escribinos por Messaging con la palabra \"MAYORISTA\". Te pedimos información básica de tu negocio (tipo, consumo estimado, ubicación). Te enviamos una cotización personalizada. Hacés un pedido de prueba sin compromiso. Si te gusta, establecemos un plan regular." },
         { "category": "Mayoristas", "question": "¿Emiten factura para empresas?", "answer": "Sí, emitimos factura con todos los datos de tu empresa. Podemos facturar mensualmente consolidado (una factura al mes por todas las entregas) o por cada entrega, según prefieras. Aceptamos transferencia bancaria, giros y efectivo." },
         { "category": "Mayoristas", "question": "¿Hay contrato mínimo de tiempo?", "answer": "No hay contratos forzosos. Podés empezar con un pedido de prueba y luego establecer un suministro regular si te gusta la calidad. Para clientes Oro y Platinum que quieran bloquear precios por 3-6 meses, sí solicitamos un compromiso mínimo de volumen." },
         { "category": "Mayoristas", "question": "¿Qué pasa si necesito un pedido urgente?", "answer": "Entendemos las emergencias. Con gusto coordinamos entregas adicionales cuando sea posible. Los clientes Plata, Oro y Platinum tienen prioridad para entregas urgentes. Escribinos con la palabra \"URGENTE\" y haremos lo posible por ayudarte." },
         { "category": "Sostenibilidad", "question": "¿Cómo manejan los residuos de la granja?", "answer": "Implementamos un sistema de compostaje que transforma la gallinaza y residuos orgánicos en abono de alta calidad. Ese compost lo vendemos a jardineros y agricultores locales, cerrando el ciclo de sustentabilidad." },
         { "category": "Sostenibilidad", "question": "¿Tienen certificación orgánica?", "answer": "Estamos en proceso de certificación SENACSA y evaluando la certificación orgánica a futuro. Aunque no somos 100% orgánicos certificados, trabajamos bajo estándares de calidad, usamos prácticas sostenibles y priorizamos el bienestar animal." },
         { "category": "Sostenibilidad", "question": "¿Es ética la forma en que tratan a las gallinas?", "answer": "Absolutamente. Viven en galpones espaciosos con ventilación natural, acceso a luz solar y áreas para comportamientos naturales como picotear y descansar. Reciben alimentación balanceada, agua limpia y atención veterinaria regular." },
-        { "category": "Sostenibilidad", "question": "¿Puedo visitar la granja?", "answer": "¡Por supuesto! Te invitamos a conocer nuestras instalaciones. Podés ver cómo trabajamos, conocer a nuestras gallinas y entender por qué nuestros huevos son diferentes. Coordinamos visitas de lunes a sábado previa cita por WhatsApp." },
+        { "category": "Sostenibilidad", "question": "¿Puedo visitar la granja?", "answer": "¡Por supuesto! Te invitamos a conocer nuestras instalaciones. Podés ver cómo trabajamos, conocer a nuestras gallinas y entender por qué nuestros huevos son diferentes. Coordinamos visitas de lunes a sábado previa cita por Messaging." },
         { "category": "Sostenibilidad", "question": "¿Tienen planes de expansión?", "answer": "Sí, tenemos un plan de crecimiento a 4 fases que incluye aumentar la capacidad de 500 a 3.000 gallinas, agregar productos de valor agregado (huevo líquido, fideos con huevo, etc.), expandir zonas de delivery y eventualmente certificarnos para exportación." },
         { "category": "General", "question": "¿Venden pollos vivos o procesados?", "answer": "Vendemos pollos limpios y listos para cocinar (procesados), no vivos. Los pollos enteros y pollitos tiernos requieren pedido con 24 horas de anticipación para garantizar frescura. También ofrecemos pollo en piezas (pechugas, piernas, alitas) por pedido." },
         { "category": "General", "question": "¿Aceptan tarjeta de crédito o débito?", "answer": "Aceptamos efectivo, transferencia bancaria y giros. Estamos trabajando en integrar tarjetas y pagos digitales próximamente. Para pedidos grandes o regulares, podemos coordinar otros métodos de pago." },
@@ -389,8 +389,8 @@
     "hero": {
       "headline": "Recetas con huevos frescos",
       "subheadline": "15 recetas paraguayas clásicas y modernas pensadas para huevos de granja. De tu cocina directo a la mesa.",
-      "ctaPrimaryText": "Pedir huevos por WhatsApp",
-      "ctaPrimaryHref": "https://wa.me/595981324569"
+      "ctaPrimaryText": "Pedir huevos por Messaging",
+      "ctaPrimaryHref": "tel:+595981324569"
     }
   },
 
@@ -402,8 +402,8 @@
     "hero": {
       "headline": "Huevos frescos para tu negocio",
       "subheadline": "Proveedor confiable para restaurantes, panaderías, hoteles y supermercados. Delivery programado, facturación mensual, atención directa con el dueño.",
-      "ctaPrimaryText": "Solicitar cotización por WhatsApp",
-      "ctaPrimaryHref": "https://wa.me/595981324569"
+      "ctaPrimaryText": "Solicitar cotización por Messaging",
+      "ctaPrimaryHref": "tel:+595981324569"
     }
   },
 
@@ -415,8 +415,8 @@
     "hero": {
       "headline": "Nuestros productos",
       "subheadline": "Huevos, pollo y fertilizante orgánico — directo de la granja a tu mesa.",
-      "ctaPrimaryText": "Pedir por WhatsApp",
-      "ctaPrimaryHref": "https://wa.me/595981324569"
+      "ctaPrimaryText": "Pedir por Messaging",
+      "ctaPrimaryHref": "tel:+595981324569"
     }
   },
 
@@ -428,8 +428,8 @@
     "hero": {
       "headline": "Huevos frescos cada semana, sin pensar",
       "subheadline": "Suscripción semanal o quincenal con 5% de descuento, delivery gratis en pedidos recurrentes. Pausá, modificá o cancelá cuando quieras con 48 horas de aviso.",
-      "ctaPrimaryText": "Activar suscripción por WhatsApp",
-      "ctaPrimaryHref": "https://wa.me/595981324569"
+      "ctaPrimaryText": "Activar suscripción por Messaging",
+      "ctaPrimaryHref": "tel:+595981324569"
     },
     "plans": {
       "title": "Planes de suscripción",
@@ -451,7 +451,7 @@
       "headline": "Producción responsable",
       "subheadline": "Compostaje, reutilización de agua, bienestar animal y fertilizante orgánico: cerramos el ciclo para que cada huevo tenga el menor impacto posible.",
       "ctaPrimaryText": "Visitá la granja",
-      "ctaPrimaryHref": "https://wa.me/595981324569"
+      "ctaPrimaryHref": "tel:+595981324569"
     }
   },
 
@@ -464,7 +464,7 @@
       "headline": "Desde la granja",
       "subheadline": "Recetas, tips y historias del campo. Nuevo contenido cada semana.",
       "ctaPrimaryText": "Suscribirme al newsletter",
-      "ctaPrimaryHref": "https://wa.me/595981324569"
+      "ctaPrimaryHref": "tel:+595981324569"
     }
   },
 
@@ -478,20 +478,20 @@
       "headline": "Sobre Granja Cabral",
       "subheadline": "Una granja familiar en Coronel Oviedo con compromiso con la calidad, la comunidad y el bienestar animal.",
       "ctaPrimaryText": "Visitar la granja",
-      "ctaPrimaryHref": "https://wa.me/595981324569"
+      "ctaPrimaryHref": "tel:+595981324569"
     }
   },
 
   "contactoPage": {
     "seo": {
       "title": "Contacto — Granja Cabral",
-      "description": "Hacé tu pedido por WhatsApp, llamanos o visitá la granja. Atendemos en Coronel Oviedo y zona de Ruta 2, de lunes a sábado de 07:00 a 18:00."
+      "description": "Hacé tu pedido por Messaging, llamanos o visitá la granja. Atendemos en Coronel Oviedo y zona de Ruta 2, de lunes a sábado de 07:00 a 18:00."
     },
     "hero": {
       "headline": "Contactanos",
-      "subheadline": "WhatsApp es la forma más rápida. También podés llamar o visitarnos previa cita.",
-      "ctaPrimaryText": "WhatsApp",
-      "ctaPrimaryHref": "https://wa.me/595981324569"
+      "subheadline": "Messaging es la forma más rápida. También podés llamar o visitarnos previa cita.",
+      "ctaPrimaryText": "Messaging",
+      "ctaPrimaryHref": "tel:+595981324569"
     }
   },
 
@@ -501,7 +501,7 @@
     "copyright": "© 2026 Granja Cabral"
   },
 
-  "whatsapp": {
+  "messaging": {
     "phone": "+595981324569",
     "message": "¡Hola! Vi su página web y me interesa hacer un pedido de huevos. ¿Me podés dar más información?"
   }

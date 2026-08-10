@@ -125,7 +125,7 @@ Look for these warning signs:
 ### Strategy 1: Bulk Purchasing Cooperatives
 - Partner with 3-5 other farms to buy feed together
 - **Typical savings**: 10-20% on bulk orders
-- **How**: WhatsApp group, one person orders for everyone
+- **How**: Messaging group, one person orders for everyone
 - **Volume needed**: Usually 20+ bags for bulk discount
 
 ### Strategy 2: Homegrown Feed Alternatives

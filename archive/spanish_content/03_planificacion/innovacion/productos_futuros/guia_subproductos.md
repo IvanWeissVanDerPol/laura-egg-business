@@ -28,7 +28,7 @@ Laura tiene ~100 gallinas. A los 18 meses, reemplaza ~30-40% del rebaño cada a�
 - **Precio**: G. 15,000-25,000 cada una
 - **Dónde**: Vecinos, familia, restaurantes pequeños
 - **Uso**: Guiso, sopas, platos tradicionales
-- **Esfuerzo**: Bajo — solo publicitar en WhatsApp
+- **Esfuerzo**: Bajo — solo publicitar en Messaging
 
 #### Opción 2: Cecinia / Chicharrón de Pollo (MÁS VALOR)
 - **Qué**: Pollo seco y salado tradicional
@@ -89,7 +89,7 @@ Eso es **5.5 toneladas de estiércol anualmente** que la mayoría de las granjas
 ### Ingreso Rápido: Vender Estiércol Crudo
 - **A**: Agricultores de cultivos, jardineros, tiendas de plantas en Coronel Oviedo
 - **Precio**: G. 5,000-8,000 por saco grande
-- **Esfuerzo**: Solo envasar y publicitar en WhatsApp
+- **Esfuerzo**: Solo envasar y publicitar en Messaging
 - **Frecuencia**: Puede recolectar y vender mensualmente durante la limpieza
 
 ### Mejor Ingreso: Compost Caliente
@@ -186,7 +186,7 @@ Las aves muertas son sensibles. La mayoría de las granjas las entierran o quema
 ## Acciones Prioritarias Recomendadas
 
 ### Inmediatas (Este Mes)
-1. **Vender gallinas viejas vivas** → G. 20,000 cada una por WhatsApp
+1. **Vender gallinas viejas vivas** → G. 20,000 cada una por Messaging
 2. **Envasar y vender estiércol** → G. 5,000/saco a agricultores locales
 3. **Reciclar cáscaras** → Ahorrar G. 40,000/año en costos de calcio
 

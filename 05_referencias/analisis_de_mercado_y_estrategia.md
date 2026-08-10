@@ -57,5 +57,5 @@ Para lanzar el plan de **"Suscripción: El Maple Semanal"** (donde las familias 
 
 - **El Problema:** Los huevos se entregan en maples de cartón gris reciclado sin ninguna identificación. Parecen de contrabando o de reventa.
 - **La Mejora:** Diseñar una fajilla de papel simple (imprimible en una impresora casera) que rodee el maple. 
-  - La fajilla debe decir: *"Granja Cabral - Recolectados Hoy. Coronel Oviedo. WhatsApp: +595..."*
+  - La fajilla debe decir: *"Granja Cabral - Recolectados Hoy. Coronel Oviedo. Messaging: +595..."*
   - **Impacto:** Convierte un "huevo cualquiera" en un "huevo de marca local premium", permitiendo cobrar entre 2.000 a 4.000 Gs más por maple a los clientes directos (B2C) por el valor agregado de la frescura garantizada.

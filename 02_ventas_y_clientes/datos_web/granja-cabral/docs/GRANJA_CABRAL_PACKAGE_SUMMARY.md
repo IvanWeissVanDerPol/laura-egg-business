@@ -46,7 +46,7 @@ This package contains **everything needed** to transform Granja Cabral's website
 ### Key Insights from Research:
 - **Vital Farms (USA)** uses traceability, recipe sections, and social media integration
 - **Pete & Gerry's** focuses on product detail pages and B2B portals
-- **Local Paraguayan market** expects WhatsApp integration, local delivery, and personal relationships
+- **Local Paraguayan market** expects Messaging integration, local delivery, and personal relationships
 
 ---
 
@@ -61,7 +61,7 @@ This package contains **everything needed** to transform Granja Cabral's website
   - "Our Story" page template
   - 5 essential recipes to start with
   - 10 most important FAQs
-- **Technical setup guide** (Google Analytics, WhatsApp Business, Google Business Profile)
+- **Technical setup guide** (Google Analytics, Messaging Business, Google Business Profile)
 - **Subscription service launch steps**
 - **Referral program implementation**
 - **B2B page content template**
@@ -111,7 +111,7 @@ This package contains **everything needed** to transform Granja Cabral's website
 - ✅ Tags for categorization
 
 ### Bonus Content:
-- Recipe sharing strategy (web, social media, WhatsApp)
+- Recipe sharing strategy (web, social media, Messaging)
 - Cooking tips for best results with farm-fresh eggs
 - Egg freshness test instructions
 - Ingredient substitutions guide
@@ -144,12 +144,12 @@ This package contains **everything needed** to transform Granja Cabral's website
 7. **Testimonials** - 5 B2B customer testimonials (ready to customize)
 8. **FAQ Section** - 10 B2B-specific questions
 9. **Contact Form** - Complete form fields specification
-10. **Contact Methods** - WhatsApp, phone, email, visit
+10. **Contact Methods** - Messaging, phone, email, visit
 
 ### Ready-to-Use Content:
 - All copy is written and ready to publish
 - Placeholder spots marked with [BRACKETS] for customization
-- WhatsApp integration templates
+- Messaging integration templates
 - SEO meta descriptions included
 - Call-to-action buttons throughout
 
@@ -162,7 +162,7 @@ This package contains **everything needed** to transform Granja Cabral's website
 **Week 1-2: Start Here** ⭐
 1. Read the **Quick Action Checklist** first
 2. Complete the 3 critical tasks:
-   - Get real WhatsApp number
+   - Get real Messaging number
    - Schedule photo session
    - Confirm current pricing
 3. Use the **Recipes Collection** to start posting content
@@ -212,7 +212,7 @@ This package contains **everything needed** to transform Granja Cabral's website
 
 **30 Days:**
 - 1,000+ website visitors
-- 50+ WhatsApp orders
+- 50+ Messaging orders
 - 5+ new B2B clients
 - 10+ subscription signups
 
@@ -233,7 +233,7 @@ This package contains **everything needed** to transform Granja Cabral's website
 ## 📋 IMPLEMENTATION CHECKLIST
 
 ### Phase 1: Critical (Do First) ✅
-- [ ] Replace placeholder WhatsApp number
+- [ ] Replace placeholder Messaging number
 - [ ] Professional photo session (20+ photos)
 - [ ] Google Business Profile setup
 - [ ] Update all pricing
@@ -291,7 +291,7 @@ This package contains **everything needed** to transform Granja Cabral's website
 ## 📞 NEXT STEPS
 
 ### Immediate (Today):
-1. 📧 Contact Laura to get real WhatsApp number
+1. 📧 Contact Laura to get real Messaging number
 2. 📅 Schedule photography session for this week
 3. 💰 Confirm current pricing for all products
 4. 📖 Review these documents with Laura
@@ -301,7 +301,7 @@ This package contains **everything needed** to transform Granja Cabral's website
 2. 🗺️ Set up Google Business Profile
 3. 🔄 Replace all placeholder data on website
 4. ✍️ Write "Our Story" content
-5. 🧪 Test all WhatsApp links
+5. 🧪 Test all Messaging links
 
 ### This Month:
 1. 📄 Publish expanded content
@@ -325,7 +325,7 @@ This package contains **everything needed** to transform Granja Cabral's website
 ### External Resources:
 - 📖 Google Business Help: support.google.com/business
 - 💳 MercadoPago Docs: developers.mercadopago.com
-- 📱 WhatsApp Business: business.whatsapp.com
+- 📱 Messaging Business: business.messaging.com
 - 📊 Google Analytics: analytics.google.com
 
 ### Contact:
@@ -337,7 +337,7 @@ This package contains **everything needed** to transform Granja Cabral's website
 ## ✅ SUCCESS CRITERIA
 
 ### Website is successful when:
-- [ ] WhatsApp inquiries increase 50%+
+- [ ] Messaging inquiries increase 50%+
 - [ ] New customers mention "vi tu web"
 - [ ] B2B clients find you through Google
 - [ ] People ask about subscriptions

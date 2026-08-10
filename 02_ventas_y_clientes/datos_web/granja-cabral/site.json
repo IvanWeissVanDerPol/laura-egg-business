@@ -11,7 +11,7 @@
   "contact": {
     "phone": "+595982911935",
     "email": "info@granjacabral.com",
-    "whatsapp": "+595982911935",
+    "messaging": "+595982911935",
     "instagram": "@granjacabral"
   },
   "location": {
@@ -27,7 +27,7 @@
     "analytics": "ga4"
   },
   "features": {
-    "whatsappFloat": true,
+    "messagingFloat": true,
     "testimonials": true,
     "productCatalog": true,
     "deliveryCalculator": true,

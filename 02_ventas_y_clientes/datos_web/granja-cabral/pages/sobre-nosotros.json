@@ -34,9 +34,9 @@
       "content": "footer"
     },
     {
-      "id": "whatsapp-float",
+      "id": "messaging-float",
       "variant": "standard",
-      "content": "whatsapp"
+      "content": "messaging"
     }
   ]
 }

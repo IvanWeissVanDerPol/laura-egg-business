@@ -42,7 +42,7 @@ Todas las recomendaciones tecnológicas rastreadas a fuentes primarias. Precios 
 
 ### HisabKarLay
 - **URL:** https://www.hisabkarlay.com
-- **Features:** AI poultry management, WhatsApp integration
+- **Features:** AI poultry management, Messaging integration
 - **Best for:** AI-driven insights for small farms
 
 ### Aviarai
@@ -165,7 +165,7 @@ Hallazgo clave: La demanda de equipos avícolas compactos e inteligentes está a
 
 ---
 
-## 🇰🇪 ADOPCIÓN DE WHATSAPP EN KENIA
+## 🇰🇪 ADOPCIÓN DE MESSAGING EN KENIA
 
 ```
 Organización: MEDA (ASOCIACIONES DE DESARROLLO ECONÓMICO MENONITAS)
@@ -175,10 +175,10 @@ URL: https://meda.org
 ```
 
 Hallazgos:
-- Grupos de WhatsApp para pedidos a granel + programación de delivery
-- Agricultores reportan **40% menos huevos sin vender** con pedidos organizados por WhatsApp
-- Catálogo de WhatsApp Business usado para listados de productos
-- 500+ grupos activos de avicultura por WhatsApp solo en India
+- Grupos de Messaging para pedidos a granel + programación de delivery
+- Agricultores reportan **40% menos huevos sin vender** con pedidos organizados por Messaging
+- Catálogo de Messaging Business usado para listados de productos
+- 500+ grupos activos de avicultura por Messaging solo en India
 
 ---
 
@@ -205,7 +205,7 @@ Hallazgos:
 ### Gratis / Ya Disponible
 | Herramienta | Qué Hace |
 |------|-------------|
-| WhatsApp Business | Pedidos de clientes, catálogo, programación |
+| Messaging Business | Pedidos de clientes, catálogo, programación |
 | Google Sheets | Rastrear huevos, ventas, clientes |
 | Google Calendar | Recordatorios de vacunación |
 | Google Photos | Registros visuales |

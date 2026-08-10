@@ -247,7 +247,7 @@
 
 ### Communication Plan
 - Price changes: 2 weeks notice
-- Via WhatsApp/Business
+- Via Messaging/Business
 - Written confirmation
 - Printed updated list
 
